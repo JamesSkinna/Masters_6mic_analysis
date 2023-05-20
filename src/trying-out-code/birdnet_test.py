@@ -7,10 +7,11 @@ analyzer = Analyzer()
 
 recording = Recording(
     analyzer,
-    "data/SpecificTests/Controlled_Test/mixkit-melodic-songbird-chirp-in-the-wild-68.wav",
-    # lat=51.40644012,        # Silwood Lat & Long
-    # lon=-0.63814066,
-    date=datetime(year=2023, month=4, day=25), # use date or week_48
+    # "data/SpecificTests/OverlappingBirds_Silwood/chan6.mp3",
+    "data/SpecificTests/OverlappingBirds_Silwood/6Channels/sep_chan4.mp3",
+    lat=51.409111,        # Silwood Lat & Long
+    lon=-0.637820,
+    date=datetime(year=2023, month=5, day=10), # use date or week_48
     min_conf=0.25,
 )
 recording.analyze()
