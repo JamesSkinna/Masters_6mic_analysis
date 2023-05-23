@@ -223,26 +223,27 @@ def birdnet_process_dir(folder_path):
 
 
 
-# Run our processing for all files in a given directory-------------------------------
+# Run our processing for all flac files in a given directory-------------------------------
 for root, dirs, files in os.walk(DIR_PATH):
     for name in files:
+        if name.endswith(".flac"):
 
-        original_file_path = os.path.join(root, name)
-        print(f"processing: {original_file_path}")
+            original_file_path = os.path.join(root, name)
+            print(f"processing: {original_file_path}")
 
-        print("Converting to RAW...")
-        RAW_file_path, processed_folder_path = convert_flac_to_wav(original_file_path)
+            print("Converting to RAW...")
+            RAW_file_path, processed_folder_path = convert_flac_to_wav(original_file_path)
 
-        print("Processing through ODAS...")
-        current_config_path = create_cfg_file(RAW_file_path, processed_folder_path)
-        odas_process(current_config_path)
+            print("Processing through ODAS...")
+            current_config_path = create_cfg_file(RAW_file_path, processed_folder_path)
+            odas_process(current_config_path)
 
-        print("ODAS complete. Extracting channels to MP3...")
-        extract_separate_channels(processed_folder_path)
-        extract_1_chan_from_flac(original_file_path, processed_folder_path)
+            print("ODAS complete. Extracting channels to MP3...")
+            extract_separate_channels(processed_folder_path)
+            extract_1_chan_from_flac(original_file_path, processed_folder_path)
 
-        print("MP3 extraction complete. Deleting '.raw' files.")
-        clean_up_processed_dir(processed_folder_path)
+            print("MP3 extraction complete. Deleting '.raw' files.")
+            clean_up_processed_dir(processed_folder_path)
 
-        print("Processing through BirdNET...")
-        birdnet_process_dir(processed_folder_path)
+            print("Processing through BirdNET...")
+            birdnet_process_dir(processed_folder_path)
