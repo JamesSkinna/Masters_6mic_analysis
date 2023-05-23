@@ -18,7 +18,7 @@ from birdnetlib.analyzer import Analyzer
 
 
 # Define constants
-DIR_PATH = "data/raw/manicore/test_script"    # Directory to analyse
+DIR_PATH = "data/raw/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17"    # Directory to analyse
 CONFIG_PATH = "src/configs"     # Where our ODAS config templates are located
 LOCATION_DICT = {"manicore": {"lat": -5.750849, "long":-61.421894},
                  "silwood": {"lat": 51.409111, "long":-0.637820}}
@@ -224,7 +224,7 @@ def birdnet_process_dir(folder_path):
 
 
 # Run our processing for all flac files in a given directory-------------------------------
-for root, dirs, files in os.walk(DIR_PATH):
+for root, dirs, files in os.walk(DIR_PATH, topdown=False):
     for name in files:
         if name.endswith(".flac"):
 
