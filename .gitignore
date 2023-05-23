@@ -1,1 +1,8 @@
-/data
+# Ignore all raw data (don't upload)
+data/raw*
+**.mp3
+**.json
+**.cfg
+
+# Only upload results files (after processing in ODAS & BirdNET)
+!**/results.json
