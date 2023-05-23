@@ -18,7 +18,7 @@ from birdnetlib.analyzer import Analyzer
 
 
 # Define constants
-DIR_PATH = "data/raw/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18"    # Directory to analyse
+DIR_PATH = "data/raw/manicore/test_script"    # Directory to analyse
 CONFIG_PATH = "src/configs"     # Where our ODAS config templates are located
 LOCATION_DICT = {"manicore": {"lat": -5.750849, "long":-61.421894},
                  "silwood": {"lat": 51.409111, "long":-0.637820}}
@@ -38,7 +38,7 @@ def convert_flac_to_wav(input_path):
     Returns: File path of processed RAW file"""
 
     folder_path = input_path.split(".")[0]       # New folder path
-    folder_path.replace("raw", "processed")     # Move from raw data folder to processed
+    folder_path = folder_path.replace("raw", "processed")     # Move from raw folder to processed
 
     # Setup a new folder for the processed data
     if not os.path.exists(folder_path):
@@ -215,10 +215,20 @@ def birdnet_process_dir(folder_path):
 # Run our processing for all files in a given directory-------------------------------
 for root, dirs, files in os.walk(DIR_PATH):
     for name in files:
+
         original_file_path = os.path.join(root, name)
+        print(f"processing: {original_file_path}")
+
+        print("Converting to RAW...")
         RAW_file_path, processed_folder_path = convert_flac_to_wav(original_file_path)
+
+        print("Processing through ODAS...")
         current_config_path = create_cfg_file(RAW_file_path, processed_folder_path)
         odas_process(current_config_path)
+
+        print("ODAS complete. Extracting channels to MP3...")
         extract_separate_channels(processed_folder_path)
         extract_1_chan_from_flac(original_file_path, processed_folder_path)
+
+        print("Processing through BirdNET...")
         birdnet_process_dir(processed_folder_path)
