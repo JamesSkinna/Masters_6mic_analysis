@@ -247,3 +247,4 @@ for root, dirs, files in os.walk(DIR_PATH):
 
             print("Processing through BirdNET...")
             birdnet_process_dir(processed_folder_path)
+            print("BirdNET processing complete!")
