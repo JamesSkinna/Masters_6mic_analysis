@@ -155,6 +155,17 @@ def extract_1_chan_from_flac(flac_path, folder_path):
     tfm.build(input_file, output_file)
 
 
+def clean_up_processed_dir(folder_path):
+    """Deletes all .raw files from a folder
+    --> This frees up space, as .raw files are large, but no longer required"""
+
+    for del_root, del_dirs, del_files in os.walk(folder_path):
+        for del_name in del_files:
+            if del_name.endswith(".raw"):
+                del_file_path = os.path.join(del_root, del_name)
+                os.remove(del_file_path)
+
+
 def birdnet_process_dir(folder_path):
     """Runs BirdNET analysis for all mp3 files in a given directory
     --> Processes several files simultaneously (multiprocessing)"""
@@ -229,6 +240,9 @@ for root, dirs, files in os.walk(DIR_PATH):
         print("ODAS complete. Extracting channels to MP3...")
         extract_separate_channels(processed_folder_path)
         extract_1_chan_from_flac(original_file_path, processed_folder_path)
+
+        print("MP3 extraction complete. Deleting '.raw' files.")
+        clean_up_processed_dir(processed_folder_path)
 
         print("Processing through BirdNET...")
         birdnet_process_dir(processed_folder_path)
