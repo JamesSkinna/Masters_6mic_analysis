@@ -1,0 +1,544 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.6693792343139648
+        },
+        {
+            "common_name": "Great Plains Narrow-mouthed Toad",
+            "scientific_name": "Gastrophryne olivacea",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.7804381847381592
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.4270694851875305
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.40527620911598206
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.6580498814582825
+        },
+        {
+            "common_name": "Indian Bushlark",
+            "scientific_name": "Mirafra erythroptera",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.6550551652908325
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.8068793416023254
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.4207626283168793
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4720669984817505
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.4822781980037689
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.4658188223838806
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.6137849688529968
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5327244400978088
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.4647376835346222
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.8033862113952637
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.5186427235603333
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.5903891324996948
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7190443873405457
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.9669342637062073
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9957659244537354
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.49361035227775574
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5910321474075317
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.4909628629684448
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.43398135900497437
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.7348818778991699
+        },
+        {
+            "common_name": "Yellow-breasted Apalis",
+            "scientific_name": "Apalis flavida",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.46141454577445984
+        },
+        {
+            "common_name": "Yellow-breasted Apalis",
+            "scientific_name": "Apalis flavida",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.576981246471405
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.47422221302986145
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.5110453963279724
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.9858292937278748
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.8154146671295166
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.6441139578819275
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.677291214466095
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.5585833191871643
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.5997998118400574
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.6731764674186707
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.5745769739151001
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.4396677017211914
+        }
+    ],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5462215542793274
+        },
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.4846440553665161
+        },
+        {
+            "common_name": "Great Plains Narrow-mouthed Toad",
+            "scientific_name": "Gastrophryne olivacea",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.40196239948272705
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.721717357635498
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6004070043563843
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.43852442502975464
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.841930627822876
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.4911908209323883
+        },
+        {
+            "common_name": "Rufous-faced Warbler",
+            "scientific_name": "Abroscopus albogularis",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.503254771232605
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.8763343691825867
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5727634429931641
+        },
+        {
+            "common_name": "Gray Apalis",
+            "scientific_name": "Apalis cinerea",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.452958881855011
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.42816174030303955
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.4974348545074463
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.6500146389007568
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.7725671529769897
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.7696395516395569
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.5095838308334351
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.7156190872192383
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.6036291718482971
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.7594008445739746
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.5695257782936096
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.4877461791038513
+        },
+        {
+            "common_name": "Rufous-faced Warbler",
+            "scientific_name": "Abroscopus albogularis",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.6983484625816345
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.9093908667564392
+        },
+        {
+            "common_name": "Rufous-faced Warbler",
+            "scientific_name": "Abroscopus albogularis",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.68940669298172
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5501009225845337
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.44389501214027405
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.8456053733825684
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.5843873620033264
+        },
+        {
+            "common_name": "Rufous-faced Warbler",
+            "scientific_name": "Abroscopus albogularis",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.5165755748748779
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5485439896583557
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.5269664525985718
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.4685344099998474
+        },
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.43815115094184875
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.46453168988227844
+        },
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.42968782782554626
+        }
+    ]
+}

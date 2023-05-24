@@ -1,6 +1,7 @@
-# Ignore all raw data (don't upload) - apart from lab test results
+# Ignore all raw data (don't upload) - apart from lab test
 data/raw/manicore*
 data/raw/silwood*
+data/raw/old*
 # Ignore all processed data files ending with...
 **.mp3
 **.json

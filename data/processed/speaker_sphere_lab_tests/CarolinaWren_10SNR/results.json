@@ -1,0 +1,1154 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.5965381860733032
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9919101595878601
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.7739052772521973
+        },
+        {
+            "common_name": "Bar-throated Apalis",
+            "scientific_name": "Apalis thoracica",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.8646203279495239
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.5506395697593689
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.9238077998161316
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.7065013647079468
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.9329654574394226
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4575837254524231
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.994520902633667
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.6017194390296936
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.528443455696106
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.8493812084197998
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.846038818359375
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8952697515487671
+        },
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5921863317489624
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.5694795250892639
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.6940160989761353
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.82297682762146
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.9030370116233826
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.43204426765441895
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.6817548871040344
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.8715099096298218
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9114185571670532
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.5168207883834839
+        },
+        {
+            "common_name": "Savi's Warbler",
+            "scientific_name": "Locustella luscinioides",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.4293956458568573
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.5127226710319519
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.4226956367492676
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.40534693002700806
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.8856358528137207
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8732156157493591
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.8136042356491089
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.8860017657279968
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.7252485752105713
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.7288855314254761
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.907802402973175
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.905948281288147
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.8082867860794067
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.8473918437957764
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.5045217275619507
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.4305053651332855
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.6294625997543335
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.8166014552116394
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.49199989438056946
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.7280229330062866
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.7539657354354858
+        },
+        {
+            "common_name": "Dark-necked Tailorbird",
+            "scientific_name": "Orthotomus atrogularis",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4913526773452759
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.4294326603412628
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.4540407359600067
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.49337655305862427
+        },
+        {
+            "common_name": "Oak Titmouse",
+            "scientific_name": "Baeolophus inornatus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.4090462028980255
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.6199262142181396
+        },
+        {
+            "common_name": "Oak Titmouse",
+            "scientific_name": "Baeolophus inornatus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.5004770159721375
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9444384574890137
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8537228107452393
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.7763624787330627
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9624152779579163
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.8479977250099182
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8593055009841919
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.4535820782184601
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.921729326248169
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7715240120887756
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.7284911870956421
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.7054168581962585
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.9653123617172241
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.8288435339927673
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.7427330017089844
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.8296098113059998
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.8842973113059998
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.7686736583709717
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6248038411140442
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.4813317358493805
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.405563622713089
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.5543285012245178
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.5860767960548401
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.49051252007484436
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9310796856880188
+        },
+        {
+            "common_name": "Oak Titmouse",
+            "scientific_name": "Baeolophus inornatus",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.4050796926021576
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.6884331107139587
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.6309279203414917
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.776277482509613
+        },
+        {
+            "common_name": "Middle American Screech-Owl",
+            "scientific_name": "Megascops guatemalae",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.40550529956817627
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Bar-throated Apalis",
+            "scientific_name": "Apalis thoracica",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.44581109285354614
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.6297271251678467
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.8524396419525146
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.40726974606513977
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.7199580073356628
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.8434758186340332
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.7340454459190369
+        },
+        {
+            "common_name": "Indian Bushlark",
+            "scientific_name": "Mirafra erythroptera",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.7066646814346313
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5866177678108215
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9681429266929626
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9257371425628662
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9006857872009277
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.6914363503456116
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.8320589661598206
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.8201547861099243
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.8188732266426086
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5548667907714844
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.516543447971344
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.7468924522399902
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.4935600757598877
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.648899257183075
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.9367626309394836
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6984363198280334
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.7261747717857361
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.5644612908363342
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5970804691314697
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.4984888434410095
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.7655320763587952
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.9454063773155212
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.8130624890327454
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.7137457132339478
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8421663045883179
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.841082751750946
+        },
+        {
+            "common_name": "Yellowish-bellied Bush Warbler",
+            "scientific_name": "Horornis acanthizoides",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.4243180453777313
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9390116333961487
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.8851167559623718
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8144952654838562
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.8883169293403625
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7689000964164734
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.5653870701789856
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.9169924259185791
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.560651957988739
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.7498148083686829
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.8402523994445801
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9208466410636902
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.5351129174232483
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4397142827510834
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.6855618953704834
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.7391201853752136
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.5809845924377441
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8507347702980042
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.7048404812812805
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Black-headed Apalis",
+            "scientific_name": "Apalis melanocephala",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.6777671575546265
+        },
+        {
+            "common_name": "Black-headed Apalis",
+            "scientific_name": "Apalis melanocephala",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.6090761423110962
+        },
+        {
+            "common_name": "Common Tailorbird",
+            "scientific_name": "Orthotomus sutorius",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.668533205986023
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.6890219449996948
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.7685400247573853
+        },
+        {
+            "common_name": "Oak Titmouse",
+            "scientific_name": "Baeolophus inornatus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.4671402871608734
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8099714517593384
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.4457028806209564
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.7997974157333374
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.8262737393379211
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.6434078812599182
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.5980268716812134
+        },
+        {
+            "common_name": "Yellow-breasted Apalis",
+            "scientific_name": "Apalis flavida",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.4241897165775299
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.6211980581283569
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.6069344282150269
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.6291812658309937
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.4933307468891144
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.761357307434082
+        },
+        {
+            "common_name": "Carolina Wren",
+            "scientific_name": "Thryothorus ludovicianus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7281572222709656
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.60364830493927
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5282872915267944
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.40476667881011963
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.6105493307113647
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.43066197633743286
+        },
+        {
+            "common_name": "Yellow-breasted Apalis",
+            "scientific_name": "Apalis flavida",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.41549375653266907
+        },
+        {
+            "common_name": "Yellow-breasted Apalis",
+            "scientific_name": "Apalis flavida",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.5569710731506348
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.5404321551322937
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.7787383794784546
+        }
+    ]
+}

@@ -1,0 +1,1126 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.8260882496833801
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.8760818243026733
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.8859846591949463
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.7372889518737793
+        },
+        {
+            "common_name": "Spot-breasted Wren",
+            "scientific_name": "Pheugopedius maculipectus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.43846192955970764
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8440748453140259
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.7931011915206909
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.8830063343048096
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4288591146469116
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.7387779355049133
+        },
+        {
+            "common_name": "Orange-billed Nightingale-Thrush",
+            "scientific_name": "Catharus aurantiirostris",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6387532353401184
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.49423715472221375
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.7199614644050598
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.9260772466659546
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.8920332193374634
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.748921811580658
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9345533847808838
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5331248044967651
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.751363217830658
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.6299824118614197
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5799939036369324
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.47402745485305786
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.5217100381851196
+        },
+        {
+            "common_name": "Black Phoebe",
+            "scientific_name": "Sayornis nigricans",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.4806283116340637
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.433847576379776
+        },
+        {
+            "common_name": "Small-billed Tinamou",
+            "scientific_name": "Crypturellus parvirostris",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.7109864354133606
+        },
+        {
+            "common_name": "Rufous-faced Warbler",
+            "scientific_name": "Abroscopus albogularis",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.7282695174217224
+        },
+        {
+            "common_name": "Indian Bushlark",
+            "scientific_name": "Mirafra erythroptera",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.6848689317703247
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.9474754929542542
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.897483229637146
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.8767723441123962
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.6226308941841125
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5482596755027771
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.6663644313812256
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.54729825258255
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.5292856097221375
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5422690510749817
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.5534071922302246
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.4238908290863037
+        },
+        {
+            "common_name": "Scott's Oriole",
+            "scientific_name": "Icterus parisorum",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.43051087856292725
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.4869166612625122
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.995710015296936
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4980296492576599
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5004449486732483
+        },
+        {
+            "common_name": "Small-billed Tinamou",
+            "scientific_name": "Crypturellus parvirostris",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.6268015503883362
+        },
+        {
+            "common_name": "Spotted Nothura",
+            "scientific_name": "Nothura maculosa",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9822433590888977
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.7605363726615906
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5590373277664185
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.4305471181869507
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.4563775360584259
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.48697495460510254
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.49956777691841125
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.7765514850616455
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.4821877181529999
+        },
+        {
+            "common_name": "Black Phoebe",
+            "scientific_name": "Sayornis nigricans",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.41023024916648865
+        },
+        {
+            "common_name": "Black Phoebe",
+            "scientific_name": "Sayornis nigricans",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6004701256752014
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.5605736374855042
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.8348894715309143
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.8600606918334961
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.45605817437171936
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.7977388501167297
+        },
+        {
+            "common_name": "Field Sparrow",
+            "scientific_name": "Spizella pusilla",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.468105673789978
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.5972185134887695
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.888907253742218
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.8945849537849426
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.8447402119636536
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.48276790976524353
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.781936764717102
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5757628679275513
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.921340823173523
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8696792721748352
+        },
+        {
+            "common_name": "Orange-billed Nightingale-Thrush",
+            "scientific_name": "Catharus aurantiirostris",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.7589098215103149
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.435799777507782
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6850359439849854
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.8815200328826904
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.9625099301338196
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.8713736534118652
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.7425150871276855
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9460915923118591
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.44961071014404297
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.8582616448402405
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.9260234236717224
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.5174297094345093
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.7398982644081116
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.47896865010261536
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.5922116637229919
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.8282279372215271
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.6744471192359924
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8581697940826416
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.8762232065200806
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.8852205872535706
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8913065195083618
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6485071778297424
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.8220918774604797
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.9194306135177612
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.8787174224853516
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.7849935293197632
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.6012172102928162
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9053208827972412
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.42237281799316406
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5151005983352661
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.6178040504455566
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.8294317126274109
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.7417787909507751
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.8476716876029968
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.5819944739341736
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9002381563186646
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.8711813688278198
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.8908372521400452
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.8075003027915955
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.902660608291626
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.7527493834495544
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.8753648996353149
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4434562921524048
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.9075226187705994
+        },
+        {
+            "common_name": "Orange-billed Nightingale-Thrush",
+            "scientific_name": "Catharus aurantiirostris",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5392589569091797
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.7941771149635315
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.5972038507461548
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.45289087295532227
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.804222047328949
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.9197965264320374
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.9600529074668884
+        },
+        {
+            "common_name": "Orange-headed Thrush",
+            "scientific_name": "Geokichla citrina",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.49352219700813293
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.6646994948387146
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.895465612411499
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.4911389946937561
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5487650036811829
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.8829795718193054
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8894878029823303
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.4075782597064972
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.570720374584198
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.9067131280899048
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.8652552366256714
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.5872406959533691
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.5263108015060425
+        },
+        {
+            "common_name": "Rusty Blackbird",
+            "scientific_name": "Euphagus carolinus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6400796175003052
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.8745906352996826
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.784886360168457
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.4294310212135315
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.6522494554519653
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.796446681022644
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.7692992091178894
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.4186066687107086
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5294675230979919
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.7386482357978821
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.8476203680038452
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.9359456896781921
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.9140385389328003
+        },
+        {
+            "common_name": "Orange-billed Nightingale-Thrush",
+            "scientific_name": "Catharus aurantiirostris",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.40846940875053406
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.6365453004837036
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.9331381916999817
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.8627038598060608
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.7379752397537231
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9544842839241028
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.40827250480651855
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.4294881522655487
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.707959771156311
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.8146832585334778
+        }
+    ]
+}

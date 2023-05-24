@@ -1,0 +1,794 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.7252994775772095
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.76923006772995
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.7987125515937805
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5164439678192139
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.537752091884613
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.42230626940727234
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.7672601342201233
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.6922742128372192
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5774743556976318
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.8089176416397095
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.48390480875968933
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6933985352516174
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.5530791282653809
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.4133102595806122
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.7957721948623657
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.7887146472930908
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.8844082951545715
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.5783753991127014
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.4627596437931061
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.4800334870815277
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7079452872276306
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.4741198420524597
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.7384308576583862
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.6694172620773315
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.6644119620323181
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.8860659003257751
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.5286315679550171
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5035866498947144
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.6260855197906494
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Savi's Warbler",
+            "scientific_name": "Locustella luscinioides",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.4613792300224304
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.7706560492515564
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.6770788431167603
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.40834569931030273
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.5945603847503662
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.663818895816803
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.6509273648262024
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.7204377055168152
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.41116178035736084
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.9084159135818481
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5137404203414917
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.6737281084060669
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.45533403754234314
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.5919926166534424
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.4284021258354187
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.45432814955711365
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.7686343789100647
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.5890249609947205
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.7523125410079956
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.6675487160682678
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5444022417068481
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.7129275798797607
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.4508286416530609
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.6254170536994934
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.7396866083145142
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5625736117362976
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.9338632822036743
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.43569833040237427
+        }
+    ],
+    "original_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.776046097278595
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.40676042437553406
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.6444536447525024
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.4512714743614197
+        },
+        {
+            "common_name": "Baird's Sparrow",
+            "scientific_name": "Centronyx bairdii",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.48730891942977905
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.44893282651901245
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.7499170899391174
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.818514883518219
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.6887800097465515
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5208514332771301
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.45192068815231323
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.7952739000320435
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.49805280566215515
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5037786960601807
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.6737118363380432
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5040271878242493
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.8325007557868958
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.7674961686134338
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5592666864395142
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.42080068588256836
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5589299201965332
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.7827565670013428
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.542636513710022
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.8488792777061462
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.647020697593689
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.502509355545044
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.5521058440208435
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.753640353679657
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4979064166545868
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5476876497268677
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.7522751092910767
+        }
+    ],
+    "sep_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.5765465497970581
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.7076115608215332
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.5187282562255859
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4440019130706787
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.6243302226066589
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.6525264978408813
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5602595210075378
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.43092164397239685
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.727974534034729
+        },
+        {
+            "common_name": "Alpine Swift",
+            "scientific_name": "Apus melba",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.5269089937210083
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.5314546823501587
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.6178106069564819
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.6696946620941162
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.5957075357437134
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5646352767944336
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.7139342427253723
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7001760005950928
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.6666751503944397
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.4870002269744873
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.7484130859375
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.6682451367378235
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5335750579833984
+        },
+        {
+            "common_name": "Killdeer",
+            "scientific_name": "Charadrius vociferus",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.864446759223938
+        }
+    ]
+}
