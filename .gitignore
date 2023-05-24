@@ -6,5 +6,7 @@ data/raw/old*
 **.mp3
 **.json
 **.cfg
-# Only upload results files (after processing in ODAS & BirdNET)
+# But, do upload results files (after processing in ODAS & BirdNET)
 !**/results.json
+# And processed files (after analysing results files)
+!**/processed.json

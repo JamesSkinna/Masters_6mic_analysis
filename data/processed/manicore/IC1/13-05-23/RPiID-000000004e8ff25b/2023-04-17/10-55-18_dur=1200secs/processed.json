@@ -1,0 +1,33 @@
+{
+    "mono_channel": {
+        "Mealy Parrot": {
+            "count": 1,
+            "conf_sum": 0.9489825367927551,
+            "max_conf": 0.9489825367927551,
+            "conf_avg": 0.95,
+            "conf_list": [
+                0.9489825367927551
+            ],
+            "start_time_list": [
+                6.0
+            ]
+        }
+    },
+    "beamformed": {
+        "Mealy Parrot": {
+            "count": 1,
+            "conf_sum": 0.9818828105926514,
+            "max_conf": 0.9818828105926514,
+            "conf_avg": 0.98,
+            "conf_list": [
+                0.9818828105926514
+            ],
+            "start_time_list": [
+                6.0
+            ],
+            "max_conf_chan_list": [
+                "sep_chan4.mp3"
+            ]
+        }
+    }
+}
