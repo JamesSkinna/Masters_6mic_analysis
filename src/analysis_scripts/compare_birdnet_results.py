@@ -10,11 +10,13 @@
 
 import os
 import json
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17"
+DIR_PATH = "data/processed/speaker_sphere_lab_tests"
 
-
+# FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
     """Read the BirdNET detections from a file"""
 
@@ -134,14 +136,82 @@ def write_processed_to_file(processed_dict):
         json.dump(processed_dict, file, indent=4)
 
 
+# FUNCTIONS FOR PLOTTING PROCESSED RESULTS-----------------------------------------------------------------------------------
+def set_box_color(bp, color):
+    """Sets the colours of a single box, from a matplotlib boxplot"""
+    plt.setp(bp['boxes'], color=color)
+    plt.setp(bp['whiskers'], color=color)
+    plt.setp(bp['caps'], color=color)
+    plt.setp(bp['medians'], color=color)
+
+
+def get_initials(species_name):
+    """Extract the intials from a species' full name"""
+    # Split the name into individual words
+    words = species_name.split()
+
+    # Extract the first character of each word
+    initials = [word[0].upper() for word in words]
+
+    # Return the initials as a string
+    return ''.join(initials)
+
+
+def setup_new_plot(xlabel, ylabel, title):
+    """Initialises a new matplotlib plot, with desired parameters"""
+    plt.figure(figsize=(18, 12))
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.title(title)
+    plt.grid(True)
+
+
+def boxplot_conf_comparison(mono_data, bf_data, file_path):
+    """Creates a boxplot to compare confidence levels of mono-channel vs beamformed
+    --> Split into groups (1 group per species) - for side-by-side comparison"""
+
+    title = "Confidence levels across species - Mono-channel vs Beamformed Recordings"
+    setup_new_plot("Species Initials", "Confidence Levels", title)
+
+    boxplot_conf_data_mono = []
+    boxplot_conf_data_bf = []
+    boxplot_labels = []
+
+    # Extract the confidence levels list for each species - append to list of lists
+    for species in mono_data.keys():
+        if mono_data[species]["count"] >= 5:    # Only plot those with more than 5 detections (greater sample size)
+            boxplot_conf_data_mono.append(mono_data[species]["conf_list"])
+            boxplot_conf_data_bf.append(bf_data[species]["conf_list"])
+            boxplot_labels.append(get_initials(species))
+
+    # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
+    bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
+    bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
+    set_box_color(bpl, '#D7191C') # colors are from http://colorbrewer2.org/
+    set_box_color(bpr, '#2C7BB6')
+
+    # draw temporary red and blue lines and use them to create a legend
+    plt.plot([], c='#D7191C', label='Mono-channel')
+    plt.plot([], c='#2C7BB6', label='Beamformed')
+    plt.legend()
+
+    plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
+    plt.xlim(-2, len(boxplot_labels)*2)
+    plt.ylim(0.4, 1)
+    plt.tight_layout()
+
+    plt.savefig(file_path)
+    plt.show()
 
 
 
+
+# RUN THE ANALYSIS----------------------------------------------------------------------------------------------------------
 # New dict to compare single channel vs best of beamformed
 processed_results = {"mono_channel": {},
                      "beamformed": {}}
 
-# Run the analysis----------------------------------------------------------------------------
+# Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
     for name in files:
         if name == "results.json":
@@ -151,3 +221,10 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
             processed_results = process_results_dict(current_results_dict, processed_results)
 
 write_processed_to_file(processed_results)
+
+# Plot the data for visual inspection
+mono_dict = processed_results["mono_channel"]
+bf_dict = processed_results["beamformed"]
+boxplot_file_path = DIR_PATH + "/boxcompare.png"
+
+boxplot_conf_comparison(mono_dict, bf_dict, boxplot_file_path)
