@@ -1,0 +1,114 @@
+{
+    "original_chan1.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.44494885206222534
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.7042970657348633
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.5468863844871521
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6758549809455872
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.5286241769790649
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.7356282472610474
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.5230008363723755
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.7234642505645752
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.5299832224845886
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.47988924384117126
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.883931040763855
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.4498324990272522
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.6169828176498413
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.5272262692451477
+        }
+    ]
+}

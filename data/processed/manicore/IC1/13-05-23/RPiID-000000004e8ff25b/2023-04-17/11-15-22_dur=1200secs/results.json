@@ -1,0 +1,185 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.5647445321083069
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.6307118535041809
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.756417989730835
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.5818536281585693
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.7376503944396973
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.549565315246582
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.6425688862800598
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.6729543805122375
+        },
+        {
+            "common_name": "Black-spotted Bare-eye",
+            "scientific_name": "Phlegopsis nigromaculata",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.4286040663719177
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.4970778226852417
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.4567418098449707
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.6177509427070618
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.5582259893417358
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.6320648193359375
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.46422216296195984
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5168307423591614
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.4906376302242279
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.4589722454547882
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.700226366519928
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.46247804164886475
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 513.0,
+            "end_time": 516.0,
+            "confidence": 0.4106365442276001
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.4396284222602844
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.7362950444221497
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.8132505416870117
+        }
+    ]
+}

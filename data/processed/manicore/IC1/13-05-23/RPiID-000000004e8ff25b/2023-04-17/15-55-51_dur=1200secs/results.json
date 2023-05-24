@@ -1,0 +1,102 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.8693788051605225
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.602267861366272
+        },
+        {
+            "common_name": "Painted Parakeet",
+            "scientific_name": "Pyrrhura picta",
+            "start_time": 666.0,
+            "end_time": 669.0,
+            "confidence": 0.5133984088897705
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.6810476183891296
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.6256311535835266
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.48040592670440674
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.4568076729774475
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.5192847847938538
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.7326483130455017
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.7844629883766174
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.7079765796661377
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.43513110280036926
+        }
+    ],
+    "pf_chan1.mp3": []
+}

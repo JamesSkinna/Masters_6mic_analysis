@@ -1,0 +1,55 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [],
+    "sep_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.8041220903396606
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.541460394859314
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.5853174328804016
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.728211522102356
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6651763319969177
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.7850951552391052
+        }
+    ]
+}

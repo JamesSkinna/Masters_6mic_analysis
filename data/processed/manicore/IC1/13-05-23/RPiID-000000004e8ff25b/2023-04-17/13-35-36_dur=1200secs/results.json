@@ -1,0 +1,641 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.45238444209098816
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.46447989344596863
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.48370206356048584
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.8835844993591309
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.8533850908279419
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.5694965720176697
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6823350787162781
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.7123368978500366
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.619109570980072
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.7808965444564819
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.6242116689682007
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5725541710853577
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.8938111662864685
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.5159837603569031
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.5626983642578125
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.8489680290222168
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.7617185711860657
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.5518838763237
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.7802441716194153
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9564462900161743
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.5282324552536011
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.5330629944801331
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.44155681133270264
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 573.0,
+            "end_time": 576.0,
+            "confidence": 0.6567357778549194
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.450903981924057
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.4620422422885895
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.5562928318977356
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.8146451711654663
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.6751206517219543
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7112786769866943
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.6394019722938538
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9410308599472046
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9226844906806946
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.45269662141799927
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.6484634876251221
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.6921764612197876
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.9380043745040894
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.6600320935249329
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.6455420255661011
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.534795880317688
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6614503860473633
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.4710448682308197
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 573.0,
+            "end_time": 576.0,
+            "confidence": 0.8009483814239502
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.5519272685050964
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.45554786920547485
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.4004019498825073
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.5677977800369263
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.6648289561271667
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.7267307043075562
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5238534808158875
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.7479971051216125
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.4301696717739105
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.5095153450965881
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7777077555656433
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.7223602533340454
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.77019864320755
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.8413515090942383
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.48494064807891846
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.5825667381286621
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.4974963366985321
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.6299548149108887
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.7904714345932007
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.6690458059310913
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5349650382995605
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.7745067477226257
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7401002049446106
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8309311270713806
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.40283116698265076
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.7914553880691528
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.7126739025115967
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.45819762349128723
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.8308050036430359
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9147771596908569
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.46422454714775085
+        },
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.568793535232544
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.4977220892906189
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.7118880152702332
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.7007943391799927
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.7590887546539307
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.7747807502746582
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.8853597044944763
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5290840864181519
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.8986937403678894
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.5601022839546204
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.4228563904762268
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.8434151411056519
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8154327869415283
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.421373575925827
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.6241106986999512
+        }
+    ]
+}

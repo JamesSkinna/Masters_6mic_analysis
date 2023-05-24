@@ -1,0 +1,26 @@
+{
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 531.0,
+            "end_time": 534.0,
+            "confidence": 0.8972833752632141
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 537.0,
+            "end_time": 540.0,
+            "confidence": 0.8677818179130554
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "sep_chan3.mp3": []
+}

@@ -1,0 +1,47 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan3.mp3": [],
+    "sep_chan2.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.44831565022468567
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.5083695650100708
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.5877959728240967
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.4865722060203552
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.44523704051971436
+        }
+    ],
+    "sep_chan4.mp3": []
+}

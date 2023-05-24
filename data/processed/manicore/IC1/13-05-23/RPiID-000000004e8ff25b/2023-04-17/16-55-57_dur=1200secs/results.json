@@ -1,0 +1,177 @@
+{
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.5327786803245544
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.4672641456127167
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.457258939743042
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.4108491539955139
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4097013771533966
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.4058060348033905
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4121308922767639
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.4062815010547638
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.4929957091808319
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.41107624769210815
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.43292510509490967
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.4106482267379761
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4107286334037781
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.5063617825508118
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.4461430013179779
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.7677609324455261
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.5787936449050903
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.40991297364234924
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.4200877547264099
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.4092508554458618
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.42620059847831726
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.42397594451904297
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.5118412375450134
+        }
+    ],
+    "pf_chan4.mp3": []
+}

@@ -1,0 +1,41 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.40344247221946716
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.43151524662971497
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.5103338360786438
+        }
+    ],
+    "sep_chan4.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan1.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.49355727434158325
+        }
+    ]
+}

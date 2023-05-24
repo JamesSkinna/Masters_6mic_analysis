@@ -1,0 +1,49 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.4673158824443817
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.9093917608261108
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.8837270736694336
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.949370801448822
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.5061594843864441
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan2.mp3": []
+}

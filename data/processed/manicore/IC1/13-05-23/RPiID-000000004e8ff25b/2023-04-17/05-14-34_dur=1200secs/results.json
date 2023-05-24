@@ -1,0 +1,19 @@
+{
+    "original_chan1.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.5336308479309082
+        }
+    ]
+}

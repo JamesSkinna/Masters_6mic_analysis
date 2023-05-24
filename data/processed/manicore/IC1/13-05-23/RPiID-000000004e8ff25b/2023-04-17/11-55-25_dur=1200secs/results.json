@@ -1,0 +1,1125 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.7522339224815369
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.7253260612487793
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.6629115343093872
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.6837545037269592
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5957615375518799
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9249986410140991
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8452901840209961
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.8308654427528381
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.49979254603385925
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.44500747323036194
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.5185235738754272
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.7877472639083862
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.8263957500457764
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.8788098096847534
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9390147924423218
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.8701674342155457
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.6702719926834106
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.7947924137115479
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.8585689663887024
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9498045444488525
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.968801736831665
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6886652112007141
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.7508484721183777
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.4503840208053589
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.5554354786872864
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.7082765102386475
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.7027004957199097
+        },
+        {
+            "common_name": "Long-billed Woodcreeper",
+            "scientific_name": "Nasica longirostris",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.537815272808075
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.43182098865509033
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 918.0,
+            "end_time": 921.0,
+            "confidence": 0.6717924475669861
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.5787582397460938
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.6308756470680237
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.8502761125564575
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.8313779830932617
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.7408808469772339
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9532357454299927
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.8031172156333923
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8165625333786011
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.5870180726051331
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.711787760257721
+        },
+        {
+            "common_name": "Long-billed Woodcreeper",
+            "scientific_name": "Nasica longirostris",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.5164442658424377
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.5081769824028015
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9236463904380798
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.9248853921890259
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.8831740617752075
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.9237661957740784
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.4836907982826233
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.40410247445106506
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.7813788056373596
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9324344396591187
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8911277651786804
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.9177254438400269
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.667283296585083
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.8448675274848938
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.49985769391059875
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.9213603138923645
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.950212299823761
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.9172983169555664
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.7365440726280212
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.8478637337684631
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.6892019510269165
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.40410858392715454
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.6902235746383667
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.9490618705749512
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.9196303486824036
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.4332555830478668
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.6476292610168457
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.4108012020587921
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.5183398723602295
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.637018620967865
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.4142652451992035
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.8727651834487915
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.9230203032493591
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.7684043049812317
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.49895694851875305
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.6484655141830444
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.8947789072990417
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7960593700408936
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.8953979015350342
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5803350210189819
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.7052131295204163
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.8986234068870544
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.6753045320510864
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.8687459826469421
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.4711880385875702
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.6558018922805786
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.880242109298706
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.7431943416595459
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.9447192549705505
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.967150866985321
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.8903449773788452
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.9100630283355713
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9480672478675842
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9500306248664856
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.9802504777908325
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.4889237880706787
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.8824241161346436
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.6056256294250488
+        },
+        {
+            "common_name": "Pearly-vented Tody-Tyrant",
+            "scientific_name": "Hemitriccus margaritaceiventer",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.5098813772201538
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.46577590703964233
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.78837651014328
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.5514255166053772
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.5250968933105469
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.5245711803436279
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.48396220803260803
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.8741878867149353
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6141357421875
+        },
+        {
+            "common_name": "Snethlage's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minor",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.5089439749717712
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.48703470826148987
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.49610254168510437
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.649847149848938
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.7132565975189209
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5527740716934204
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.8789328336715698
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.7236117124557495
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.7293612360954285
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.8341540098190308
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.8418387174606323
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.90618497133255
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.7275328636169434
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.5045911073684692
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8752299547195435
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.7818937301635742
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.9052814841270447
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.8062654733657837
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8814564943313599
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7464436888694763
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9424120187759399
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.9029858708381653
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.47126492857933044
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.8227682113647461
+        },
+        {
+            "common_name": "Buff-throated Foliage-gleaner",
+            "scientific_name": "Automolus ochrolaemus",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.47418642044067383
+        },
+        {
+            "common_name": "Long-billed Woodcreeper",
+            "scientific_name": "Nasica longirostris",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.41396620869636536
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.5069067478179932
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.43249762058258057
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.4619753658771515
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.8588516116142273
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5673794746398926
+        },
+        {
+            "common_name": "Long-billed Woodcreeper",
+            "scientific_name": "Nasica longirostris",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.40402933955192566
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.8233603239059448
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.4310479760169983
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9028475880622864
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8433892726898193
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.7023588418960571
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.7492942214012146
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.6631831526756287
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.8317466378211975
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.8268584609031677
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.6227170825004578
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.5493777990341187
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.4693111777305603
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.5130897760391235
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.8334977626800537
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4569297134876251
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.8574171662330627
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.8899595141410828
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.423878937959671
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.5971961617469788
+        }
+    ]
+}

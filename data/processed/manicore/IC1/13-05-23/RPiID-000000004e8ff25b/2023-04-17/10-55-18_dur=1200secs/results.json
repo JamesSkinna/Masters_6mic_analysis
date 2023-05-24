@@ -1,0 +1,100 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9453033804893494
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.8606625199317932
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.589061975479126
+        },
+        {
+            "common_name": "Barred Forest-Falcon",
+            "scientific_name": "Micrastur ruficollis",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.4400096535682678
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.432773232460022
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.8178240060806274
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9818828105926514
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9489825367927551
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7243605852127075
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.966547429561615
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.43932846188545227
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.41307857632637024
+        }
+    ],
+    "pf_chan4.mp3": []
+}

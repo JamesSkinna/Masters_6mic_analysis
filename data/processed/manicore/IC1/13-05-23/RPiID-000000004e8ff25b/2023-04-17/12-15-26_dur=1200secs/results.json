@@ -1,0 +1,126 @@
+{
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.5345759391784668
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.5073741674423218
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5553467869758606
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.8596298694610596
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.5956106781959534
+        },
+        {
+            "common_name": "Golden-headed Manakin",
+            "scientific_name": "Ceratopipra erythrocephala",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.5204127430915833
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7017503380775452
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.5666238069534302
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.784525454044342
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.4143848419189453
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.700534999370575
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.7491469979286194
+        },
+        {
+            "common_name": "Rufous-tailed Flatbill",
+            "scientific_name": "Ramphotrigon ruficauda",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.43170666694641113
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.6396616697311401
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.5007765293121338
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.5008863806724548
+        }
+    ],
+    "sep_chan2.mp3": []
+}

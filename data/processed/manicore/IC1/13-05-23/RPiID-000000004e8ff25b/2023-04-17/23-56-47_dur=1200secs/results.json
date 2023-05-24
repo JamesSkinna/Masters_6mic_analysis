@@ -1,0 +1,63 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.41317087411880493
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.8291071653366089
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 672.0,
+            "end_time": 675.0,
+            "confidence": 0.5054782032966614
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 678.0,
+            "end_time": 681.0,
+            "confidence": 0.42575499415397644
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.4012676179409027
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.696374237537384
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.41491562128067017
+        }
+    ]
+}

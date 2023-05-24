@@ -1,0 +1,27 @@
+{
+    "sep_chan1.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 705.0,
+            "end_time": 708.0,
+            "confidence": 0.49425461888313293
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Black-fronted Nunbird",
+            "scientific_name": "Monasa nigrifrons",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.5495826601982117
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": []
+}

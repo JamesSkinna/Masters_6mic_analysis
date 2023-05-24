@@ -1,0 +1,156 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5349410176277161
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.7193235754966736
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.40288496017456055
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.8594486117362976
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.4136017858982086
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7863280177116394
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.5790708661079407
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.7857767343521118
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.618503749370575
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.8351234793663025
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.5255650281906128
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 666.0,
+            "end_time": 669.0,
+            "confidence": 0.4705978333950043
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5211181044578552
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.40757930278778076
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.7127721309661865
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.6859902739524841
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.6048752069473267
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.9016032814979553
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.4090421199798584
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.7078604102134705
+        }
+    ],
+    "pf_chan4.mp3": []
+}

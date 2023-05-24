@@ -1,0 +1,91 @@
+{
+    "sep_chan1.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Broad-winged Hawk",
+            "scientific_name": "Buteo platypterus",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.47610726952552795
+        },
+        {
+            "common_name": "Broad-winged Hawk",
+            "scientific_name": "Buteo platypterus",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.4880043864250183
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.6640753746032715
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.7041898369789124
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.4184005856513977
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.7195014953613281
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8719377517700195
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9374470710754395
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.8511773347854614
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.5402724146842957
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.730945348739624
+        }
+    ]
+}

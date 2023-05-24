@@ -1,0 +1,41 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Rusty-fronted Tody-Flycatcher",
+            "scientific_name": "Poecilotriccus latirostris",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.6175984144210815
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.6495835185050964
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.41573426127433777
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.6606042385101318
+        }
+    ],
+    "sep_chan4.mp3": []
+}

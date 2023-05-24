@@ -1,0 +1,82 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.4850805103778839
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.4100003242492676
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.4373484253883362
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.7778800129890442
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.4004310667514801
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.5822058320045471
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.6001529693603516
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.7472356557846069
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.419560045003891
+        },
+        {
+            "common_name": "Lesser Nighthawk",
+            "scientific_name": "Chordeiles acutipennis",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5729524493217468
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": [],
+    "original_chan1.mp3": []
+}

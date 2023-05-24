@@ -1,0 +1,166 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.7549709677696228
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 513.0,
+            "end_time": 516.0,
+            "confidence": 0.5884437561035156
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.477958083152771
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.416988343000412
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 507.0,
+            "end_time": 510.0,
+            "confidence": 0.5507065653800964
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.4047289490699768
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.7106828093528748
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 741.0,
+            "end_time": 744.0,
+            "confidence": 0.8303477168083191
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.7154808640480042
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.5516166687011719
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 507.0,
+            "end_time": 510.0,
+            "confidence": 0.6578261852264404
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.616828978061676
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.5447911620140076
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.42284926772117615
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.42807134985923767
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.4881827235221863
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.5399399995803833
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.5589129328727722
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 513.0,
+            "end_time": 516.0,
+            "confidence": 0.4058927893638611
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.5572168231010437
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.47745612263679504
+        }
+    ]
+}

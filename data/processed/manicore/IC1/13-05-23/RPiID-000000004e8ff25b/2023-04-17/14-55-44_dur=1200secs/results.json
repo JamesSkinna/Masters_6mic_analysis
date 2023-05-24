@@ -1,0 +1,34 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Purple-throated Euphonia",
+            "scientific_name": "Euphonia chlorotica",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.5536122918128967
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.5493273735046387
+        },
+        {
+            "common_name": "Great Jacamar",
+            "scientific_name": "Jacamerops aureus",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.660643994808197
+        }
+    ],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan3.mp3": []
+}

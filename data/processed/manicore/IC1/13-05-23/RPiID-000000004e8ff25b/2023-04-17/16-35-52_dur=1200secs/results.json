@@ -1,0 +1,134 @@
+{
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.417116641998291
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.4014813005924225
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.45698317885398865
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.45779868960380554
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.40310612320899963
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.44005104899406433
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.41128918528556824
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.40108048915863037
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.4271741211414337
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.40926945209503174
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.6207232475280762
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.49138134717941284
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.40354636311531067
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.40405401587486267
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.4041546583175659
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.44428884983062744
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.424844890832901
+        }
+    ],
+    "pf_chan4.mp3": []
+}

@@ -1,0 +1,41 @@
+{
+    "sep_chan1.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Amazonian Grosbeak",
+            "scientific_name": "Cyanoloxia rothschildii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.47352808713912964
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.4658532440662384
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.6824999451637268
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.5779635310173035
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "sep_chan4.mp3": []
+}
