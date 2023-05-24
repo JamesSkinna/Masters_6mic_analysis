@@ -1,8 +1,9 @@
-# Ignore all raw data (don't upload)
-data/raw*
+# Ignore all raw data (don't upload) - apart from lab test results
+data/raw/manicore*
+data/raw/silwood*
+# Ignore all processed data files ending with...
 **.mp3
 **.json
 **.cfg
-
 # Only upload results files (after processing in ODAS & BirdNET)
 !**/results.json
