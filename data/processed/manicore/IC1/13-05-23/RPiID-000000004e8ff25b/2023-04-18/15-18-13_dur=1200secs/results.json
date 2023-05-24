@@ -1,0 +1,158 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.8139973878860474
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.43862855434417725
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.863974928855896
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.5731802582740784
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.42079222202301025
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Small-billed Tinamou",
+            "scientific_name": "Crypturellus parvirostris",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.520872950553894
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.41453123092651367
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.40789806842803955
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.4136950671672821
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.4648125171661377
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.5577112436294556
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.4164411723613739
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Buff-throated Woodcreeper",
+            "scientific_name": "Xiphorhynchus guttatus",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.4094685912132263
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.5665643215179443
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.4096847474575043
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.6913540363311768
+        },
+        {
+            "common_name": "Olive-backed Foliage-gleaner",
+            "scientific_name": "Automolus infuscatus",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.47248151898384094
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.7398179769515991
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.4031401574611664
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.4332239329814911
+        }
+    ]
+}

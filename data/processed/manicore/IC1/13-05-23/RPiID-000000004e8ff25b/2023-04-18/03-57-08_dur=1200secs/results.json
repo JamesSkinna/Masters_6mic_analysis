@@ -1,0 +1,695 @@
+{
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5794125199317932
+        },
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.6770647764205933
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.7833342552185059
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6233004331588745
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.40964603424072266
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7051072120666504
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.44316577911376953
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.7153702974319458
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.564527153968811
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5319890975952148
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.867577075958252
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8020703792572021
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.6605820655822754
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.7817983031272888
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8077043294906616
+        },
+        {
+            "common_name": "Long-tailed Potoo",
+            "scientific_name": "Nyctibius aethereus",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4464111328125
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.42939281463623047
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.7452087998390198
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.4390016198158264
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 876.0,
+            "end_time": 879.0,
+            "confidence": 0.4799080193042755
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.8765626549720764
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.407704621553421
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6038627624511719
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.5548155307769775
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.6182518601417542
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.519950807094574
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8643132448196411
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.43588724732398987
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.44818609952926636
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.8674644827842712
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.784579873085022
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6785914897918701
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.9067633152008057
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.876467227935791
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.7193402051925659
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.7233993411064148
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9249095916748047
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5917684435844421
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.5401110649108887
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 876.0,
+            "end_time": 879.0,
+            "confidence": 0.6629058122634888
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.8730337619781494
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6830481886863708
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.6730402708053589
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.46081894636154175
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.4257139265537262
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.44409677386283875
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.4384740889072418
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.5089064836502075
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8867537379264832
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.6749529242515564
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.47419461607933044
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.703689694404602
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6690044403076172
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8897659778594971
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.7508225440979004
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.7985155582427979
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.8069480061531067
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8535380959510803
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.7413853406906128
+        },
+        {
+            "common_name": "Amazonian Pygmy-Owl",
+            "scientific_name": "Glaucidium hardyi",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.5835288763046265
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.623106837272644
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.8225466012954712
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.49640175700187683
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6504663825035095
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.47426921129226685
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.4254128932952881
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.5852838754653931
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.4414733946323395
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4223026633262634
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7546998262405396
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.6223309636116028
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.781076967716217
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7403668165206909
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6630188822746277
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8453976511955261
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.844353973865509
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.6889976859092712
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.808015763759613
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.7688543200492859
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.8781388998031616
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6361739635467529
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.465577095746994
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.48681673407554626
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.8082766532897949
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.44186660647392273
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4366146922111511
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.43451550602912903
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.586207389831543
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.8350491523742676
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.41503024101257324
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4755762815475464
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.9219546318054199
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.6755080819129944
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5135753750801086
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.4012153744697571
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.6509072184562683
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8038234114646912
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": []
+}

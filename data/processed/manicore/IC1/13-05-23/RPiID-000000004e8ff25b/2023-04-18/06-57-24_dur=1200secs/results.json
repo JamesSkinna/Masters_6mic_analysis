@@ -1,0 +1,206 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.44278684258461
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8277026414871216
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5215392708778381
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.5340005159378052
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.49721890687942505
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.5099239945411682
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8636664152145386
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.43958738446235657
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Ornate Hawk-Eagle",
+            "scientific_name": "Spizaetus ornatus",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.42339468002319336
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6407423615455627
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8447237610816956
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.6316859126091003
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.6550278067588806
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.6644124388694763
+        },
+        {
+            "common_name": "Black-fronted Nunbird",
+            "scientific_name": "Monasa nigrifrons",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.44868627190589905
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.838732123374939
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5556533336639404
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7076338529586792
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.42460519075393677
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.4346821904182434
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "White-tipped Dove",
+            "scientific_name": "Leptotila verreauxi",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.5216155648231506
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.806033730506897
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.4707672894001007
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.42627033591270447
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8912497162818909
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.6562349200248718
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.44829460978507996
+        }
+    ]
+}

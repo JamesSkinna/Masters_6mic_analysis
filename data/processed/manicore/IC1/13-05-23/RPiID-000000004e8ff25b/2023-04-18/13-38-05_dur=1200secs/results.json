@@ -1,0 +1,584 @@
+{
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.5150500535964966
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.45850393176078796
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5076020359992981
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.6334819197654724
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.5489845871925354
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.6709722280502319
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.5693266987800598
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.8342970013618469
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.5828254818916321
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.4423750638961792
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6285520792007446
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5920196175575256
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.5740721225738525
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.6993876099586487
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5052877068519592
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.6871220469474792
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.5342927575111389
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5797188878059387
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6999310851097107
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.446826696395874
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.5393478274345398
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.4112573266029358
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.7339195609092712
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.46798810362815857
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.5763992071151733
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.758002519607544
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.4035774767398834
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6741213202476501
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.6250923275947571
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.513222873210907
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.6335742473602295
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5594202876091003
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.5430512428283691
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.43321898579597473
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.47786954045295715
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.4328431785106659
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.5053279995918274
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.5226103067398071
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.5162009596824646
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.4087977707386017
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.694767415523529
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.41995617747306824
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6926164627075195
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.6844390630722046
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.4061032235622406
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.6263926029205322
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.40263792872428894
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.5189826488494873
+        },
+        {
+            "common_name": "Guianan Cock-of-the-rock",
+            "scientific_name": "Rupicola rupicola",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.6135864853858948
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.5013750791549683
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.4358293414115906
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.4352182149887085
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.5474975109100342
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.4101129472255707
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.45222702622413635
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.4985862672328949
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.41417911648750305
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.7826225161552429
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6615568399429321
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5694276690483093
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.6805884838104248
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5730933547019958
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6359964609146118
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 579.0,
+            "end_time": 582.0,
+            "confidence": 0.5767558217048645
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.4490979313850403
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.4855760633945465
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.649838387966156
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.572641909122467
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.7562386393547058
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.6291002035140991
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.5555447340011597
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6710588335990906
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5016354322433472
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.415448397397995
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.6171236634254456
+        },
+        {
+            "common_name": "Red-necked Woodpecker",
+            "scientific_name": "Campephilus rubricollis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.48401734232902527
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.4318360984325409
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Screaming Piha",
+            "scientific_name": "Lipaugus vociferans",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4805779755115509
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5496642589569092
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.5045082569122314
+        },
+        {
+            "common_name": "Ash-throated Crake",
+            "scientific_name": "Mustelirallus albicollis",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5178543329238892
+        }
+    ]
+}

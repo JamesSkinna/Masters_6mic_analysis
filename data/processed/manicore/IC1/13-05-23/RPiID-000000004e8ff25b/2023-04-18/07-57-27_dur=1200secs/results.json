@@ -1,0 +1,27 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 417.0,
+            "end_time": 420.0,
+            "confidence": 0.4253864884376526
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.42432284355163574
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan2.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan4.mp3": []
+}

@@ -1,0 +1,26 @@
+{
+    "original_chan1.mp3": [],
+    "sep_chan1.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Southern Lapwing",
+            "scientific_name": "Vanellus chilensis",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.4011695981025696
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.400605171918869
+        }
+    ]
+}

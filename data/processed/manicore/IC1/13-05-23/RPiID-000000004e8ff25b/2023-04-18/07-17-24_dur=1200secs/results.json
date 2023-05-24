@@ -1,0 +1,360 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 789.0,
+            "end_time": 792.0,
+            "confidence": 0.5956157445907593
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.40778711438179016
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.6682871580123901
+        },
+        {
+            "common_name": "Great Tinamou",
+            "scientific_name": "Tinamus major",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.5678525567054749
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.565900981426239
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.8428424000740051
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.409763902425766
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.5400424599647522
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6194745898246765
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.4791027307510376
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.7240393161773682
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.5304247736930847
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.5556734204292297
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5516113638877869
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.4106847047805786
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.40104666352272034
+        },
+        {
+            "common_name": "Great Tinamou",
+            "scientific_name": "Tinamus major",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.43544650077819824
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.48642441630363464
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.49533119797706604
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.46681123971939087
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.6006543040275574
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8476354479789734
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.4543468654155731
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.770439624786377
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5508917570114136
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5257014632225037
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.5353761911392212
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.51395583152771
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.6403697729110718
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.48341357707977295
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.43698805570602417
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.6097900867462158
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8447109460830688
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.5567537546157837
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.6285355091094971
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6294793486595154
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.7276383638381958
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.7180725932121277
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.5640885233879089
+        },
+        {
+            "common_name": "White-fronted Nunbird",
+            "scientific_name": "Monasa morphoeus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.5645270347595215
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.41754406690597534
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.43339383602142334
+        },
+        {
+            "common_name": "Great Tinamou",
+            "scientific_name": "Tinamus major",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.4391669034957886
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.4042258560657501
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5138794779777527
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.4515172839164734
+        },
+        {
+            "common_name": "Ornate Hawk-Eagle",
+            "scientific_name": "Spizaetus ornatus",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.4252726137638092
+        },
+        {
+            "common_name": "Ornate Hawk-Eagle",
+            "scientific_name": "Spizaetus ornatus",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.45378604531288147
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Purple-throated Euphonia",
+            "scientific_name": "Euphonia chlorotica",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.5638332366943359
+        }
+    ],
+    "pf_chan1.mp3": []
+}

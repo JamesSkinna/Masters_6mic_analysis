@@ -1,0 +1,35 @@
+{
+    "sep_chan1.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.8130828738212585
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.6338480114936829
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.4422452449798584
+        }
+    ],
+    "sep_chan4.mp3": [],
+    "pf_chan4.mp3": []
+}

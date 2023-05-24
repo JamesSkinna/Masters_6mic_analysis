@@ -1,0 +1,544 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5019220113754272
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.8650949001312256
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.8914194107055664
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.9858059287071228
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.9845125675201416
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.851115345954895
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.9471225142478943
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 234.0,
+            "end_time": 237.0,
+            "confidence": 0.9442198872566223
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9814115166664124
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.481436550617218
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.9075984954833984
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.9327697157859802
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.8422884345054626
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.974815845489502
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.5687134861946106
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.6048484444618225
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.8583227396011353
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.7552782297134399
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.877812385559082
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.42157402634620667
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9678594470024109
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.7711883187294006
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.7440787553787231
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.8826356530189514
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.5056454539299011
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.8478200435638428
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.4347965121269226
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.8435165286064148
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.7106605172157288
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.5097631812095642
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.5319615006446838
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.8357734680175781
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5129004120826721
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.8090973496437073
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.5869393348693848
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.4309682846069336
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.6968030333518982
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.4018964469432831
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.681720495223999
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.8713422417640686
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.6125275492668152
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.5660883784294128
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 234.0,
+            "end_time": 237.0,
+            "confidence": 0.4597659409046173
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.911327064037323
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.6514509916305542
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.5787782073020935
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.9247807860374451
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.49912190437316895
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9465270042419434
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.6268250346183777
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.8213699460029602
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6562070250511169
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.4343342185020447
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.8920553922653198
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.9721173644065857
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.827759325504303
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.9436279535293579
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.9126037359237671
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 234.0,
+            "end_time": 237.0,
+            "confidence": 0.7209327220916748
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9564639925956726
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.844170868396759
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.8662004470825195
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.7991674542427063
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.4359566867351532
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.8607776761054993
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.8644169569015503
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.40478289127349854
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.8610548973083496
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.6043655872344971
+        },
+        {
+            "common_name": "Common Scale-backed Antbird",
+            "scientific_name": "Willisornis poecilinotus",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.591484546661377
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.45903280377388
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.8017134666442871
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.4974197447299957
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.42634326219558716
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.4328036904335022
+        }
+    ]
+}

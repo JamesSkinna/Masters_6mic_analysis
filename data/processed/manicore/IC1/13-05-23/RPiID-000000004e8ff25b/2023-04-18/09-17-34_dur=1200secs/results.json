@@ -1,0 +1,55 @@
+{
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.43326830863952637
+        },
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.7906453609466553
+        },
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.5464831590652466
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5572066307067871
+        },
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.4489869773387909
+        },
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.8432846665382385
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": []
+}

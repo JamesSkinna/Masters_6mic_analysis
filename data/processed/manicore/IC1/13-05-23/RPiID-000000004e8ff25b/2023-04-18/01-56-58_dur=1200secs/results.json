@@ -1,0 +1,220 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.8045077323913574
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.6894847750663757
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.40079402923583984
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.5521750450134277
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.40692371129989624
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.4092167913913727
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.6668679714202881
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.4602271318435669
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.4034751057624817
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.4082539677619934
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 513.0,
+            "end_time": 516.0,
+            "confidence": 0.4296271800994873
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.4137329161167145
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.43023622035980225
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.4012148082256317
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.4086335599422455
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.41799142956733704
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.4097816050052643
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.41645801067352295
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.45821499824523926
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.43418243527412415
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.6840677261352539
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4181581437587738
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.6726324558258057
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5530762076377869
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.42365071177482605
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.4320850372314453
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5122655630111694
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.6226037740707397
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.40808647871017456
+        }
+    ],
+    "pf_chan1.mp3": []
+}

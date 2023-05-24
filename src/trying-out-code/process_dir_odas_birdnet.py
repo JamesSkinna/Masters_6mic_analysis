@@ -18,8 +18,8 @@ from birdnetlib.analyzer import Analyzer
 
 
 # Define constants
-# DIR_PATH = "data/raw/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17"    # Directory to analyse
-DIR_PATH = "data/raw/speaker_sphere_lab_tests"
+DIR_PATH = "data/raw/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18"    # Directory to analyse
+# DIR_PATH = "data/raw/speaker_sphere_lab_tests"
 CONFIG_PATH = "src/configs"     # Where our ODAS config templates are located
 LOCATION_DICT = {"manicore": {"lat": -5.750849, "long":-61.421894},
                  "silwood": {"lat": 51.409111, "long":-0.637820}}

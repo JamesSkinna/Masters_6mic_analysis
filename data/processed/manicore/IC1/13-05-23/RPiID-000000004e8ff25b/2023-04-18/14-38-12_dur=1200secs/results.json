@@ -1,0 +1,332 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.467756986618042
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5006473660469055
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.4916784167289734
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.5038878321647644
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5482043027877808
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.47416818141937256
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.4171868562698364
+        },
+        {
+            "common_name": "Screaming Piha",
+            "scientific_name": "Lipaugus vociferans",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.40900805592536926
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.4509487450122833
+        },
+        {
+            "common_name": "Short-tailed Nighthawk",
+            "scientific_name": "Lurocalis semitorquatus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.7739562392234802
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.4062975347042084
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.4307837188243866
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.6305041313171387
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5784372687339783
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.48531782627105713
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.7125088572502136
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.7173570394515991
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.5558616518974304
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.4095604121685028
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.43395110964775085
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.4757428467273712
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.7037148475646973
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.5348891615867615
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.45600807666778564
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.6270706653594971
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.4042205512523651
+        },
+        {
+            "common_name": "Short-tailed Nighthawk",
+            "scientific_name": "Lurocalis semitorquatus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.4778369963169098
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4798152446746826
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5052321553230286
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.6831390857696533
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.6916543245315552
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.4041590094566345
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6969082355499268
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.478201687335968
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.40964919328689575
+        },
+        {
+            "common_name": "Pavonine Quetzal",
+            "scientific_name": "Pharomachrus pavoninus",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.48915401101112366
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.4230661392211914
+        },
+        {
+            "common_name": "Great Tinamou",
+            "scientific_name": "Tinamus major",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.4775766432285309
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.5961278676986694
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6129533052444458
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6643648743629456
+        },
+        {
+            "common_name": "Collared Forest-Falcon",
+            "scientific_name": "Micrastur semitorquatus",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.4253474473953247
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.4843493402004242
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.5941170454025269
+        },
+        {
+            "common_name": "Ferruginous Pygmy-Owl",
+            "scientific_name": "Glaucidium brasilianum",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4568633735179901
+        }
+    ],
+    "pf_chan1.mp3": []
+}

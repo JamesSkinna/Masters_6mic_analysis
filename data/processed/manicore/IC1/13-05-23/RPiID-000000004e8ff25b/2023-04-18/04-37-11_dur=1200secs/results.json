@@ -1,0 +1,517 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.5222627520561218
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.45345228910446167
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.9278769493103027
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.9277849793434143
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.5666172504425049
+        },
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.4019491374492645
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.43571576476097107
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.9823744297027588
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9961045980453491
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9267019629478455
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.949162483215332
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9996471405029297
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9618223905563354
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.555348813533783
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.49561282992362976
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.4093121588230133
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.4612962603569031
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.5211715698242188
+        },
+        {
+            "common_name": "Long-tailed Woodcreeper",
+            "scientific_name": "Deconychura longicauda",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.431864857673645
+        },
+        {
+            "common_name": "Long-tailed Woodcreeper",
+            "scientific_name": "Deconychura longicauda",
+            "start_time": 672.0,
+            "end_time": 675.0,
+            "confidence": 0.42109671235084534
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.45014891028404236
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.9714926481246948
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9987373948097229
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9956772923469543
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9664698839187622
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9981383085250854
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.6836785674095154
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.4259011447429657
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7497960925102234
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9287194013595581
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9173682332038879
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9009760022163391
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.5048418045043945
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.40253597497940063
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.7590982913970947
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8782781958580017
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.7158556580543518
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.49111926555633545
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.5802938938140869
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.5499023199081421
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5340341925621033
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.4991157352924347
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.5455538034439087
+        },
+        {
+            "common_name": "Long-tailed Woodcreeper",
+            "scientific_name": "Deconychura longicauda",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.4086247682571411
+        },
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.41699090600013733
+        },
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.7962895035743713
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.4825340807437897
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9546439051628113
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9902936220169067
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9971843361854553
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.5607180595397949
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 828.0,
+            "end_time": 831.0,
+            "confidence": 0.5810045599937439
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.9212378859519958
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.42003172636032104
+        },
+        {
+            "common_name": "Small-billed Elaenia",
+            "scientific_name": "Elaenia parvirostris",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.5849592089653015
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.5573075413703918
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.44687291979789734
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.4645926058292389
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.5972381830215454
+        },
+        {
+            "common_name": "Fork-tailed Flycatcher",
+            "scientific_name": "Tyrannus savana",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.6449960470199585
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9950537085533142
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9886457920074463
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.811804473400116
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5321052074432373
+        },
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.6387049555778503
+        },
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.41509580612182617
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.6563178896903992
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.4269210398197174
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9974457025527954
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.8329437375068665
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9972389936447144
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.42615970969200134
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.6165122985839844
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.4055354595184326
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.4952573776245117
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 297.0,
+            "end_time": 300.0,
+            "confidence": 0.5799803137779236
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.4798200726509094
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.43885618448257446
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.7251287698745728
+        },
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.4797596037387848
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6003091931343079
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4017738401889801
+        }
+    ],
+    "sep_chan3.mp3": []
+}

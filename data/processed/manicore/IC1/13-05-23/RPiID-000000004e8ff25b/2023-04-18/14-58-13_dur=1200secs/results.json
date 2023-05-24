@@ -1,0 +1,439 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.4930485785007477
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.46628260612487793
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.6070607304573059
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.5745673179626465
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.46632492542266846
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.47490790486335754
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.5936630964279175
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.47602561116218567
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.587448000907898
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.7068006992340088
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.6405789852142334
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.6098667979240417
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.5438673496246338
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.7478129863739014
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.442308634519577
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.6289346218109131
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.5919049382209778
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.8656231760978699
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.7470104694366455
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.5016012787818909
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.43242165446281433
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.5229938626289368
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.5370397567749023
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.41704505681991577
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Wing-barred Piprites",
+            "scientific_name": "Piprites chloris",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.4522911608219147
+        },
+        {
+            "common_name": "Ferruginous Pygmy-Owl",
+            "scientific_name": "Glaucidium brasilianum",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.570367693901062
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.4783017337322235
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.5980274081230164
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9079031944274902
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9058587551116943
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.6138302683830261
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.6590410470962524
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.9581299424171448
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.7790635228157043
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.5703729391098022
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.5830175280570984
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.45631638169288635
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Great Tinamou",
+            "scientific_name": "Tinamus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.4940999746322632
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.6385084390640259
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.40458792448043823
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.4703150689601898
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.6695865988731384
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.5322791337966919
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.7619379758834839
+        },
+        {
+            "common_name": "Little Tinamou",
+            "scientific_name": "Crypturellus soui",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.4949982166290283
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.7401081919670105
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.8144863247871399
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.6115207076072693
+        },
+        {
+            "common_name": "Gray-winged Trumpeter",
+            "scientific_name": "Psophia crepitans",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.6227180361747742
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.5247646570205688
+        },
+        {
+            "common_name": "Little Tinamou",
+            "scientific_name": "Crypturellus soui",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.4525693356990814
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.46376124024391174
+        },
+        {
+            "common_name": "Ferruginous Pygmy-Owl",
+            "scientific_name": "Glaucidium brasilianum",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.45430439710617065
+        },
+        {
+            "common_name": "White-throated Toucan",
+            "scientific_name": "Ramphastos tucanus",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5289505124092102
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.4411657452583313
+        },
+        {
+            "common_name": "Scaly-breasted Wren",
+            "scientific_name": "Microcerculus marginatus",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.6105036735534668
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.8287396430969238
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 771.0,
+            "end_time": 774.0,
+            "confidence": 0.9338036179542542
+        },
+        {
+            "common_name": "Blue-headed Parrot",
+            "scientific_name": "Pionus menstruus",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.5522918105125427
+        },
+        {
+            "common_name": "Small-billed Tinamou",
+            "scientific_name": "Crypturellus parvirostris",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5222371816635132
+        }
+    ]
+}

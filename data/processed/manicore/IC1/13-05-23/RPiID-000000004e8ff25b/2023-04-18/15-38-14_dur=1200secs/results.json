@@ -1,0 +1,412 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.4745357632637024
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.4814338982105255
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.6448734402656555
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.7156662344932556
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.7995948791503906
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.6222776174545288
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.4616784155368805
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.41299518942832947
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.414924293756485
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.5581716895103455
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.5719475150108337
+        },
+        {
+            "common_name": "Black-banded Woodcreeper",
+            "scientific_name": "Dendrocolaptes picumnus",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.5278649926185608
+        },
+        {
+            "common_name": "Plumbeous Antbird",
+            "scientific_name": "Myrmelastes hyperythrus",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.4095992147922516
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.4581294655799866
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.5496791005134583
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.7816351652145386
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.8638005256652832
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.868374228477478
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.5477190017700195
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.41098570823669434
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.7714657783508301
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.7104427814483643
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.4263700842857361
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.5504185557365417
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.7727013826370239
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.45266014337539673
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Bright-rumped Attila",
+            "scientific_name": "Attila spadiceus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.6877332925796509
+        },
+        {
+            "common_name": "Scaly-breasted Wren",
+            "scientific_name": "Microcerculus marginatus",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.6846853494644165
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.5095483064651489
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7271729111671448
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.40097641944885254
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.4850667715072632
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.40540337562561035
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.8042224645614624
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.46719101071357727
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.549798846244812
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.7732090353965759
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.4782945513725281
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.460416704416275
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.826663613319397
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.47215595841407776
+        },
+        {
+            "common_name": "Olivaceous Woodcreeper",
+            "scientific_name": "Sittasomus griseicapillus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.7079349160194397
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Swallow-winged Puffbird",
+            "scientific_name": "Chelidoptera tenebrosa",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.8235401511192322
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.4650781452655792
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.8632661700248718
+        },
+        {
+            "common_name": "Plumbeous Antbird",
+            "scientific_name": "Myrmelastes hyperythrus",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.40946316719055176
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.48758435249328613
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.6047691106796265
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.6276124119758606
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.7923540472984314
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.7869483232498169
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.784812331199646
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Scaly-breasted Wren",
+            "scientific_name": "Microcerculus marginatus",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5100950598716736
+        },
+        {
+            "common_name": "Cinereous Mourner",
+            "scientific_name": "Laniocera hypopyrra",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.47514334321022034
+        },
+        {
+            "common_name": "Mealy Parrot",
+            "scientific_name": "Amazona farinosa",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.7780091166496277
+        },
+        {
+            "common_name": "Tawny-crowned Greenlet",
+            "scientific_name": "Tunchiornis ochraceiceps",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.47950267791748047
+        }
+    ]
+}

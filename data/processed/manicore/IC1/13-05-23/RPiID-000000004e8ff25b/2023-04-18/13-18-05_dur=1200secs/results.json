@@ -1,0 +1,199 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5343281030654907
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.516991138458252
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6935575008392334
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6602019667625427
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.7981771230697632
+        },
+        {
+            "common_name": "Spectacled Owl",
+            "scientific_name": "Pulsatrix perspicillata",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.4459803104400635
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Short-crested Flycatcher",
+            "scientific_name": "Myiarchus ferox",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.4650246798992157
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.4531410038471222
+        },
+        {
+            "common_name": "Screaming Piha",
+            "scientific_name": "Lipaugus vociferans",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5024188756942749
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.4375499486923218
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.45818957686424255
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.4571642279624939
+        },
+        {
+            "common_name": "Spectacled Owl",
+            "scientific_name": "Pulsatrix perspicillata",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.49106350541114807
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6345210671424866
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5439409017562866
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6616014242172241
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.4696193337440491
+        },
+        {
+            "common_name": "Screaming Piha",
+            "scientific_name": "Lipaugus vociferans",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.42683833837509155
+        },
+        {
+            "common_name": "Gray Tinamou",
+            "scientific_name": "Tinamus tao",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.6368789076805115
+        },
+        {
+            "common_name": "Spectacled Owl",
+            "scientific_name": "Pulsatrix perspicillata",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.42895376682281494
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.40987738966941833
+        },
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5412148237228394
+        },
+        {
+            "common_name": "White-throated Tinamou",
+            "scientific_name": "Tinamus guttatus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.4664735198020935
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 681.0,
+            "end_time": 684.0,
+            "confidence": 0.4792185127735138
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Common Potoo",
+            "scientific_name": "Nyctibius griseus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.49275708198547363
+        },
+        {
+            "common_name": "Spectacled Owl",
+            "scientific_name": "Pulsatrix perspicillata",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.6100435853004456
+        }
+    ]
+}

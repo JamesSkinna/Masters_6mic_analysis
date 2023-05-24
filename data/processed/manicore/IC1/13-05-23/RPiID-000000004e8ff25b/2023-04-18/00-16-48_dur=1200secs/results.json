@@ -1,0 +1,150 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.5180254578590393
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.900786817073822
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.8813077807426453
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.48056939244270325
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.8594439029693604
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.45591509342193604
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.9420341849327087
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.7060675024986267
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.5197682976722717
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.49656227231025696
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.4986432194709778
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5115492939949036
+        },
+        {
+            "common_name": "Rufous-capped Antthrush",
+            "scientific_name": "Formicarius colma",
+            "start_time": 669.0,
+            "end_time": 672.0,
+            "confidence": 0.9288312196731567
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.4934161901473999
+        },
+        {
+            "common_name": "Purple-throated Euphonia",
+            "scientific_name": "Euphonia chlorotica",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.42596831917762756
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.5384764075279236
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.6560310125350952
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5042492747306824
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.9284043908119202
+        }
+    ]
+}

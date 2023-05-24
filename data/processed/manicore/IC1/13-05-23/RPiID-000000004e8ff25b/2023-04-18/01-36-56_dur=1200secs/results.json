@@ -1,0 +1,172 @@
+{
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.4239615201950073
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.5051431655883789
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.656718909740448
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.42988988757133484
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.514247715473175
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.4527091979980469
+        }
+    ],
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.40383318066596985
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4028499126434326
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.45741721987724304
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.42505213618278503
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.49648207426071167
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.7198499441146851
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.8033376336097717
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.569712221622467
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.4548090994358063
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.4219164252281189
+        },
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.645684540271759
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 882.0,
+            "end_time": 885.0,
+            "confidence": 0.5081831216812134
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.5259814262390137
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 972.0,
+            "end_time": 975.0,
+            "confidence": 0.4615091383457184
+        },
+        {
+            "common_name": "Russet-crowned Crake",
+            "scientific_name": "Anurolimnas viridis",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5619029998779297
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.4428938627243042
+        }
+    ]
+}

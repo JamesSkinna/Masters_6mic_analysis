@@ -1,0 +1,71 @@
+{
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.49263137578964233
+        }
+    ],
+    "sep_chan4.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.437839537858963
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.4055379629135132
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.5657942295074463
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.4596797823905945
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.46290791034698486
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.40899839997291565
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.41674286127090454
+        }
+    ]
+}
