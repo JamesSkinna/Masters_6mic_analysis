@@ -1,0 +1,157 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.46569666266441345
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.4202624261379242
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.5080989599227905
+        }
+    ],
+    "original_chan1.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.412433385848999
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.6804495453834534
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.698798656463623
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.4126207232475281
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1194.0,
+            "end_time": 1197.0,
+            "confidence": 0.4804927706718445
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.4742935597896576
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.42543265223503113
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.4064120054244995
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.6137137413024902
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.5950987935066223
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.8225464820861816
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.9475094079971313
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.6362981796264648
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.4089030623435974
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.48907309770584106
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.4331606924533844
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.47981369495391846
+        }
+    ],
+    "pf_chan1.mp3": []
+}

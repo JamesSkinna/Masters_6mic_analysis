@@ -1,0 +1,671 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.47281602025032043
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.696130633354187
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.41304662823677063
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.599032998085022
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.5603621006011963
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.9904668927192688
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5839487910270691
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.464514821767807
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.49521470069885254
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.825014591217041
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.601607084274292
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5554524064064026
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.511096715927124
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.9081133604049683
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 420.0,
+            "end_time": 423.0,
+            "confidence": 0.4411340653896332
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.7721107602119446
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.7147164344787598
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.7127297520637512
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.8395960927009583
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.6880545020103455
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.762664258480072
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.7473585605621338
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.6833850741386414
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.43146130442619324
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.46305274963378906
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.9843946099281311
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.7018839120864868
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.5318909287452698
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 270.0,
+            "end_time": 273.0,
+            "confidence": 0.4704553186893463
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.6207332015037537
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6732242107391357
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.6533401012420654
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.7238515019416809
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.8372076749801636
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.5503687858581543
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.9635691046714783
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.804028332233429
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.5583579540252686
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.6001128554344177
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.46017956733703613
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.8605981469154358
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.9890936613082886
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6232233643531799
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.6503694653511047
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.6995779275894165
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.8486211895942688
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.49294784665107727
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.8424816727638245
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5883979797363281
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.7068057060241699
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.8968161344528198
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.6064318418502808
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.8509927988052368
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.4566529095172882
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6690834760665894
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.43229666352272034
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.9830021262168884
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.7123192548751831
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.4076509177684784
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.8266393542289734
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.7373645305633545
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.6416181921958923
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.8240426778793335
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.9498694539070129
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.6578793525695801
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.5288482308387756
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5006316304206848
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9537149667739868
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.8743647933006287
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.5233383774757385
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.8104889988899231
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.806296169757843
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.9644613265991211
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.6149798631668091
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.5942610502243042
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.613446056842804
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.967664361000061
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.7673346996307373
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.8587704300880432
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 420.0,
+            "end_time": 423.0,
+            "confidence": 0.5849496722221375
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.7661092877388
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6377131938934326
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.6642501354217529
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.4915015399456024
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.8158882260322571
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 915.0,
+            "end_time": 918.0,
+            "confidence": 0.41681885719299316
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.7507846355438232
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.58035808801651
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.9021968245506287
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.9525935053825378
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.5879887938499451
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.7193282842636108
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.7284834384918213
+        }
+    ]
+}

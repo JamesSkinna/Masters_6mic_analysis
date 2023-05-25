@@ -1,0 +1,35 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Mallard",
+            "scientific_name": "Anas platyrhynchos",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.45051246881484985
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mallard",
+            "scientific_name": "Anas platyrhynchos",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.4350084960460663
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Gadwall",
+            "scientific_name": "Mareca strepera",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.5398411750793457
+        }
+    ]
+}

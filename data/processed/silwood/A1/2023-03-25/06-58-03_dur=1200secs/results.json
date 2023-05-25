@@ -1,0 +1,852 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5175647735595703
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.821248471736908
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9946402907371521
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.914422869682312
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5391144752502441
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.5831527709960938
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.7711759805679321
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.4132142663002014
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9972551465034485
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.7780755758285522
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9684838652610779
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.5828871130943298
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.45595574378967285
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9548133015632629
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9846265912055969
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.5180758833885193
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.8322693705558777
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.5173232555389404
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4589534103870392
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.5345786213874817
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5506730675697327
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.46791306138038635
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9937863349914551
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.6128451228141785
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.8367376327514648
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.4434105157852173
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.42921894788742065
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.7405597567558289
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.4517202079296112
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8171806931495667
+        },
+        {
+            "common_name": "Canada Goose",
+            "scientific_name": "Branta canadensis",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.40990743041038513
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.7337257862091064
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.41419318318367004
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9987051486968994
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.6351491808891296
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.8931413888931274
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 783.0,
+            "end_time": 786.0,
+            "confidence": 0.6046833992004395
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.5676868557929993
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 828.0,
+            "end_time": 831.0,
+            "confidence": 0.6338937282562256
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.448984295129776
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9021333456039429
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9884823560714722
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7203895449638367
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.4097130000591278
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.5195593237876892
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.46994274854660034
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.5732834339141846
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9836175441741943
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.8934451937675476
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5340898036956787
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.45968228578567505
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.8163796663284302
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.41681787371635437
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8497382402420044
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.5651749968528748
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.997236967086792
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9420260190963745
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.4612914025783539
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.5294823050498962
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.5678513050079346
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9263991117477417
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9883285760879517
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.8571003079414368
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5957874059677124
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9833347201347351
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.40547776222229004
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9984654188156128
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9852445721626282
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Little Grebe",
+            "scientific_name": "Tachybaptus ruficollis",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4968622028827667
+        },
+        {
+            "common_name": "Little Grebe",
+            "scientific_name": "Tachybaptus ruficollis",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.4373534917831421
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.8807730078697205
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7494569420814514
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.6902868151664734
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.4851425290107727
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9982041120529175
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.45928505063056946
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.41694962978363037
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.4333738088607788
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.5335725545883179
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.41942647099494934
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9346890449523926
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8071972727775574
+        },
+        {
+            "common_name": "Canada Goose",
+            "scientific_name": "Branta canadensis",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.4063824415206909
+        },
+        {
+            "common_name": "Canada Goose",
+            "scientific_name": "Branta canadensis",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.41481146216392517
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.580893874168396
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.998638927936554
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.9231486916542053
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9335750937461853
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.46695783734321594
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.8281003832817078
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9863114953041077
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7795288562774658
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.40950241684913635
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7236993908882141
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9976293444633484
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.7147170901298523
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9447058439254761
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.7076553106307983
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.7293374538421631
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9983541965484619
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.9084956049919128
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.7792775630950928
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 828.0,
+            "end_time": 831.0,
+            "confidence": 0.6381232738494873
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.4441804885864258
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9835485816001892
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9872735738754272
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.4885329008102417
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7784121036529541
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.4536277651786804
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5294733047485352
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Little Ringed Plover",
+            "scientific_name": "Charadrius dubius",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.7539016604423523
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9750508069992065
+        },
+        {
+            "common_name": "Little Ringed Plover",
+            "scientific_name": "Charadrius dubius",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.4081672728061676
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.5305382013320923
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.42680594325065613
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.9983355402946472
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9067291021347046
+        },
+        {
+            "common_name": "Green Sandpiper",
+            "scientific_name": "Tringa ochropus",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.7124403119087219
+        },
+        {
+            "common_name": "Whinchat",
+            "scientific_name": "Saxicola rubetra",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.40947651863098145
+        }
+    ]
+}

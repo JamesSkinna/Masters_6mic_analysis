@@ -1,0 +1,172 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.6226714849472046
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.624496579170227
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.43432730436325073
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.5697154402732849
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.4127315878868103
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.6130334138870239
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.5613608360290527
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.6503188014030457
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.47708454728126526
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.5791494250297546
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.43629539012908936
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.8986949920654297
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.45384836196899414
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.6362452507019043
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.5455737113952637
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.5951135158538818
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.6236128807067871
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.5530580282211304
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.8034130334854126
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.4499766230583191
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Bullfinch",
+            "scientific_name": "Pyrrhula pyrrhula",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.4836117625236511
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.45014119148254395
+        }
+    ]
+}

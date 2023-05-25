@@ -1,0 +1,831 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9579514265060425
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.5629381537437439
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.5232856273651123
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.45532000064849854
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5296353697776794
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.618375837802887
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.4583514928817749
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.7000740170478821
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9200007319450378
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.7084165811538696
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.46857136487960815
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.7409936189651489
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.5916837453842163
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.6666820049285889
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.4563969671726227
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.798342227935791
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9433421492576599
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 828.0,
+            "end_time": 831.0,
+            "confidence": 0.4157353341579437
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.7535595893859863
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.7323611974716187
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.8903993368148804
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.7016828060150146
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.5065042972564697
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.5087684392929077
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.43199723958969116
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.46226081252098083
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.7774207592010498
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9577769637107849
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.8245534896850586
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.841528594493866
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.7870388627052307
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.4934256970882416
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.49393483996391296
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8977118134498596
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.7360222935676575
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9696629047393799
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7418285012245178
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.5304285287857056
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9596561789512634
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.9786256551742554
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.40421658754348755
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.5478019118309021
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.40216076374053955
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.7551929950714111
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.49442020058631897
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.604399561882019
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.6386812329292297
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.5530994534492493
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.4555685520172119
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.4134784936904907
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.5143175721168518
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.6860191822052002
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.6072509288787842
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.5705347061157227
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.4763711392879486
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9144321084022522
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.5748076438903809
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.671686053276062
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.47060054540634155
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.518857479095459
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9602900743484497
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7367057204246521
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 828.0,
+            "end_time": 831.0,
+            "confidence": 0.7929401397705078
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.41393956542015076
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.5734548568725586
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.5470093488693237
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9244738221168518
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.7784610986709595
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.49549150466918945
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.4848627746105194
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.6688655614852905
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.5843049883842468
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 531.0,
+            "end_time": 534.0,
+            "confidence": 0.401726633310318
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 618.0,
+            "end_time": 621.0,
+            "confidence": 0.5886685252189636
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.4738041162490845
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.52699875831604
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9586326479911804
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7618895173072815
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.6113490462303162
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.6741299033164978
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.5941221714019775
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.45560815930366516
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.8650866150856018
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 837.0,
+            "end_time": 840.0,
+            "confidence": 0.4744753837585449
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.5625727772712708
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.9147330522537231
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9453901052474976
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.9662930369377136
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.4568301737308502
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.5261954069137573
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.6571584343910217
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.9574578404426575
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.8489402532577515
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.8944583535194397
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.47571250796318054
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.5363640785217285
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.7064185738563538
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.7968316674232483
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.6946419477462769
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 618.0,
+            "end_time": 621.0,
+            "confidence": 0.4812626242637634
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.4520242512226105
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.7589114308357239
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.9106485843658447
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.8048018217086792
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.9476577043533325
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.7701920866966248
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7489330172538757
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.4933321475982666
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9232310056686401
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.9484209418296814
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.4106995761394501
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.7520660161972046
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.9087460041046143
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.9147934317588806
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.5511958599090576
+        },
+        {
+            "common_name": "Pied Avocet",
+            "scientific_name": "Recurvirostra avosetta",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5422747731208801
+        }
+    ],
+    "pf_chan4.mp3": []
+}

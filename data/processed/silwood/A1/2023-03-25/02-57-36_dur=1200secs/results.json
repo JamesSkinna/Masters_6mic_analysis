@@ -1,0 +1,3520 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.4058959484100342
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.45557641983032227
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.6282451748847961
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.8483439087867737
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.6886851787567139
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.6511583924293518
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.7793818116188049
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8061098456382751
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.5394753217697144
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6407069563865662
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 267.0,
+            "end_time": 270.0,
+            "confidence": 0.7649491429328918
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.6328305006027222
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.4103919267654419
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.5959429144859314
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.8093084096908569
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7395344972610474
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4119170010089874
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.8073816895484924
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.7759145498275757
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.750022292137146
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5091453790664673
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.7148934006690979
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.8908739686012268
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.41733047366142273
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.5037205219268799
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.821230947971344
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.7143077254295349
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.7429667711257935
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.9601258635520935
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.4718516170978546
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.6925418376922607
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6025946736335754
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.8134771585464478
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.4552913308143616
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.4161963164806366
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 513.0,
+            "end_time": 516.0,
+            "confidence": 0.4825534522533417
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.556677520275116
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.6011359691619873
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.5032275915145874
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.760431706905365
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.8109944462776184
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.8094590902328491
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.4329371750354767
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9109501242637634
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.6768528819084167
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.8119475841522217
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "confidence": 0.8456974029541016
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.7472963929176331
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.7256455421447754
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.6608938574790955
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.6887447237968445
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.576110303401947
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.8651635050773621
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.616655170917511
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.5053583979606628
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.4668910801410675
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.562935471534729
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.4160012900829315
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.8228296637535095
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.6280777454376221
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.5723478198051453
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6532484889030457
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.4329862594604492
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.6176143288612366
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.8948766589164734
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.7713813781738281
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.6770339012145996
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.8082523345947266
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.5171695947647095
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.6952464580535889
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5612576603889465
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4826816916465759
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.48056137561798096
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.411737322807312
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.914691150188446
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.6167683005332947
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.6057605147361755
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.473544180393219
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.4068808853626251
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.7849175930023193
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.8518509268760681
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.6575334668159485
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.7038096189498901
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.5668953061103821
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.7504245638847351
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.5405078530311584
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.750588059425354
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8198544979095459
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7672646045684814
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.6837533712387085
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.7195917367935181
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.8197885751724243
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.41436609625816345
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7500849962234497
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.7889108061790466
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.44649794697761536
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.4244811236858368
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.9038206338882446
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5578855276107788
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9160927534103394
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.938161313533783
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.9425234794616699
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.9052442908287048
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.4579445421695709
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.49290376901626587
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.8300910592079163
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9284889698028564
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.5694804191589355
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.90105801820755
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.41239818930625916
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.5463516116142273
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.8897947669029236
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.48127731680870056
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.853646457195282
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6877586245536804
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.8720439076423645
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.6128851771354675
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.8163898587226868
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.4974711239337921
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.5316486358642578
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.7051236629486084
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.6422747373580933
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5798754692077637
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.868257462978363
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 573.0,
+            "end_time": 576.0,
+            "confidence": 0.4738806188106537
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.6513558030128479
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "confidence": 0.6021378636360168
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.49279090762138367
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.5760318040847778
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5023248195648193
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.6828585863113403
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 708.0,
+            "end_time": 711.0,
+            "confidence": 0.5466526746749878
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.43727028369903564
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.5167096257209778
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.5913649201393127
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.47894200682640076
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 882.0,
+            "end_time": 885.0,
+            "confidence": 0.4020191431045532
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.619539201259613
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.547865092754364
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.8362932801246643
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.8123803734779358
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.6981245279312134
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.762097954750061
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.4433346390724182
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.5107528567314148
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.6694260239601135
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.9374855756759644
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.8134496212005615
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7643608450889587
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.834774911403656
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.6845418810844421
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.6219152212142944
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.5617175102233887
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5473270416259766
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.49691200256347656
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.510210394859314
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8817150592803955
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.8849842548370361
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5905057787895203
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.7353737354278564
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.5650439858436584
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.7461774945259094
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8330923914909363
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.7906320095062256
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7109665870666504
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.7048021554946899
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.6224765777587891
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5588110685348511
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.729081928730011
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.5040715336799622
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.7135071158409119
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.76386559009552
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.7714853882789612
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.5998038053512573
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.5248417258262634
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.8270875215530396
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.7416931390762329
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.9222544431686401
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.9051427841186523
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.6092239618301392
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.5717005729675293
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.4516742527484894
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.6080979108810425
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7598434686660767
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.868582546710968
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.7189163565635681
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.5238626599311829
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.9405564069747925
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.7129136919975281
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.918188750743866
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.9590668678283691
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5405918955802917
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.9577776193618774
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8143733143806458
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.5245033502578735
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.6851551532745361
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.7415757179260254
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.7916406989097595
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.6972476840019226
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.9393011331558228
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.5133683681488037
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.8233703374862671
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.8200148940086365
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.8838055729866028
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.7947463393211365
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.4353090822696686
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.8585430979728699
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.8147857785224915
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.7256295084953308
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.7248131036758423
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.5891602635383606
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 531.0,
+            "end_time": 534.0,
+            "confidence": 0.8861207962036133
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.7608593702316284
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.7011120319366455
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.8199794888496399
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.8786640167236328
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.6035407185554504
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.7859554886817932
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.4913090765476227
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.5840791463851929
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.932100772857666
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.6847790479660034
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 573.0,
+            "end_time": 576.0,
+            "confidence": 0.5214845538139343
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 576.0,
+            "end_time": 579.0,
+            "confidence": 0.46148934960365295
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.8160473704338074
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "confidence": 0.8798797130584717
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.9579527974128723
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.47240978479385376
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 681.0,
+            "end_time": 684.0,
+            "confidence": 0.8562772870063782
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.7121415138244629
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.5228888392448425
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.4839503765106201
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8113057017326355
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.4987804889678955
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.6215826272964478
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.6882476806640625
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.8410657644271851
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.9222062826156616
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.8542706370353699
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.8918967247009277
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.7206735610961914
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.6240348219871521
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.6513437032699585
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.7504022121429443
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.9660835862159729
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.44518014788627625
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.9299555420875549
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.9054524898529053
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.6919703483581543
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.9682759046554565
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.6134980320930481
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.5467799305915833
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.8961485028266907
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.8272039890289307
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7258861660957336
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.7094451189041138
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6138513684272766
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5016171336174011
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.45429888367652893
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8776821494102478
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.45471057295799255
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.9429534077644348
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.7203515768051147
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.8316158652305603
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.8625078201293945
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9274401664733887
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8109461665153503
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.845457911491394
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7623789310455322
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.90678471326828
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.46582621335983276
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.7185685634613037
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.7919857501983643
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.834983229637146
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.4360305666923523
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.732958972454071
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.6850352883338928
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.8255408406257629
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.8514418601989746
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.5680559873580933
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.5849276185035706
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.4906478226184845
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.9442085027694702
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1194.0,
+            "end_time": 1197.0,
+            "confidence": 0.5085362195968628
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.9339730739593506
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.46576207876205444
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.6317695379257202
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.42300042510032654
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.7408958673477173
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6022782325744629
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.7411623597145081
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.9048687815666199
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6540604829788208
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.8676289319992065
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.8731073141098022
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.8954945802688599
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5959540009498596
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.5503183603286743
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.51470947265625
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.9186830520629883
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9576781988143921
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9691786766052246
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4304804801940918
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.6121355891227722
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.9657491445541382
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.6100063323974609
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.6669505834579468
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.9750983119010925
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.873264729976654
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.702099084854126
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.7146239876747131
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.5301623940467834
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.8483912944793701
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.6748614311218262
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 507.0,
+            "end_time": 510.0,
+            "confidence": 0.7747315168380737
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.6498881578445435
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.8680940270423889
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5595334768295288
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.40397363901138306
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.7824316620826721
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "confidence": 0.7146149277687073
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.6929209232330322
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.7692609429359436
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.47641387581825256
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.5865293741226196
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 708.0,
+            "end_time": 711.0,
+            "confidence": 0.6957050561904907
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.449142724275589
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.7067410349845886
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.4347679615020752
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.43409666419029236
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.4753619134426117
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.5152949690818787
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.8531275391578674
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.43265974521636963
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5487001538276672
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.4271426796913147
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.780517041683197
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.790787398815155
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.6957217454910278
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6495480537414551
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.40769511461257935
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.44113031029701233
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.5901646614074707
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.8975933194160461
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.43402501940727234
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.8216774463653564
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8666277527809143
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.8197035193443298
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.784633457660675
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.5520490407943726
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.5838490128517151
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.715151309967041
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5979933738708496
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.46097809076309204
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5712089538574219
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.9196552038192749
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.9293336868286133
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5929576754570007
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.5550534129142761
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.8212233781814575
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.8628222346305847
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.8146622180938721
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.6880144476890564
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.7704617977142334
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.6317139267921448
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.4765264689922333
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.8795931935310364
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.757179856300354
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.7082036137580872
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.6589115262031555
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.6399558782577515
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.7296916246414185
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.6741297841072083
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.413724809885025
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.8631684184074402
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.8617417812347412
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.845512866973877
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.6008695960044861
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7946630716323853
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.889887273311615
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.9540438652038574
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.8389717936515808
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5531119108200073
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.4328702390193939
+        },
+        {
+            "common_name": "Whinchat",
+            "scientific_name": "Saxicola rubetra",
+            "start_time": 783.0,
+            "end_time": 786.0,
+            "confidence": 0.4955335557460785
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.622294545173645
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.6828009486198425
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.7482210993766785
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.7945860028266907
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.8299972414970398
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.5555906891822815
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.5421246886253357
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.9657899141311646
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.6273943781852722
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.9388889074325562
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8112637996673584
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.7656978964805603
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.9540383219718933
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.7810739874839783
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7478667497634888
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.7972689270973206
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.46668267250061035
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7884088158607483
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.7636117339134216
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.8381644487380981
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.786090612411499
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.6218722462654114
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.933489978313446
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.9384281039237976
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.8641735911369324
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.904363214969635
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.8593868017196655
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.946991503238678
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.8491213917732239
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.8391215205192566
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.7965185046195984
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7023833394050598
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.8979425430297852
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.7264052629470825
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.4984097480773926
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.9379262328147888
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5583497285842896
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7408510446548462
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.797274649143219
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8421199917793274
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.7002323269844055
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.9709051847457886
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.8239594101905823
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9486094117164612
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.9516409039497375
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.9570547938346863
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.8248326778411865
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.7124609351158142
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.4329011142253876
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.505936324596405
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.6376034617424011
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.8398190140724182
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9412353038787842
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9079875946044922
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.7054105997085571
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.927438497543335
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.6810247302055359
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.7751287817955017
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.9873456358909607
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.6476263403892517
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.8985236883163452
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.46750080585479736
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.8149349093437195
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.6209481358528137
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.8386585712432861
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 588.0,
+            "end_time": 591.0,
+            "confidence": 0.5651840567588806
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.432788223028183
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.5802424550056458
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 708.0,
+            "end_time": 711.0,
+            "confidence": 0.8442626595497131
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.8430749773979187
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.7316691875457764
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.4179697334766388
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.45325765013694763
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.724753737449646
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.504705548286438
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.5652124285697937
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.6025059223175049
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.4185863733291626
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.6673815846443176
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.7439297437667847
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.4435872733592987
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.6300650835037231
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.9017727971076965
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.8450019359588623
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7740904688835144
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.7860089540481567
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.7220079898834229
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.5468897819519043
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.41433703899383545
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.7195063233375549
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5370863676071167
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4420059025287628
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8003037571907043
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5705080628395081
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.9710713028907776
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.8168843388557434
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.6791490912437439
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.6071624755859375
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.6132460832595825
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.914707601070404
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9228198528289795
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7314642071723938
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.6597272157669067
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1140.0,
+            "end_time": 1143.0,
+            "confidence": 0.5118368268013
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5674985647201538
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.7988362312316895
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.5496734976768494
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8021992444992065
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7577319741249084
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.42591115832328796
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.47072920203208923
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.4367784559726715
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.9395049810409546
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1194.0,
+            "end_time": 1197.0,
+            "confidence": 0.6793855428695679
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.9714944958686829
+        }
+    ]
+}

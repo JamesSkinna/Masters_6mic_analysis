@@ -1,0 +1,199 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.4998506009578705
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.5592175126075745
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 300.0,
+            "end_time": 303.0,
+            "confidence": 0.5687768459320068
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.5371721982955933
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.40236034989356995
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.669340968132019
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.8907040357589722
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.8256835341453552
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.6343713402748108
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.5307273268699646
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.6001290678977966
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.7633972764015198
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.4453071057796478
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.6160537600517273
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.43530890345573425
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.5323344469070435
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.44434642791748047
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5235527157783508
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.9583276510238647
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.5406985282897949
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.5728467106819153
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.4282662272453308
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.641355037689209
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.5084977149963379
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6199842095375061
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.40201765298843384
+        }
+    ]
+}

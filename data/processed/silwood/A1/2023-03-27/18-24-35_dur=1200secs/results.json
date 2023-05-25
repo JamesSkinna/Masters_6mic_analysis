@@ -1,0 +1,108 @@
+{
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.8066577315330505
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4933641850948334
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.9544913172721863
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.7228453159332275
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.8983926177024841
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.9186033606529236
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.9549307227134705
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4040917158126831
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.8636400103569031
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.9759213328361511
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.7909806370735168
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.932000458240509
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.8843308091163635
+        }
+    ],
+    "pf_chan4.mp3": []
+}

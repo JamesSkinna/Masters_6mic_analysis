@@ -1,0 +1,2062 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.40321457386016846
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.42517536878585815
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5051383376121521
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.6946751475334167
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.5708513259887695
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6370049715042114
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.5212893486022949
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7739517688751221
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.6688507199287415
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.44091153144836426
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.4673130214214325
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.9328148365020752
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.8427775502204895
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.9062644839286804
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.8785222172737122
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.809899628162384
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9747032523155212
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.8946380019187927
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9662011861801147
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9793329834938049
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.9354065656661987
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9233044981956482
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.7440623641014099
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.9273061752319336
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.5364729762077332
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.6080842018127441
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.8569474220275879
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.8679966926574707
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.6009312272071838
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9117322564125061
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9276903867721558
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.928106427192688
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.9013736844062805
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.7858028411865234
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan2.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.7882696390151978
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.5583374500274658
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.6649816632270813
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5491752624511719
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.4507499635219574
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6466127634048462
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.5075626969337463
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.4629419445991516
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.42713236808776855
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.5567190647125244
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.47404342889785767
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.827787458896637
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5343611836433411
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.4066159427165985
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.5824893116950989
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.80410236120224
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5142120122909546
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7421678900718689
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.7404513359069824
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.5932062864303589
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.6656493544578552
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7732225656509399
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.7584570050239563
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.6323327422142029
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.9474433064460754
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.6109339594841003
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.4813157618045807
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.7202622294425964
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9195222854614258
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.7901697754859924
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.41932412981987
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.965427041053772
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9742499589920044
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9642466306686401
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.9735857844352722
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9821656346321106
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.8705163598060608
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.9586578607559204
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.5947293043136597
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.661603569984436
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.7583518624305725
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.4656934142112732
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.5641539096832275
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.8386648893356323
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.8360757231712341
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.8521035313606262
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.8820048570632935
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5945695638656616
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.7598193883895874
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7180476784706116
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.7622240781784058
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.7871448993682861
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.927668571472168
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.46318328380584717
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.7318305969238281
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.5798861980438232
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.6013731956481934
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.8349855542182922
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.695356011390686
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.9055725336074829
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6760892271995544
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.8549916744232178
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.8787769675254822
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.7529537081718445
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.45412737131118774
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.8043510913848877
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.7324799299240112
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.7407069206237793
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.7482057213783264
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.6308015584945679
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.41188564896583557
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.7602779865264893
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.7084724307060242
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.41343337297439575
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.8916609287261963
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.9456612467765808
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6342260837554932
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6464094519615173
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7974912524223328
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.8401973247528076
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.42676877975463867
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 120.0,
+            "end_time": 123.0,
+            "confidence": 0.46313270926475525
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.8311312198638916
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.8994320631027222
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.6936764121055603
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.7690525650978088
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7774335741996765
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.5877578258514404
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.8610274195671082
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5865379571914673
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.9788145422935486
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.7235059142112732
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.7095199823379517
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9766024947166443
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8742299675941467
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.45919251441955566
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.9528251886367798
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9655912518501282
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9871379137039185
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.9004248380661011
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9776045680046082
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9196586012840271
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.9677641987800598
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.44267162680625916
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.7066778540611267
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6807860136032104
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.6056150197982788
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.863000750541687
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.4332461357116699
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.48638296127319336
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.4590083062648773
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.4560803771018982
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.44259774684906006
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.5229250192642212
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.4529373049736023
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.7782942652702332
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.7499371767044067
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.7245668768882751
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4476405382156372
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.4314867854118347
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6107600927352905
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.5361079573631287
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.48589861392974854
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.693160355091095
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4174726903438568
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.6996386647224426
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.715458869934082
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.8452578783035278
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.6037217974662781
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.5965916514396667
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.5121393203735352
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5343002080917358
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.48017823696136475
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.6715809106826782
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.7510485053062439
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6534201502799988
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.7511113286018372
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.7175820469856262
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.5050237774848938
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.7875298857688904
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.4067966043949127
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.773249626159668
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.8969197869300842
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.5600626468658447
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.951486349105835
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8386980891227722
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.42885202169418335
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.9823201298713684
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9720069766044617
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9779988527297974
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.9382227063179016
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9692174196243286
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9078980088233948
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.8603265285491943
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.8445826768875122
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.47246086597442627
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.5312913656234741
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.6110605597496033
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.5775788426399231
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9293450713157654
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.5554149150848389
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.7386952638626099
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.7079685926437378
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.7562040686607361
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.45405715703964233
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.5472742915153503
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8434606194496155
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.42538148164749146
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.7013657689094543
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.6548513770103455
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.6978894472122192
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.6782922148704529
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7324879765510559
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6371617913246155
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.7578732371330261
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.7865749597549438
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.45892998576164246
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.8401558995246887
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.518490731716156
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.76752769947052
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.7166211605072021
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.6216948628425598
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5811851024627686
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.5858240723609924
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6050561666488647
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.5716695785522461
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.899175226688385
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.41807740926742554
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.4566463828086853
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.460140198469162
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.6599646806716919
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.8096161484718323
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.5362924337387085
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.8528338670730591
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.47135552763938904
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 171.0,
+            "end_time": 174.0,
+            "confidence": 0.693278431892395
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5532888174057007
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.8396565318107605
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.6241939067840576
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9361212849617004
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.7455124855041504
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.4850441813468933
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.8687955737113953
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9227166175842285
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9627512097358704
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.9454571008682251
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9547683596611023
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.8316698670387268
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.9392099380493164
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.594143271446228
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.8713212609291077
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.8446962833404541
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.8977351784706116
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.7151274085044861
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5524836778640747
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.6998002529144287
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.6546040177345276
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9242212176322937
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.451455682516098
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.7484605312347412
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.6540248990058899
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.673299252986908
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7604365348815918
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.5977844595909119
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7428514957427979
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6857423782348633
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.8727828860282898
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.8763759136199951
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.5142672657966614
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.7206549048423767
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.803696870803833
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.9521212577819824
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.5618182420730591
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.7531070709228516
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.8035519123077393
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.6220148801803589
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.6450406312942505
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6331897377967834
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 87.0,
+            "end_time": 90.0,
+            "confidence": 0.750252366065979
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8984569907188416
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.7236855626106262
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.6762135624885559
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.542805552482605
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.5501075983047485
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.7769124507904053
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 123.0,
+            "end_time": 126.0,
+            "confidence": 0.6250252723693848
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.7545264959335327
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.70326828956604
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.4103280007839203
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7555707097053528
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.8208408951759338
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.42595812678337097
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.8932183384895325
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.7116354703903198
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.8328023552894592
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.8539267778396606
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5889224410057068
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.903985321521759
+        }
+    ]
+}

@@ -1,0 +1,850 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.7764303088188171
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.9335885643959045
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.8581264019012451
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9043442010879517
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.8278539776802063
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.8850266337394714
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.49033305048942566
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.4214281439781189
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.8151606321334839
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.8406663537025452
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.7724303007125854
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9080623984336853
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.6356385350227356
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.7128573656082153
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.40723228454589844
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.7301432490348816
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.733563244342804
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.7922101020812988
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.7628105282783508
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7082847952842712
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.7044647932052612
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.9397842288017273
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.4054207503795624
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.87656170129776
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9176221489906311
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8047468066215515
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.6389075517654419
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.4231487810611725
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.6958925724029541
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.5624316334724426
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.7448779940605164
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.4302579164505005
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.8635825514793396
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.7035266160964966
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.6773856282234192
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7421165704727173
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5612176656723022
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.47703999280929565
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.44947394728660583
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 234.0,
+            "end_time": 237.0,
+            "confidence": 0.5025129318237305
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.5870308876037598
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.7811717391014099
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.6991230249404907
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.6168206334114075
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.5245974063873291
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.8921217322349548
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.4058953821659088
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.681939423084259
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.45598289370536804
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.8298134803771973
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.6188695430755615
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.9305723309516907
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.9203943014144897
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.44800952076911926
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.9684933423995972
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.9814149737358093
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.963638961315155
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.9223501086235046
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.8431722521781921
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.6341701149940491
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.6449901461601257
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.927272617816925
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.46506375074386597
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.8398081660270691
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.6979256868362427
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.7515155076980591
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.6320862770080566
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.5939809679985046
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.5145756602287292
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.8836754560470581
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.43108808994293213
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.8282530903816223
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.6077969074249268
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.6137576699256897
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.40649956464767456
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.6961560249328613
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.40524280071258545
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.6159907579421997
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.6550191044807434
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.4380786716938019
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.49812209606170654
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.6808415055274963
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.40920817852020264
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5747281908988953
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.4056765139102936
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.927737295627594
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.4933662712574005
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8803262710571289
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7407059669494629
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.5927816033363342
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6015459895133972
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.5403895378112793
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9295745491981506
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.4178510904312134
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.6556106209754944
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7888853549957275
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.43828287720680237
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.8881953358650208
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.8660919666290283
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.4416271150112152
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.7344003915786743
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8680433034896851
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.416164755821228
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.7080295085906982
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.5595158338546753
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.5711996555328369
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.4326810836791992
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.4029094874858856
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8049430847167969
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.6908900737762451
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.4173405170440674
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.5777628421783447
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.5195521712303162
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.5160380601882935
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.5573611855506897
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.42205294966697693
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.4426133334636688
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.7814902663230896
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.4316912889480591
+        }
+    ]
+}

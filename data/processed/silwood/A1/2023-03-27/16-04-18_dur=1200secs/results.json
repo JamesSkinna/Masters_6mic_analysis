@@ -1,0 +1,858 @@
+{
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9069753885269165
+        },
+        {
+            "common_name": "Pied Avocet",
+            "scientific_name": "Recurvirostra avosetta",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.44713687896728516
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.46755728125572205
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.41225510835647583
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.7711913585662842
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.9614737033843994
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.6802125573158264
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.5007882118225098
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.7179611921310425
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.7182161211967468
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.5099638104438782
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.5952587723731995
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.7395243048667908
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6597374081611633
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.9508838653564453
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.50607830286026
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.6718264818191528
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.5889551043510437
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.46920865774154663
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.4691115617752075
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.4567006528377533
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6147790551185608
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.6654051542282104
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.5773730278015137
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.752642035484314
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.5393151640892029
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.6317257285118103
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.9021391868591309
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.8704750537872314
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.7818936109542847
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.9151959419250488
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.42604243755340576
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.5896063446998596
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.4960145950317383
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.7814901471138
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.5861108303070068
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.9772501587867737
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.6274956464767456
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.6847929954528809
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.7414109110832214
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.46593183279037476
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.5937106609344482
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.7653422951698303
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.6591929197311401
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.6862747669219971
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.5549428462982178
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.6992619633674622
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.8132116198539734
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.7834645509719849
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8562785387039185
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.6235798597335815
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.6813547015190125
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.5646304488182068
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.6718939542770386
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.486596018075943
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.9661930799484253
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.579441249370575
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.6061263680458069
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.5844919085502625
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.5007767677307129
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.5444811582565308
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5959332585334778
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.8997313976287842
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.9085919857025146
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.8244225978851318
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.802894651889801
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.840829074382782
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.8865517973899841
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.5858015418052673
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.559275209903717
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.5862201452255249
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.7227923274040222
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6354755163192749
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.96998131275177
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.520155131816864
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.4672955274581909
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.5374881625175476
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6931378245353699
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.5079454183578491
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.8898917436599731
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.8956408500671387
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.4674844443798065
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.85152667760849
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.7535111308097839
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.5346647500991821
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 666.0,
+            "end_time": 669.0,
+            "confidence": 0.6020585298538208
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 669.0,
+            "end_time": 672.0,
+            "confidence": 0.7333228588104248
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 675.0,
+            "end_time": 678.0,
+            "confidence": 0.632064163684845
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 681.0,
+            "end_time": 684.0,
+            "confidence": 0.7234013080596924
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.6797235012054443
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.6353592872619629
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.5752977132797241
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.5970827341079712
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8060858249664307
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.458135724067688
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6946523785591125
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.6863281726837158
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.7827990651130676
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.8339318633079529
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.5979987978935242
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.9282153844833374
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.9142401814460754
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8989927172660828
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.6631720066070557
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.7188721299171448
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.5556229948997498
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.7344854474067688
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6636131405830383
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.9863603115081787
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.6529768705368042
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.6197993755340576
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.6594727635383606
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.5311347246170044
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.6450212001800537
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.7583735585212708
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 633.0,
+            "end_time": 636.0,
+            "confidence": 0.5225068926811218
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.7955775856971741
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 681.0,
+            "end_time": 684.0,
+            "confidence": 0.4510219693183899
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.6737670302391052
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.41834205389022827
+        }
+    ]
+}

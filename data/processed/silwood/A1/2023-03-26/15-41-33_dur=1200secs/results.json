@@ -1,0 +1,313 @@
+{
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.4570346772670746
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.6930484771728516
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.5007776618003845
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.7031717300415039
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.5559634566307068
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5553439855575562
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.42277148365974426
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.4598512351512909
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.5256351828575134
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.5660682320594788
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.5839166045188904
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.5095098614692688
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.6335952877998352
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8638113141059875
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.5622779726982117
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.767605185508728
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.7665739059448242
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.4270038306713104
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.9695321917533875
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.42519399523735046
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.754559338092804
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.40871456265449524
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.49930134415626526
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.42570236325263977
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.7646055817604065
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.4617305397987366
+        },
+        {
+            "common_name": "Eurasian Magpie",
+            "scientific_name": "Pica pica",
+            "start_time": 663.0,
+            "end_time": 666.0,
+            "confidence": 0.46360716223716736
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.7906197309494019
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5288358330726624
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.6078534722328186
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.6344782114028931
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.7616801261901855
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.8228172063827515
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.4023815393447876
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.48949670791625977
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.46187230944633484
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.5370512008666992
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.6352435946464539
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8110767006874084
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.7877838015556335
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.553938627243042
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.5286699533462524
+        }
+    ]
+}

@@ -1,0 +1,2638 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9902503490447998
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9882981181144714
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.6721355319023132
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.48132553696632385
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9852039813995361
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.987672746181488
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.724300742149353
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.6209519505500793
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.41357162594795227
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9757124781608582
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5933511257171631
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.5971686244010925
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9590325951576233
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.8877631425857544
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.43289467692375183
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.8237267136573792
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.9666215777397156
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.834343433380127
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9837957620620728
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.5828564167022705
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.988637387752533
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9844886064529419
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.5751098990440369
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.5725171566009521
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.5256651639938354
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.9702789783477783
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.46855589747428894
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.9453837871551514
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.401959627866745
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.7458654642105103
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.49420371651649475
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.7481433153152466
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.8127899169921875
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.5459644794464111
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.8661141395568848
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9218252301216125
+        },
+        {
+            "common_name": "Egyptian Goose",
+            "scientific_name": "Alopochen aegyptiaca",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8188619017601013
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.47741585969924927
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.452210396528244
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.5112878680229187
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.8256510496139526
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.4286820590496063
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 867.0,
+            "end_time": 870.0,
+            "confidence": 0.6190738081932068
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.8488833904266357
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.9142512083053589
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.46879759430885315
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.5785203576087952
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.5830287933349609
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.8139402270317078
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 918.0,
+            "end_time": 921.0,
+            "confidence": 0.8488025069236755
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.9034503698348999
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.767716646194458
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.6269638538360596
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.7226706743240356
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.5713637471199036
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.6645983457565308
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 954.0,
+            "end_time": 957.0,
+            "confidence": 0.5533570051193237
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8177686929702759
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.5891631841659546
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.6925433874130249
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.6276591420173645
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.5799623131752014
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9179798364639282
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.8215144276618958
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.751297652721405
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.7608217597007751
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.47291019558906555
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.8367089629173279
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5031283497810364
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.7603131532669067
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.5174689292907715
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6295912265777588
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8532729148864746
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.7944396138191223
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4386349022388458
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.8159664273262024
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8090412616729736
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.9053103923797607
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.44676491618156433
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.6566527485847473
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.4161152243614197
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.49202781915664673
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.45387503504753113
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.4700838029384613
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8406018614768982
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7671083807945251
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.8996222615242004
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.6626715660095215
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.7817602753639221
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.871938943862915
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.4634673595428467
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.5844325423240662
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.6066096425056458
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.7021075487136841
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.9767822623252869
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.5245446562767029
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9918056726455688
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9933565258979797
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4366776943206787
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9953423738479614
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9936476349830627
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.5523490309715271
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 273.0,
+            "end_time": 276.0,
+            "confidence": 0.43617454171180725
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.7305623888969421
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9697481989860535
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.4917542636394501
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.5753544569015503
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.562777042388916
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.6658411622047424
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9819865226745605
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9876692891120911
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9962642788887024
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.5049351453781128
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.9869762063026428
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.539420485496521
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.47244590520858765
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9789568781852722
+        },
+        {
+            "common_name": "Egyptian Goose",
+            "scientific_name": "Alopochen aegyptiaca",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.5211843252182007
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.48675838112831116
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.45734402537345886
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.6143392324447632
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 918.0,
+            "end_time": 921.0,
+            "confidence": 0.5574567914009094
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.5289142727851868
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.471468448638916
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.472368061542511
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.6690312623977661
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.4136110544204712
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9047436118125916
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 954.0,
+            "end_time": 957.0,
+            "confidence": 0.8535295724868774
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.8164583444595337
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8060173392295837
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8790052533149719
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.7854167819023132
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.4037421941757202
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.8796063661575317
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 972.0,
+            "end_time": 975.0,
+            "confidence": 0.8448938727378845
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.9016631841659546
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9419023990631104
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9449863433837891
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9345892667770386
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.8835370540618896
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9381198883056641
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.5324088931083679
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.9453436732292175
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.9358930587768555
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.9457162618637085
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.9025046229362488
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.9689254760742188
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.9584442377090454
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.9652175307273865
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.9551399946212769
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.6192319989204407
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.5079314112663269
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.6667978167533875
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.5876379013061523
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.40180128812789917
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.6667913198471069
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9400647878646851
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9432204961776733
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.7787734270095825
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9085574150085449
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.4958970844745636
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.8971068263053894
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.6485311985015869
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.7922154068946838
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.42737165093421936
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.4339952766895294
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.8568387627601624
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.5976815223693848
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.518913984298706
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.6459071636199951
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.6835098266601562
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.7029566168785095
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 765.0,
+            "end_time": 768.0,
+            "confidence": 0.691750168800354
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.7605403661727905
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 792.0,
+            "end_time": 795.0,
+            "confidence": 0.7488323450088501
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.4691663980484009
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.8766373991966248
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.8143854141235352
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.8563621044158936
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.7760101556777954
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8215363025665283
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 972.0,
+            "end_time": 975.0,
+            "confidence": 0.7251409292221069
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.6307550072669983
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.5806666016578674
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.7716511487960815
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1113.0,
+            "end_time": 1116.0,
+            "confidence": 0.5129797458648682
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.6970614790916443
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.42129725217819214
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.7566270232200623
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9903016090393066
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9943239688873291
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9960020184516907
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9980059266090393
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.6887157559394836
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.5271929502487183
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9908343553543091
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.6850938200950623
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.5357140302658081
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9673678874969482
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9412081241607666
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.9138243794441223
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.9076266884803772
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.8664495944976807
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9919224977493286
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.7658019065856934
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.4023059010505676
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.45916980504989624
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9847540855407715
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9945765733718872
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.7182722091674805
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.9871327877044678
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.989231288433075
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.4797559678554535
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 918.0,
+            "end_time": 921.0,
+            "confidence": 0.4995608627796173
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.4194677472114563
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8526427745819092
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.7820782661437988
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.7450701594352722
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5693581700325012
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.6968193054199219
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.420070081949234
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.6095505356788635
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.6111369132995605
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.4745369553565979
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.40359926223754883
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.49362680315971375
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.57765793800354
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.5698254108428955
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.713113009929657
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.4083751440048218
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.541416347026825
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.6536564826965332
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.8260927200317383
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 792.0,
+            "end_time": 795.0,
+            "confidence": 0.5177539587020874
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9795637726783752
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9816222190856934
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5266490578651428
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9843215942382812
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9805281758308411
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.456323504447937
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.6188015937805176
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9746518135070801
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.4204487204551697
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.8282169699668884
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.5402919054031372
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.5919013619422913
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9805439114570618
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9792373180389404
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9888179898262024
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.4484991431236267
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.9850854873657227
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.5334206819534302
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.646477997303009
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.6237189173698425
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.4471995234489441
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9581468105316162
+        },
+        {
+            "common_name": "Egyptian Goose",
+            "scientific_name": "Alopochen aegyptiaca",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.6086590886116028
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5019529461860657
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.5423306822776794
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.6443454623222351
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.5813344717025757
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.6598934531211853
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 954.0,
+            "end_time": 957.0,
+            "confidence": 0.8664212226867676
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.7677671909332275
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.9097394943237305
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8598470687866211
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.45301303267478943
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.9113792181015015
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 972.0,
+            "end_time": 975.0,
+            "confidence": 0.8347848653793335
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.8311754465103149
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9507549405097961
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.954211950302124
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9060682058334351
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.7344009280204773
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.7673243880271912
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.8260750770568848
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.938738226890564
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.9194505214691162
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.8419724702835083
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7584919929504395
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.9545540809631348
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.911583662033081
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.9259149432182312
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.6648076176643372
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.6300937533378601
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9495471119880676
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9055348038673401
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.7375020980834961
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.45721641182899475
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.6531586050987244
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.4887034296989441
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.6732766032218933
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9520561695098877
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.6170014142990112
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.8226823210716248
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.8691769242286682
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9871981739997864
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9894468784332275
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.9938607215881348
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.9974575638771057
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.6720282435417175
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.44491711258888245
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9907891154289246
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.6654993891716003
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9829439520835876
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9910799860954285
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.45886850357055664
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9957970380783081
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.4069388806819916
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.5964048504829407
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.9937531352043152
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.510474681854248
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.5435860753059387
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.4726138114929199
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.535137414932251
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9903984069824219
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5622349381446838
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.434797078371048
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 918.0,
+            "end_time": 921.0,
+            "confidence": 0.6183936595916748
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.6825665235519409
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.6324060559272766
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.5703740119934082
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.4654995799064636
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.6719226837158203
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9047410488128662
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9069652557373047
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 954.0,
+            "end_time": 957.0,
+            "confidence": 0.8093544244766235
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.8656327724456787
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8504686951637268
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.7933398485183716
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.661297082901001
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.9406430721282959
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 972.0,
+            "end_time": 975.0,
+            "confidence": 0.9210415482521057
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.960253894329071
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9800745248794556
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9655756950378418
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.969531238079071
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9318972229957581
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9648311734199524
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9001683592796326
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.978923499584198
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.9696246981620789
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.9683042168617249
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.9477381706237793
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.9505529403686523
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1011.0,
+            "end_time": 1014.0,
+            "confidence": 0.9558197855949402
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.9785022735595703
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.955331027507782
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.7351248264312744
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.5290483832359314
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.8429660201072693
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.7799445390701294
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.9613344073295593
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.5804105997085571
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.794920027256012
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9071947932243347
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.8620140552520752
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.9142026901245117
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.7574684619903564
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9172555208206177
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9631004929542542
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9680565595626831
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.8697590827941895
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9442140460014343
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8626182675361633
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.936715841293335
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.8117130398750305
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.5857787132263184
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.45655518770217896
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9151661396026611
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.8721977472305298
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1179.0,
+            "end_time": 1182.0,
+            "confidence": 0.8254693746566772
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.8021203279495239
+        }
+    ]
+}

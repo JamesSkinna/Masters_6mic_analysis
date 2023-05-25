@@ -1,0 +1,747 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.7140588164329529
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5285860896110535
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.6187824606895447
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.8118412494659424
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.6443555355072021
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.40223416686058044
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.4697498679161072
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.6340415477752686
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.44047611951828003
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.49088212847709656
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.48812103271484375
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.5103176236152649
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.43982258439064026
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.9120603799819946
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.9519397020339966
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.44908425211906433
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.49140748381614685
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.6965092420578003
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 591.0,
+            "end_time": 594.0,
+            "confidence": 0.4473813474178314
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.5435843467712402
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.5115166902542114
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.8370623588562012
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.7227349281311035
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.7861458659172058
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.6878606677055359
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.6239352226257324
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.41860440373420715
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.4907124638557434
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.5691377520561218
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.5367125272750854
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5955228209495544
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.5694072842597961
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.6934852600097656
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.7883155345916748
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.48739516735076904
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.7093340158462524
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.9496269226074219
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.7381218075752258
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.619357168674469
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.8218282461166382
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.4840548038482666
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.7861349582672119
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.6308849453926086
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7859287858009338
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.4019400179386139
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.4930504262447357
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 60.0,
+            "end_time": 63.0,
+            "confidence": 0.5666487812995911
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.42443379759788513
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.5066381692886353
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.5541918277740479
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.5380275249481201
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.508076012134552
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.5269469022750854
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.737753689289093
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9150151014328003
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.6598017811775208
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.8738425374031067
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.9055453538894653
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.9036650657653809
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.45088711380958557
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.7610095739364624
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.567516565322876
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.4866415858268738
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.5014012455940247
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.6459240317344666
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.5729109048843384
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.4555845558643341
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.7878772616386414
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.9085085391998291
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.9696394801139832
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 522.0,
+            "end_time": 525.0,
+            "confidence": 0.6313396692276001
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.830527126789093
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.7102227210998535
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6442750096321106
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.7713971734046936
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5800820589065552
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.42328721284866333
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.47812163829803467
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.5235960483551025
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.4989386796951294
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.4190983772277832
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.7556513547897339
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.4738406240940094
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.43136727809906006
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.7735483646392822
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.7115554809570312
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.507745087146759
+        },
+        {
+            "common_name": "Common Nightingale",
+            "scientific_name": "Luscinia megarhynchos",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.43034476041793823
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.4677639901638031
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.8892005681991577
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.9387654662132263
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.7211747169494629
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.7353032827377319
+        },
+        {
+            "common_name": "Eurasian Jay",
+            "scientific_name": "Garrulus glandarius",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5253766179084778
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.4242818057537079
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.43064987659454346
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.5835005640983582
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.5023583769798279
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5047293305397034
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.578187108039856
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.5581533908843994
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.656311571598053
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9632893800735474
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.6356102228164673
+        }
+    ]
+}

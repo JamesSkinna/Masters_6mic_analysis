@@ -1,0 +1,1385 @@
+{
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.44863250851631165
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7093438506126404
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.4156007170677185
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.936177670955658
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.897125244140625
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.47193118929862976
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.6319333910942078
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 297.0,
+            "end_time": 300.0,
+            "confidence": 0.5016244053840637
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.9768815636634827
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.9838755130767822
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.5931904315948486
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.578336775302887
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.974040150642395
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9828253388404846
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.5030279755592346
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.7577211260795593
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.9011203646659851
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.7013101577758789
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9298207759857178
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.4943859875202179
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.8018593192100525
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.9494681358337402
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9273549318313599
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.9276411533355713
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9533922672271729
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.779528021812439
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.5954204797744751
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.8427249193191528
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.5908631682395935
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.41308891773223877
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8199797868728638
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8823872804641724
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.6382597088813782
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.6651414036750793
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.48802080750465393
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5928573608398438
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.4264396131038666
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.950825572013855
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.6896768808364868
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.6937701106071472
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9401167035102844
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9404010772705078
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.49226945638656616
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.6861456632614136
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.619270920753479
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 258.0,
+            "end_time": 261.0,
+            "confidence": 0.7948135733604431
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.6495742201805115
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 300.0,
+            "end_time": 303.0,
+            "confidence": 0.4406951665878296
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.5607213973999023
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.972241222858429
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.9397012591362
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.4210112988948822
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.8870388269424438
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9234952330589294
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.8212572336196899
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.6684010624885559
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8816466927528381
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.6556606888771057
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.8579106330871582
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.7608512043952942
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.766478955745697
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.9349169731140137
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.8447255492210388
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.8373010754585266
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.961067795753479
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6576366424560547
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.5374607443809509
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.9475920796394348
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.973211944103241
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.9884656667709351
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.7950156927108765
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.5599469542503357
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.6123400330543518
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.5032429099082947
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.6647260785102844
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.5657172203063965
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.457332581281662
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.4511028826236725
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.4454604387283325
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.40597233176231384
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.6620640158653259
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.6950786113739014
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8462892174720764
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5181360244750977
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.8368859887123108
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.4012455642223358
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9104987382888794
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.8389545679092407
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.5174228549003601
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6329815983772278
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 258.0,
+            "end_time": 261.0,
+            "confidence": 0.629645586013794
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.9627406001091003
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.9742276668548584
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.5965831279754639
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.531333863735199
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9822845458984375
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9821736812591553
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.4734666645526886
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.8403113484382629
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.8649281859397888
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.7930576205253601
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9339495897293091
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.6181913614273071
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.6423259973526001
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.8529236316680908
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.9685080051422119
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9608379006385803
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.7487877607345581
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.6576894521713257
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.8809933662414551
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9544424414634705
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.9772388935089111
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.6677047610282898
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.8670508861541748
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.8475130796432495
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.8332411050796509
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.499328076839447
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8742220997810364
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 741.0,
+            "end_time": 744.0,
+            "confidence": 0.6348501443862915
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.4522539973258972
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.5621132850646973
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.5434603095054626
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.6693444848060608
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.49324873089790344
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.7492117285728455
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8855381608009338
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.4511444568634033
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.5919206142425537
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8992574214935303
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "European Greenfinch",
+            "scientific_name": "Chloris chloris",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.7693648934364319
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.886288583278656
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.9480444192886353
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 57.0,
+            "end_time": 60.0,
+            "confidence": 0.6538591980934143
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9209179282188416
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9634257555007935
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.41723477840423584
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 258.0,
+            "end_time": 261.0,
+            "confidence": 0.6216925382614136
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.6312516331672668
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.7374922633171082
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.8255318403244019
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9096042513847351
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9317603707313538
+        },
+        {
+            "common_name": "Eurasian Blackcap",
+            "scientific_name": "Sylvia atricapilla",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.5503512024879456
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.6380346417427063
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.4819420278072357
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.8675142526626587
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.4635806083679199
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.9091864824295044
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.8943367600440979
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9422972202301025
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.9102475047111511
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9140051007270813
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.9392253160476685
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.6528837084770203
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.4670122265815735
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 786.0,
+            "end_time": 789.0,
+            "confidence": 0.5887738466262817
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.7175583839416504
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.549652636051178
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8978957533836365
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5995896458625793
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5635303258895874
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.719221830368042
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.44863319396972656
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9369478821754456
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9290292263031006
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.9668163061141968
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.9311169981956482
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.4450807571411133
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9637233018875122
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9517722129821777
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.7193474173545837
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.7612669467926025
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.7375094890594482
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9537365436553955
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.6228452920913696
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.7161061763763428
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 435.0,
+            "end_time": 438.0,
+            "confidence": 0.8022603392601013
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 594.0,
+            "end_time": 597.0,
+            "confidence": 0.9426884055137634
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.8863217234611511
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.865516185760498
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 624.0,
+            "end_time": 627.0,
+            "confidence": 0.9024399518966675
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.7547568678855896
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.7855060696601868
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.7583821415901184
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.8856644630432129
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.7609139084815979
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 798.0,
+            "end_time": 801.0,
+            "confidence": 0.4927281439304352
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.4212579131126404
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.7383816242218018
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9259369373321533
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.9558097720146179
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.7538992166519165
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6570956707000732
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 534.0,
+            "end_time": 537.0,
+            "confidence": 0.7310104370117188
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.446706086397171
+        }
+    ]
+}

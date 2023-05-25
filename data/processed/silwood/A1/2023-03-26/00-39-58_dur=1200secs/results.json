@@ -1,0 +1,35 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.4034038186073303
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.7330302000045776
+        }
+    ],
+    "original_chan1.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 177.0,
+            "end_time": 180.0,
+            "confidence": 0.4580954909324646
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": []
+}

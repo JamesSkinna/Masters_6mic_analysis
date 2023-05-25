@@ -1,0 +1,178 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5098068714141846
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9835947155952454
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9568455815315247
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.4042362868785858
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.558820903301239
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.49461716413497925
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9353679418563843
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9843606352806091
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6440204381942749
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.4776695966720581
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.4450204074382782
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9770298004150391
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.891040027141571
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.6493731737136841
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.7691054940223694
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5819365978240967
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.6888943910598755
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9784409999847412
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9558811187744141
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9864091873168945
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9637562036514282
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.7124944925308228
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.7045810222625732
+        }
+    ]
+}

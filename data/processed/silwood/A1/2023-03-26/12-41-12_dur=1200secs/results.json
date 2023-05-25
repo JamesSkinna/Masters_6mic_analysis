@@ -1,0 +1,2441 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.6827094554901123
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.6837422251701355
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5496894717216492
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.6885942220687866
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.4061051309108734
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.4768314063549042
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.9110264182090759
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.6039472222328186
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.6327194571495056
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.5340381264686584
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.4508068263530731
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.8848538398742676
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.8563222289085388
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.6560301184654236
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.45487409830093384
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.5894184708595276
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.649879515171051
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.7841651439666748
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.9233002066612244
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.5971526503562927
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.8854470252990723
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.6869269609451294
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.5118322372436523
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.6972475647926331
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9079067707061768
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.7657871842384338
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6798115372657776
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.4135833978652954
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.8399951457977295
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8218427300453186
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.4117322564125061
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9169166088104248
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9453208446502686
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.8215981721878052
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.8142174482345581
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.7490736842155457
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.8922349214553833
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 420.0,
+            "end_time": 423.0,
+            "confidence": 0.4289904534816742
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.4459303021430969
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.9097247123718262
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9520885944366455
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.6329309344291687
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.937745213508606
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.46551313996315
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.4920428395271301
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.6318184733390808
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.4643038809299469
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.8150388598442078
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.4781936705112457
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.6058973073959351
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.5819739699363708
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.5134002566337585
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.89972984790802
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.48739704489707947
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.8697649240493774
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.9597469568252563
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.895531177520752
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.939463198184967
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9589664340019226
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.9472174644470215
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.9693551063537598
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.5603243708610535
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.7109487652778625
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.7209877371788025
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 792.0,
+            "end_time": 795.0,
+            "confidence": 0.6907311677932739
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.7139427661895752
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.6805868148803711
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.5988278985023499
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.6971810460090637
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.8751582503318787
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.9150906801223755
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.8100460767745972
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.9671703577041626
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.679203450679779
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.6544066667556763
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.9015363454818726
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.8502840399742126
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.7266284823417664
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.6429356932640076
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.7984583377838135
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9307736754417419
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.6087439060211182
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.7769697308540344
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.8091428279876709
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.7999410033226013
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5227707624435425
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.49014899134635925
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.525609016418457
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.44644829630851746
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.5605099201202393
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.6523627638816833
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.6404832005500793
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.605712890625
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.7621304392814636
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.582042396068573
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.8370837569236755
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.7012180089950562
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.844240128993988
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.6662497520446777
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.49585890769958496
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.5964518785476685
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.6049931645393372
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.4722752571105957
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.7990753054618835
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.7217293381690979
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.8546120524406433
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.892055332660675
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.517924427986145
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.7883314490318298
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.7842618823051453
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.8434098958969116
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.6967189908027649
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.4670330286026001
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.43811458349227905
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9138248562812805
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.8587455749511719
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.8237289190292358
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.8333857655525208
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.7192528247833252
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.4352099895477295
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.46560385823249817
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.8035896420478821
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.5094216465950012
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.8214594721794128
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9278333187103271
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.6765851974487305
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.5424630045890808
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.6077514290809631
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.5163988471031189
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.6631115674972534
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.6011251211166382
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.9612203240394592
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.8368032574653625
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.9236549139022827
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9684723019599915
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.9397361278533936
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.9864761233329773
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.4787139594554901
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7582639455795288
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.781311571598053
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.8411412239074707
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.5892492532730103
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.5695317983627319
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.8981277942657471
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.43198901414871216
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.6889898180961609
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 966.0,
+            "end_time": 969.0,
+            "confidence": 0.4364587366580963
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.5554683804512024
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.5570076704025269
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.6601559519767761
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.8425193428993225
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.9558421969413757
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.4205058813095093
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.4662766456604004
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 273.0,
+            "end_time": 276.0,
+            "confidence": 0.6123625636100769
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.5999385118484497
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.7873393297195435
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.9221788048744202
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.6149511933326721
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.5726996660232544
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.7886274456977844
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.739478588104248
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.6631144285202026
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.5000515580177307
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.6387081742286682
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.5497638583183289
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.5130510330200195
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9048448801040649
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9315529465675354
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.46479547023773193
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.6228794455528259
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.5634025931358337
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.8546848893165588
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.40669459104537964
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.5873225927352905
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.7933167815208435
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9298800826072693
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.686339795589447
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.6690983772277832
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.4415855407714844
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.4911884069442749
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.8593874573707581
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9003799557685852
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.6472970247268677
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 519.0,
+            "end_time": 522.0,
+            "confidence": 0.40867501497268677
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.4890533685684204
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.4460107684135437
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 618.0,
+            "end_time": 621.0,
+            "confidence": 0.42261233925819397
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.40567493438720703
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.6512366533279419
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.6838280558586121
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.9576703310012817
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.9534983038902283
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.9082329869270325
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9661183953285217
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.9204928874969482
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.9694362878799438
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.5139150023460388
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.4343034625053406
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.800537645816803
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.8605552315711975
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 831.0,
+            "end_time": 834.0,
+            "confidence": 0.4116861820220947
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.5443865060806274
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.9040537476539612
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5817630887031555
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.6584334373474121
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.49303895235061646
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.9138772487640381
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.7159677743911743
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9192058444023132
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.6351253390312195
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.6786423325538635
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.5955438613891602
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.47434622049331665
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.5927149653434753
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.43259933590888977
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.7068197131156921
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.6038858294487
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.9370471239089966
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.6910811066627502
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.7251201868057251
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.42641156911849976
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1188.0,
+            "end_time": 1191.0,
+            "confidence": 0.5813393592834473
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1191.0,
+            "end_time": 1194.0,
+            "confidence": 0.41057199239730835
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.8942330479621887
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.8911229372024536
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5931159257888794
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.5030657052993774
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4526471793651581
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.7591525912284851
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 222.0,
+            "end_time": 225.0,
+            "confidence": 0.8422881364822388
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.5055997967720032
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 237.0,
+            "end_time": 240.0,
+            "confidence": 0.5124863982200623
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.6655266284942627
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 288.0,
+            "end_time": 291.0,
+            "confidence": 0.7773953676223755
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.9443644285202026
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 324.0,
+            "end_time": 327.0,
+            "confidence": 0.47127509117126465
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.5090752243995667
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.4572642743587494
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.7740452885627747
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.8882277607917786
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.7119148373603821
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.5504789352416992
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.6907356381416321
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.7409974336624146
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.7811885476112366
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.799001932144165
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.6451640129089355
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.7875219583511353
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.6810710430145264
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.5078219771385193
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9466228485107422
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9456723928451538
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.6366272568702698
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9098454713821411
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.7325055599212646
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.875678539276123
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.4217301905155182
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.8120893239974976
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.6855739951133728
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9643216729164124
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.4755590260028839
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 462.0,
+            "end_time": 465.0,
+            "confidence": 0.709896445274353
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 465.0,
+            "end_time": 468.0,
+            "confidence": 0.7974437475204468
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.8754898905754089
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.7195665836334229
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.4736751616001129
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.7773754596710205
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.46636271476745605
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.5230923295021057
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.8060478568077087
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.8351441025733948
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.751248836517334
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.6409165263175964
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.8204236030578613
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.928981602191925
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.915326714515686
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.9073678851127625
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.965154230594635
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.9162425398826599
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.9740684032440186
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.40543243288993835
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 777.0,
+            "end_time": 780.0,
+            "confidence": 0.4023215174674988
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.6586442589759827
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.8985489010810852
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.9006827473640442
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.8785549402236938
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.5382150411605835
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.70119309425354
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 870.0,
+            "end_time": 873.0,
+            "confidence": 0.5455161333084106
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.6770431399345398
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.8037561178207397
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.513407826423645
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.5773346424102783
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.498219758272171
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1086.0,
+            "end_time": 1089.0,
+            "confidence": 0.48513585329055786
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.8362100720405579
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9169337749481201
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.800483763217926
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.7363742589950562
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.40490755438804626
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.6225165724754333
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.6808257102966309
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.4207863509654999
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.5013347268104553
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 339.0,
+            "end_time": 342.0,
+            "confidence": 0.48769739270210266
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 342.0,
+            "end_time": 345.0,
+            "confidence": 0.7359465956687927
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.4915507733821869
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.5912113785743713
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 375.0,
+            "end_time": 378.0,
+            "confidence": 0.6604628562927246
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.9166907072067261
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9096820950508118
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9565715193748474
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.6691879034042358
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.8889812231063843
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.852720320224762
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9276455640792847
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 432.0,
+            "end_time": 435.0,
+            "confidence": 0.8035717606544495
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.4729744791984558
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.44301867485046387
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.7047775387763977
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.5094835162162781
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.44612330198287964
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.846280574798584
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 504.0,
+            "end_time": 507.0,
+            "confidence": 0.8461310267448425
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 507.0,
+            "end_time": 510.0,
+            "confidence": 0.5854796171188354
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.7779762148857117
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.5952234864234924
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.42361828684806824
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.7516961693763733
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.9356247186660767
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.8050780296325684
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 720.0,
+            "end_time": 723.0,
+            "confidence": 0.8990781903266907
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9511598944664001
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 726.0,
+            "end_time": 729.0,
+            "confidence": 0.8606143593788147
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.929667055606842
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.45389506220817566
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.7752865552902222
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.6403936147689819
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.46609023213386536
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.5078307390213013
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.41123026609420776
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1092.0,
+            "end_time": 1095.0,
+            "confidence": 0.47666075825691223
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.5687729120254517
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.6463797688484192
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.4485946595668793
+        }
+    ]
+}

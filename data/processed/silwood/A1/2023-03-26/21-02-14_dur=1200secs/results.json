@@ -1,0 +1,57 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.8169861435890198
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9636184573173523
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.8661813735961914
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.8976137638092041
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.8397760987281799
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.7088030576705933
+        }
+    ],
+    "pf_chan1.mp3": []
+}

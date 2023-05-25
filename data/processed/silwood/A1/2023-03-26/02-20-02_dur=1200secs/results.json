@@ -1,0 +1,64 @@
+{
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Mallard",
+            "scientific_name": "Anas platyrhynchos",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.4529479146003723
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.4911017417907715
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.4183451235294342
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.5319468975067139
+        }
+    ],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mallard",
+            "scientific_name": "Anas platyrhynchos",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.5737702250480652
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.5313303470611572
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.5128346681594849
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": []
+}

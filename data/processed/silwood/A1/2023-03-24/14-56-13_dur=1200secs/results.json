@@ -1,0 +1,825 @@
+{
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9553775787353516
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9529723525047302
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7496124505996704
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.8612785935401917
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5625251531600952
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.4486752450466156
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.725928783416748
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.6854764819145203
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.7498400807380676
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.6645038723945618
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9322840571403503
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7385630011558533
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.41219258308410645
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.9246366620063782
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.6065127849578857
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.425158828496933
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.5073715448379517
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.8331834077835083
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.6941112875938416
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.886694610118866
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.7034071087837219
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8959617018699646
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.9182876348495483
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9915369749069214
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.6566694378852844
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.6637255549430847
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 54.0,
+            "end_time": 57.0,
+            "confidence": 0.5973990559577942
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.8350462317466736
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.8644917011260986
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.6984378099441528
+        },
+        {
+            "common_name": "Eurasian Magpie",
+            "scientific_name": "Pica pica",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.4640604257583618
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.41339004039764404
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 219.0,
+            "end_time": 222.0,
+            "confidence": 0.5060194134712219
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.4278694689273834
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.5426703691482544
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.9797191619873047
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.6866781115531921
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.8623241186141968
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.7904621958732605
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.6843481063842773
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.7050967216491699
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.6670680046081543
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.9547080397605896
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.5553784370422363
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.8572466969490051
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.5323840975761414
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.6360591053962708
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.7850567698478699
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7735870480537415
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.7568163275718689
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8805344700813293
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.656917929649353
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.5321817994117737
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9980430603027344
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.7766098976135254
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.8800610303878784
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.4395209848880768
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.4797017574310303
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.7702773213386536
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.6413787603378296
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.4346076250076294
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.9578886032104492
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9097585678100586
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7977755665779114
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8460381031036377
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.6474100947380066
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.8229351043701172
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.9474385976791382
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.7831697463989258
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.42337942123413086
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.822825014591217
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8054316639900208
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8986845016479492
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.8378517627716064
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.555166482925415
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.7470747232437134
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.41561856865882874
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9975852966308594
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.7864136099815369
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 345.0,
+            "end_time": 348.0,
+            "confidence": 0.5249397158622742
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.635871171951294
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.8321959376335144
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.8181837201118469
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.6173770427703857
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.8022246956825256
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.507544755935669
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.5862548351287842
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 873.0,
+            "end_time": 876.0,
+            "confidence": 0.41094696521759033
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.6798007488250732
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.5557531714439392
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.8302666544914246
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.8947032690048218
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.5449814200401306
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.8760737776756287
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.942902147769928
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.6021344065666199
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.43663567304611206
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4555279016494751
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.7173067331314087
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9971411228179932
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.5032510161399841
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 477.0,
+            "end_time": 480.0,
+            "confidence": 0.7144548892974854
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 723.0,
+            "end_time": 726.0,
+            "confidence": 0.9177952408790588
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 732.0,
+            "end_time": 735.0,
+            "confidence": 0.7802798748016357
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 735.0,
+            "end_time": 738.0,
+            "confidence": 0.4748421013355255
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 738.0,
+            "end_time": 741.0,
+            "confidence": 0.6360686421394348
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.4565480351448059
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.5556980967521667
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.5500651597976685
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.6304487586021423
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7854344248771667
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9238801002502441
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.43383097648620605
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.9579493403434753
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.8846694231033325
+        }
+    ]
+}

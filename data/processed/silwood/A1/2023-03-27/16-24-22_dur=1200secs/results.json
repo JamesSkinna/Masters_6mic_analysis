@@ -1,0 +1,430 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.5155249834060669
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.428580105304718
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.5510881543159485
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.726089596748352
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.4953949451446533
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.40196493268013
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.42026689648628235
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.409895658493042
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5400346517562866
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.5130763053894043
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.5869956612586975
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.4048232436180115
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.4002774953842163
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5186355113983154
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.5320746898651123
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.43205487728118896
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.6555176377296448
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.47064146399497986
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.6598658561706543
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.6115212440490723
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5504666566848755
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.6434718370437622
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.4680974781513214
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.685178816318512
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.4289901852607727
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.5417661070823669
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5710957050323486
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.5469843149185181
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.40188491344451904
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.4151094853878021
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.46724259853363037
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.6615169048309326
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.6419034004211426
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 84.0,
+            "end_time": 87.0,
+            "confidence": 0.5286741852760315
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.5371518731117249
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.7260597944259644
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 132.0,
+            "end_time": 135.0,
+            "confidence": 0.401012659072876
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.4708288609981537
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.5062819719314575
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.6621751189231873
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.4891606867313385
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 231.0,
+            "end_time": 234.0,
+            "confidence": 0.44092831015586853
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.7763859629631042
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.7117658853530884
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.6250535845756531
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.5918123722076416
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.6132435202598572
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.6947939395904541
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7385295033454895
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1008.0,
+            "end_time": 1011.0,
+            "confidence": 0.5929888486862183
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.6480243802070618
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.46437668800354004
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.44177260994911194
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.42459413409233093
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.7113951444625854
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 72.0,
+            "end_time": 75.0,
+            "confidence": 0.5558410286903381
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5925992131233215
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6986587047576904
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.5237529277801514
+        }
+    ],
+    "pf_chan1.mp3": []
+}

@@ -1,0 +1,683 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 24.0,
+            "end_time": 27.0,
+            "confidence": 0.53714519739151
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.5440756678581238
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 69.0,
+            "end_time": 72.0,
+            "confidence": 0.5547142624855042
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.4750956594944
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.8740842342376709
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.45620468258857727
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.5362421870231628
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.43578651547431946
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 300.0,
+            "end_time": 303.0,
+            "confidence": 0.6494296193122864
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.7073463201522827
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.4892914891242981
+        },
+        {
+            "common_name": "Common Redstart",
+            "scientific_name": "Phoenicurus phoenicurus",
+            "start_time": 525.0,
+            "end_time": 528.0,
+            "confidence": 0.6907786130905151
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.49711328744888306
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5039623975753784
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.8525180816650391
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.6014346480369568
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.4899531900882721
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.47246965765953064
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.569284975528717
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.49658653140068054
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.44761377573013306
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.7522631883621216
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.7316076159477234
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5272828340530396
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.4883766174316406
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.6039718389511108
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.47303298115730286
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 270.0,
+            "end_time": 273.0,
+            "confidence": 0.46560871601104736
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.7178766131401062
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.5822727084159851
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.7635933756828308
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.4454948902130127
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.579516589641571
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.5475726127624512
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.46346068382263184
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.6641319394111633
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9648696780204773
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.6793902516365051
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.6018061637878418
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.5813248157501221
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.9661209583282471
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5470707416534424
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.5101114511489868
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5283527374267578
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.6041441559791565
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.558227002620697
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.4764944314956665
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6015213131904602
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7768329977989197
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.6112352609634399
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.6406847238540649
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.7085155844688416
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.44484931230545044
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.4453200697898865
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 270.0,
+            "end_time": 273.0,
+            "confidence": 0.5793442130088806
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.651745080947876
+        },
+        {
+            "common_name": "Common Buzzard",
+            "scientific_name": "Buteo buteo",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.614364504814148
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.5784386992454529
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.534507691860199
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.559840738773346
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.6084462404251099
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.8700196146965027
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.4017433226108551
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.501480221748352
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.42744874954223633
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.5178382396697998
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 81.0,
+            "end_time": 84.0,
+            "confidence": 0.5248323678970337
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.6899678111076355
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.9904993176460266
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.5861616134643555
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.5118223428726196
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6678406000137329
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 204.0,
+            "end_time": 207.0,
+            "confidence": 0.4393182396888733
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.5134273767471313
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.5722628831863403
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 225.0,
+            "end_time": 228.0,
+            "confidence": 0.5237778425216675
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.4056776463985443
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 270.0,
+            "end_time": 273.0,
+            "confidence": 0.5114278793334961
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.6099204421043396
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.40301743149757385
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 291.0,
+            "end_time": 294.0,
+            "confidence": 0.5112449526786804
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 300.0,
+            "end_time": 303.0,
+            "confidence": 0.4076473116874695
+        },
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.658730149269104
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9217888712882996
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1104.0,
+            "end_time": 1107.0,
+            "confidence": 0.7134476900100708
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.6942391395568848
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9179423451423645
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.5592879056930542
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.6288710832595825
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.4435664415359497
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Coal Tit",
+            "scientific_name": "Periparus ater",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.4315488636493683
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.687516450881958
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.7856740355491638
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.737980306148529
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.9563421607017517
+        }
+    ]
+}

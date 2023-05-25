@@ -1,0 +1,915 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.40849411487579346
+        },
+        {
+            "common_name": "Eurasian Kestrel",
+            "scientific_name": "Falco tinnunculus",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.9366379380226135
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.8519287705421448
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 294.0,
+            "end_time": 297.0,
+            "confidence": 0.6738340258598328
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.45542559027671814
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.9401189684867859
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.9178179502487183
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.6253538727760315
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 474.0,
+            "end_time": 477.0,
+            "confidence": 0.5390869379043579
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.47415366768836975
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.4297071099281311
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 633.0,
+            "end_time": 636.0,
+            "confidence": 0.5881206393241882
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.41459211707115173
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.7131139039993286
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.4464830160140991
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.8239184617996216
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.4725111126899719
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.6775725483894348
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.5243645310401917
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.47754642367362976
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.6869297623634338
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7103592157363892
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.7351030111312866
+        },
+        {
+            "common_name": "Eurasian Kestrel",
+            "scientific_name": "Falco tinnunculus",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.5417709350585938
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.5209549069404602
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.6573201417922974
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.4363146424293518
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.5736790895462036
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.7168036103248596
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.9729069471359253
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.9631903767585754
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.5444134473800659
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.47287267446517944
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.42639052867889404
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.6572617888450623
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.7993547916412354
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.6785597801208496
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 705.0,
+            "end_time": 708.0,
+            "confidence": 0.603963315486908
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.549543023109436
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7604722380638123
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.7382076382637024
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.732151985168457
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.716435432434082
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.8684990406036377
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.6857001185417175
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.8291800618171692
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.8736261129379272
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.6591761708259583
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7620406746864319
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9497021436691284
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.5292583703994751
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.5431523323059082
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6437416672706604
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.6528508067131042
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.9322803020477295
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.9635446071624756
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.6065599918365479
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.4788844883441925
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.46894535422325134
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 633.0,
+            "end_time": 636.0,
+            "confidence": 0.44968441128730774
+        },
+        {
+            "common_name": "Eurasian Coot",
+            "scientific_name": "Fulica atra",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.43876850605010986
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.4205534756183624
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.7939755916595459
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.7083703875541687
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.5140753388404846
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 882.0,
+            "end_time": 885.0,
+            "confidence": 0.6374597549438477
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.8169494271278381
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.7185159921646118
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.44798028469085693
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.8523954749107361
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.47442251443862915
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.6374537944793701
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.8608925938606262
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.8256865739822388
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1002.0,
+            "end_time": 1005.0,
+            "confidence": 0.5913436412811279
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.7491798400878906
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7618199586868286
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.7357792258262634
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.8206270337104797
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1137.0,
+            "end_time": 1140.0,
+            "confidence": 0.4652377963066101
+        },
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.40860363841056824
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.4089236855506897
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.6763504147529602
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.8549916744232178
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.8071784973144531
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.8074015974998474
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.7948572635650635
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.4615001082420349
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 630.0,
+            "end_time": 633.0,
+            "confidence": 0.448442280292511
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.7304988503456116
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 906.0,
+            "end_time": 909.0,
+            "confidence": 0.5000763535499573
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.5592778921127319
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.8985338807106018
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.4084394574165344
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.4997802674770355
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1041.0,
+            "end_time": 1044.0,
+            "confidence": 0.4944409430027008
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.49658212065696716
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.4265962839126587
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 384.0,
+            "end_time": 387.0,
+            "confidence": 0.6253721117973328
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 387.0,
+            "end_time": 390.0,
+            "confidence": 0.9613638520240784
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 390.0,
+            "end_time": 393.0,
+            "confidence": 0.924401581287384
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.4059060513973236
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.5961186289787292
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.6218342781066895
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.40823894739151
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.5748803615570068
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.6839352250099182
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.6532312631607056
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 825.0,
+            "end_time": 828.0,
+            "confidence": 0.5703223347663879
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.49987998604774475
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 840.0,
+            "end_time": 843.0,
+            "confidence": 0.46382585167884827
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9326637387275696
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.6813074350357056
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.47642818093299866
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.8106534481048584
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 933.0,
+            "end_time": 936.0,
+            "confidence": 0.6480900645256042
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.918434739112854
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.5530937314033508
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.4885680675506592
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.446931391954422
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4039713144302368
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.47226813435554504
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.42493221163749695
+        },
+        {
+            "common_name": "Eurasian Green Woodpecker",
+            "scientific_name": "Picus viridis",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.4700358808040619
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Little Ringed Plover",
+            "scientific_name": "Charadrius dubius",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.4991161525249481
+        },
+        {
+            "common_name": "Green-winged Teal",
+            "scientific_name": "Anas crecca",
+            "start_time": 66.0,
+            "end_time": 69.0,
+            "confidence": 0.44224223494529724
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.7793726921081543
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 264.0,
+            "end_time": 267.0,
+            "confidence": 0.7773240804672241
+        }
+    ]
+}

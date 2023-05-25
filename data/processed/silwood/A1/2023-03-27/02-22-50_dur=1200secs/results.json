@@ -1,0 +1,227 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5472234487533569
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.6764441132545471
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.4441474676132202
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.5722216963768005
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.5062944889068604
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.7166666388511658
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.5223540663719177
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5925358533859253
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.5545060038566589
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 675.0,
+            "end_time": 678.0,
+            "confidence": 0.6592949628829956
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.537494421005249
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.5559455752372742
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5950179100036621
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.7934673428535461
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.4136541187763214
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.539021909236908
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.4807826280593872
+        },
+        {
+            "common_name": "European Robin",
+            "scientific_name": "Erithacus rubecula",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.44187891483306885
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.42873018980026245
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5031015276908875
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.5613893270492554
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.4407179653644562
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.5888952016830444
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.5972529649734497
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "European Greenfinch",
+            "scientific_name": "Chloris chloris",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.4159668982028961
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9111595749855042
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.6459510922431946
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.6540547609329224
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 471.0,
+            "end_time": 474.0,
+            "confidence": 0.755561113357544
+        },
+        {
+            "common_name": "European Goldfinch",
+            "scientific_name": "Carduelis carduelis",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.41048991680145264
+        }
+    ],
+    "pf_chan4.mp3": []
+}

@@ -1,0 +1,1243 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.955844521522522
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9086213111877441
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8855113983154297
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.5286884307861328
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.7930614352226257
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.6932185888290405
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.8667843341827393
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.8609175682067871
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.7664432525634766
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.6398554444313049
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.7045391798019409
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.6077388525009155
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.6541558504104614
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.42280468344688416
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.43671393394470215
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.9310058951377869
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.8242110013961792
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.862762451171875
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9266062378883362
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.8737461566925049
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.8084864616394043
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.4618701636791229
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.9488869905471802
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.8304842710494995
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.7016565203666687
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.8661760091781616
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5631402730941772
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.6689477562904358
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8593546748161316
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.7628440856933594
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.5994876623153687
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.6325646638870239
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.5870126485824585
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.5448054671287537
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.486682653427124
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.7747437953948975
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.551209568977356
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.6082632541656494
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.448913037776947
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.47378334403038025
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9730422496795654
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.8470677137374878
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8637694716453552
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.7423227429389954
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.8872622847557068
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.9498353600502014
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.962218701839447
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.9328458309173584
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6320997476577759
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.8168501853942871
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.6901114583015442
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.8021636605262756
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.6465719938278198
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.8491130471229553
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.7851722836494446
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.42296501994132996
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.799191951751709
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.46114036440849304
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.5608727931976318
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.5663235187530518
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.49389225244522095
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.6474635004997253
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.6292111873626709
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9656561613082886
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.7971458435058594
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8686838746070862
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.6185765862464905
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9472212791442871
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.42171576619148254
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9099393486976624
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9248314499855042
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.7802065014839172
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.7997851371765137
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.7054123282432556
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.7415376901626587
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.9270026087760925
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.8134932518005371
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.8405515551567078
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.5953815579414368
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.5677357316017151
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.45564040541648865
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.7687214016914368
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.8676637411117554
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.8983961939811707
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.9038460850715637
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.8400275111198425
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9366545677185059
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.8529741168022156
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.8849704265594482
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.4699280858039856
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.8761580586433411
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 822.0,
+            "end_time": 825.0,
+            "confidence": 0.7472140789031982
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.6686100959777832
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6508876085281372
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.5634146928787231
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.4629638195037842
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.8209112286567688
+        },
+        {
+            "common_name": "Dunnock",
+            "scientific_name": "Prunella modularis",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.4456521272659302
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.8158931732177734
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.6624394059181213
+        },
+        {
+            "common_name": "Yellowhammer",
+            "scientific_name": "Emberiza citrinella",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.7305689454078674
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.4576428532600403
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.4502629041671753
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.8752358555793762
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.7957653999328613
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.9206010699272156
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.6751025319099426
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.8961142301559448
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.5264518857002258
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9535316824913025
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9314178228378296
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.6654046177864075
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.6075583100318909
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.7303575277328491
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.7547810673713684
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.5611696243286133
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.6352866291999817
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.8268861770629883
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.4703024923801422
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.7462635636329651
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.6716433167457581
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.4792412519454956
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.8948264718055725
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 717.0,
+            "end_time": 720.0,
+            "confidence": 0.8177591562271118
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.8044165968894958
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9425395727157593
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.7737987041473389
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 795.0,
+            "end_time": 798.0,
+            "confidence": 0.8674464821815491
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.4101378321647644
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.8966989517211914
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.6191754341125488
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.6293224692344666
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7148037552833557
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.7948940396308899
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.8108410239219666
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.856099545955658
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.46995675563812256
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.8785519599914551
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.6613413095474243
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.8487346172332764
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9406195878982544
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9487287998199463
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.6718540191650391
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.7190935015678406
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9288612008094788
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.6290668249130249
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9671732783317566
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.952390193939209
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.5036231279373169
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 30.0,
+            "end_time": 33.0,
+            "confidence": 0.5749653577804565
+        },
+        {
+            "common_name": "Great Tit",
+            "scientific_name": "Parus major",
+            "start_time": 33.0,
+            "end_time": 36.0,
+            "confidence": 0.803914487361908
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.8139477372169495
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.8454083204269409
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 78.0,
+            "end_time": 81.0,
+            "confidence": 0.939156174659729
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.8142926692962646
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 111.0,
+            "end_time": 114.0,
+            "confidence": 0.9338428974151611
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 114.0,
+            "end_time": 117.0,
+            "confidence": 0.6221291422843933
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.7694563269615173
+        },
+        {
+            "common_name": "Stock Dove",
+            "scientific_name": "Columba oenas",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.6203699707984924
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 228.0,
+            "end_time": 231.0,
+            "confidence": 0.7053722739219666
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.5601457357406616
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.525492787361145
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 414.0,
+            "end_time": 417.0,
+            "confidence": 0.5359670519828796
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.4371229410171509
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 438.0,
+            "end_time": 441.0,
+            "confidence": 0.42269471287727356
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 465.0,
+            "end_time": 468.0,
+            "confidence": 0.4969843029975891
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 711.0,
+            "end_time": 714.0,
+            "confidence": 0.48598700761795044
+        },
+        {
+            "common_name": "Great Spotted Woodpecker",
+            "scientific_name": "Dendrocopos major",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.43215641379356384
+        },
+        {
+            "common_name": "Common Kingfisher",
+            "scientific_name": "Alcedo atthis",
+            "start_time": 846.0,
+            "end_time": 849.0,
+            "confidence": 0.6413708925247192
+        },
+        {
+            "common_name": "Common Chiffchaff",
+            "scientific_name": "Phylloscopus collybita",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.4667853116989136
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.5112541317939758
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9624613523483276
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.542641282081604
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.907593309879303
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.7113131284713745
+        }
+    ]
+}

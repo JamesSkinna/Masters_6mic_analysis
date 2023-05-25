@@ -1,0 +1,72 @@
+{
+    "original_chan1.mp3": [
+        {
+            "common_name": "Common Raven",
+            "scientific_name": "Corvus corax",
+            "start_time": 417.0,
+            "end_time": 420.0,
+            "confidence": 0.4050424098968506
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.46515050530433655
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.5134831666946411
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.5293461084365845
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9310479760169983
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 327.0,
+            "end_time": 330.0,
+            "confidence": 0.9114513397216797
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 330.0,
+            "end_time": 333.0,
+            "confidence": 0.6177495718002319
+        },
+        {
+            "common_name": "Eurasian Moorhen",
+            "scientific_name": "Gallinula chloropus",
+            "start_time": 333.0,
+            "end_time": 336.0,
+            "confidence": 0.5530956983566284
+        }
+    ],
+    "pf_chan4.mp3": []
+}

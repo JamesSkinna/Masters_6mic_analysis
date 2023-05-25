@@ -1,0 +1,107 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.5874686241149902
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 468.0,
+            "end_time": 471.0,
+            "confidence": 0.573634147644043
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.7432823181152344
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.7006438970565796
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.6167225241661072
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.4918500483036041
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.6953223943710327
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.7688998579978943
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.45529553294181824
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.7280240058898926
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 510.0,
+            "end_time": 513.0,
+            "confidence": 0.46765559911727905
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 636.0,
+            "end_time": 639.0,
+            "confidence": 0.7973423600196838
+        },
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.5737687945365906
+        }
+    ]
+}

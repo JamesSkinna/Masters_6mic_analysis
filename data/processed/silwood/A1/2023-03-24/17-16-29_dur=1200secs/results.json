@@ -1,0 +1,19 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan3.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Fieldfare",
+            "scientific_name": "Turdus pilaris",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.7997660636901855
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "pf_chan1.mp3": [],
+    "sep_chan2.mp3": []
+}

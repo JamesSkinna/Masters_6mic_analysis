@@ -1,0 +1,248 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.5552414059638977
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1089.0,
+            "end_time": 1092.0,
+            "confidence": 0.8430264592170715
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1107.0,
+            "end_time": 1110.0,
+            "confidence": 0.5531818866729736
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9235477447509766
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.7302569150924683
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.6334404945373535
+        },
+        {
+            "common_name": "Eurasian Kestrel",
+            "scientific_name": "Falco tinnunculus",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.5889942646026611
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.8258203268051147
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.5052576065063477
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7158797979354858
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Carrion Crow",
+            "scientific_name": "Corvus corone",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.5488264560699463
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.44414615631103516
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5093439817428589
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 1143.0,
+            "end_time": 1146.0,
+            "confidence": 0.6543105244636536
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.49235445261001587
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.42251986265182495
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.6973411440849304
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.5774506330490112
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.6910277009010315
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.46751677989959717
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.4875583350658417
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.9286639094352722
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.5158780217170715
+        },
+        {
+            "common_name": "Common Sandpiper",
+            "scientific_name": "Actitis hypoleucos",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.6379024982452393
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.44838014245033264
+        },
+        {
+            "common_name": "Eurasian Nuthatch",
+            "scientific_name": "Sitta europaea",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.7605054378509521
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 135.0,
+            "end_time": 138.0,
+            "confidence": 0.4344538450241089
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.42761731147766113
+        },
+        {
+            "common_name": "Black Redstart",
+            "scientific_name": "Phoenicurus ochruros",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.551486074924469
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.41313794255256653
+        },
+        {
+            "common_name": "Eurasian Jackdaw",
+            "scientific_name": "Corvus monedula",
+            "start_time": 957.0,
+            "end_time": 960.0,
+            "confidence": 0.451167494058609
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.44677290320396423
+        },
+        {
+            "common_name": "Eurasian Blue Tit",
+            "scientific_name": "Cyanistes caeruleus",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.40826913714408875
+        }
+    ]
+}

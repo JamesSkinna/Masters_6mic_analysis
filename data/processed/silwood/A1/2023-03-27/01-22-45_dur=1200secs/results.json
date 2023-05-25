@@ -1,0 +1,19 @@
+{
+    "sep_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan2.mp3": [],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Ring-necked Pheasant",
+            "scientific_name": "Phasianus colchicus",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.4116496443748474
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "pf_chan3.mp3": [],
+    "pf_chan4.mp3": []
+}
