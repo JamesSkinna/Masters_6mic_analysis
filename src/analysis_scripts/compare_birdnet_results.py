@@ -10,8 +10,10 @@
 
 import os
 import json
+import math
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 # Define constants
 DIR_PATH = "data/processed/speaker_sphere_lab_tests"
@@ -243,6 +245,61 @@ def setup_new_plot(xlabel, ylabel, title):
     plt.grid(True)
 
 
+def draw_histograms(df, variables, n_rows, n_cols, title, file_path):
+    """Draws several histograms in a single plot
+    --> Organised in a grid of n_rows x n_cols"""
+    fig=plt.figure(figsize=(18, 12))
+    plt.title(title)
+
+    for i, var_name in enumerate(variables):
+        ax=fig.add_subplot(n_rows,n_cols,i+1)
+        df[var_name].hist(bins=10,ax=ax)
+        ax.set_title(var_name+" Distribution")
+    
+    fig.tight_layout()  # Improves appearance a bit.
+    
+    plt.savefig(file_path)
+    plt.show()
+
+
+def find_best_grid_arrangement(num_graphs):
+    """Calculate the number of rows and columns for the grid"""
+    num_rows = math.ceil(math.sqrt(num_graphs))
+    num_cols = math.ceil(num_graphs / num_rows)
+
+    return num_rows, num_cols
+
+
+def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path):
+    """Creates two plots - each containing X histograms (one for each species present)
+    --> Used to assess whether confidence data is normally distributed"""
+
+    hist_conf_data_mono = []
+    hist_conf_data_bf = []
+    hist_labels = []
+
+    # Extract the confidence levels list for each species - append to list of lists
+    for species in mono_data.keys():
+        if mono_data[species]["count"] >= 5:    # Only plot those with more than 5 detections (greater sample size)
+            hist_conf_data_mono.append(mono_data[species]["conf_list"])
+            hist_conf_data_bf.append(bf_data[species]["conf_list"])
+            hist_labels.append(get_initials(species))
+
+    if hist_labels:
+        mono_df = pd.DataFrame(hist_conf_data_mono, columns=hist_labels)
+        bf_df = pd.DataFrame(hist_conf_data_bf, columns=hist_labels)
+
+        num_rows, num_cols = find_best_grid_arrangement(len(hist_conf_data_mono))
+
+        mono_title = f"Distributions of confidence levels, per species - Mono-channel - {LOCATION}"
+        bf_title = f"Distributions of confidence levels, per species - Beamformed - {LOCATION}"
+
+        draw_histograms(mono_df, hist_labels, num_rows, num_cols, mono_title, mono_file_path)
+        draw_histograms(bf_df, hist_labels, num_rows, num_cols, bf_title, bf_file_path)
+    else:
+        print("No histogram data to plot!")
+
+
 def boxplot_conf_comparison(mono_data, bf_data, file_path):
     """Creates a boxplot to compare confidence levels of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
@@ -351,7 +408,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.8          # Specify threshold confidence level
+CONF_MIN = 0.5          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
@@ -366,13 +423,21 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
 write_processed_to_file(processed_results, "processed.json")
 write_processed_to_file(species_counts, "species_counts.json")
 
-# Plot the data for visual inspection
+# Plot the data for visual inspection--------------------------------------
+# Confidence Boxplots...
 mono_dict = processed_results["mono_channel"]
 bf_dict = processed_results["beamformed"]
 boxplot_file_path = DIR_PATH + "/boxcompare.png"
 
 boxplot_conf_comparison(mono_dict, bf_dict, boxplot_file_path)
 
+# Confidence Histograms...
+mono_hist_file_path = DIR_PATH + "/mono_hists.png"
+bf_hist_file_path = DIR_PATH + "/bf_hists.png"
+
+plot_confidence_histograms(mono_dict, bf_dict, mono_hist_file_path, bf_hist_file_path)
+
+# Species Count Bar Charts...
 mono_dict = species_counts["mono_channel"]
 bf_dict = species_counts["beamformed"]
 barchart_file_path = DIR_PATH + "/bar_compare_count.png"
