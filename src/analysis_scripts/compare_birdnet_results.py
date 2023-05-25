@@ -13,7 +13,6 @@ import json
 import math
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 
 # Define constants
 DIR_PATH = "data/processed/speaker_sphere_lab_tests"
@@ -245,18 +244,24 @@ def setup_new_plot(xlabel, ylabel, title):
     plt.grid(True)
 
 
-def draw_histograms(df, variables, n_rows, n_cols, title, file_path):
+def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path):
     """Draws several histograms in a single plot
     --> Organised in a grid of n_rows x n_cols"""
-    fig=plt.figure(figsize=(18, 12))
-    plt.title(title)
 
-    for i, var_name in enumerate(variables):
+    fig=plt.figure(figsize=(18, 12))
+    fig.suptitle(title, fontsize=16)         # As we have subplots, we set an overall title with suptitle
+
+    for i, name in enumerate(species_names):
         ax=fig.add_subplot(n_rows,n_cols,i+1)
-        df[var_name].hist(bins=10,ax=ax)
-        ax.set_title(var_name+" Distribution")
+        ax.hist(hist_data[i], bins=20)
+
+        ax.set_ylabel("Frequency")
+        ax.set_xlabel("Confidence")
+        ax.grid(True)
+        ax.set_title(name, fontsize=12)
     
     fig.tight_layout()  # Improves appearance a bit.
+    plt.subplots_adjust(top=0.92, wspace=0.3, hspace=0.3)
     
     plt.savefig(file_path)
     plt.show()
@@ -280,22 +285,19 @@ def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path)
 
     # Extract the confidence levels list for each species - append to list of lists
     for species in mono_data.keys():
-        if mono_data[species]["count"] >= 5:    # Only plot those with more than 5 detections (greater sample size)
+        if mono_data[species]["count"] >= 20:    # Only plot those with more than 20 detections (otherwise, histograms aren't useful)
             hist_conf_data_mono.append(mono_data[species]["conf_list"])
             hist_conf_data_bf.append(bf_data[species]["conf_list"])
             hist_labels.append(get_initials(species))
 
     if hist_labels:
-        mono_df = pd.DataFrame(hist_conf_data_mono, columns=hist_labels)
-        bf_df = pd.DataFrame(hist_conf_data_bf, columns=hist_labels)
-
-        num_rows, num_cols = find_best_grid_arrangement(len(hist_conf_data_mono))
+        num_rows, num_cols = find_best_grid_arrangement(len(hist_labels))
 
         mono_title = f"Distributions of confidence levels, per species - Mono-channel - {LOCATION}"
         bf_title = f"Distributions of confidence levels, per species - Beamformed - {LOCATION}"
 
-        draw_histograms(mono_df, hist_labels, num_rows, num_cols, mono_title, mono_file_path)
-        draw_histograms(bf_df, hist_labels, num_rows, num_cols, bf_title, bf_file_path)
+        draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path)
+        draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path)
     else:
         print("No histogram data to plot!")
 
@@ -408,7 +410,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.5          # Specify threshold confidence level
+CONF_MIN = 0.7          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):

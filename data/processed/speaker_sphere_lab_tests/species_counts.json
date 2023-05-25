@@ -1,24 +1,14 @@
 {
     "mono_channel": {
-        "Carolina Wren": 94,
-        "Eurasian Blackcap": 127,
-        "Orange-billed Nightingale-Thrush": 1,
-        "Yellowish-bellied Bush Warbler": 1
+        "Carolina Wren": 65,
+        "Eurasian Blackcap": 91
     },
     "beamformed": {
-        "Carolina Wren": 130,
-        "Dark-necked Tailorbird": 7,
-        "Alpine Swift": 3,
-        "Common Tailorbird": 2,
+        "Carolina Wren": 100,
         "Great Plains Narrow-mouthed Toad": 1,
-        "Eurasian Blackcap": 169,
-        "Barred Warbler": 1,
-        "Orange-billed Nightingale-Thrush": 3,
-        "Gray-crowned Yellowthroat": 1,
+        "Eurasian Blackcap": 136,
+        "Orange-billed Nightingale-Thrush": 1,
         "Savi's Warbler": 1,
-        "Warbling Vireo": 1,
-        "Greenish Schiffornis": 1,
-        "Oak Titmouse": 2,
-        "Mangrove Vireo": 1
+        "Greenish Schiffornis": 1
     }
 }
