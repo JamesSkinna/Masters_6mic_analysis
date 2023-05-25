@@ -1,0 +1,33 @@
+{
+    "mono_channel": {
+        "White-fronted Nunbird": {
+            "count": 1,
+            "conf_sum": 0.4346821904182434,
+            "max_conf": 0.4346821904182434,
+            "conf_avg": 0.43,
+            "conf_list": [
+                0.4346821904182434
+            ],
+            "start_time_list": [
+                1092.0
+            ]
+        }
+    },
+    "beamformed": {
+        "White-fronted Nunbird": {
+            "count": 1,
+            "conf_sum": 0.8447237610816956,
+            "max_conf": 0.8447237610816956,
+            "conf_avg": 0.84,
+            "conf_list": [
+                0.8447237610816956
+            ],
+            "start_time_list": [
+                1092.0
+            ],
+            "max_conf_chan_list": [
+                "sep_chan3.mp3"
+            ]
+        }
+    }
+}
