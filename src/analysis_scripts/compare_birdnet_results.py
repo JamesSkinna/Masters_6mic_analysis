@@ -49,7 +49,7 @@ def extract_max_bf_conf(mono_detection, results_dict):
     return max_bf_conf, max_conf_chan
 
 
-def update_species(species_dict, species_name, conf, start_time, max_conf_chan=""):
+def update_species(species_dict, species_name, conf, start_time, file_path, max_conf_chan=""):
     """Updates the data of an existing species, in a dictionary"""
 
     species_dict[species_name]["count"] += 1
@@ -60,11 +60,14 @@ def update_species(species_dict, species_name, conf, start_time, max_conf_chan="
     species_dict[species_name]["start_time_list"].append(start_time)
     if max_conf_chan != "":
         species_dict[species_name]["max_conf_chan_list"].append(max_conf_chan)
+        species_dict[species_name]["mp3_identifier"].append(f"{file_path}, {max_conf_chan}, {str(start_time)}")
+    else:
+        species_dict[species_name]["mp3_identifier"].append(f"{file_path}, original_channel1.mp3, {str(start_time)}")
 
     return species_dict
 
 
-def add_new_species(species_dict, species_name, conf, start_time, max_conf_chan=""):
+def add_new_species(species_dict, species_name, conf, start_time, file_path, max_conf_chan=""):
     """Adds data for a new species, to a dictionary"""
 
     species_dict[species_name] = {}       # Create new nested dictionary
@@ -76,11 +79,14 @@ def add_new_species(species_dict, species_name, conf, start_time, max_conf_chan=
     species_dict[species_name]["start_time_list"] = [start_time]
     if max_conf_chan != "":
         species_dict[species_name]["max_conf_chan_list"] = [max_conf_chan]
+        species_dict[species_name]["mp3_identifier"] = [f"{file_path}, {max_conf_chan}, {str(start_time)}"]
+    else:
+        species_dict[species_name]["mp3_identifier"] = [f"{file_path}, original_channel1.mp3, {str(start_time)}"]
 
     return species_dict
 
 
-def add_detection_to_results(mono_detection, max_bf_conf, max_conf_chan, overall_results):
+def add_detection_to_results(mono_detection, max_bf_conf, max_conf_chan, overall_results, file_path):
     """Adds data from a detection (that occurred in both original & beamformed channels)
     ...to the overall processed results"""
 
@@ -92,16 +98,16 @@ def add_detection_to_results(mono_detection, max_bf_conf, max_conf_chan, overall
     mono_conf = mono_detection["confidence"]
 
     if species_name in mono_results:       # Check if species is present in our overall dictionary
-        overall_results["mono_channel"] = update_species(mono_results, species_name, mono_conf, start_time)
-        overall_results["beamformed"] = update_species(bf_results, species_name, max_bf_conf, start_time, max_conf_chan)
+        overall_results["mono_channel"] = update_species(mono_results, species_name, mono_conf, start_time, file_path)
+        overall_results["beamformed"] = update_species(bf_results, species_name, max_bf_conf, start_time, file_path, max_conf_chan)
     else:
-        overall_results["mono_channel"] = add_new_species(mono_results, species_name, mono_conf, start_time)
-        overall_results["beamformed"] = add_new_species(bf_results, species_name, max_bf_conf, start_time, max_conf_chan)
+        overall_results["mono_channel"] = add_new_species(mono_results, species_name, mono_conf, start_time, file_path)
+        overall_results["beamformed"] = add_new_species(bf_results, species_name, max_bf_conf, start_time, file_path, max_conf_chan)
 
     return overall_results
 
 
-def process_results_dict(results_dict, overall_results):
+def process_results_dict(results_dict, overall_results, file_path):
     """Processes a single results dictionary (i.e., results from one file)
     --> Checks for detections present in both original & beamformed channels
     --> Identifies the beamformed channel with the highest conf level
@@ -119,7 +125,7 @@ def process_results_dict(results_dict, overall_results):
     for mono_detection in mono_data:
         max_bf_conf, max_conf_chan = extract_max_bf_conf(mono_detection, results_dict)
         if max_bf_conf > 0:                 # If occurence in both original & beamformed channels
-            overall_results = add_detection_to_results(mono_detection, max_bf_conf, max_conf_chan, overall_results)
+            overall_results = add_detection_to_results(mono_detection, max_bf_conf, max_conf_chan, overall_results, file_path)
 
     return overall_results
 
@@ -346,7 +352,7 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
             results_path = os.path.join(root, name)
             current_results_dict = read_results_from_file(results_path)
 
-            processed_results = process_results_dict(current_results_dict, processed_results)
+            processed_results = process_results_dict(current_results_dict, processed_results, results_path)
             species_counts = count_detections_in_dict(current_results_dict, species_counts, CONF_MIN)
 
 write_processed_to_file(processed_results, "processed.json")
