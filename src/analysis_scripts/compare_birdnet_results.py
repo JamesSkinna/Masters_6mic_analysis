@@ -14,7 +14,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/manicore"
+DIR_PATH = "data/processed/speaker_sphere_lab_tests"
+
+# Set the location of data...
+if "manicore" in DIR_PATH:
+    LOCATION = "Manicore"
+elif "silwood" in DIR_PATH:
+    LOCATION = "Silwood"
+else:
+    LOCATION = "Lab: Speaker Sphere"
 
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
@@ -239,7 +247,7 @@ def boxplot_conf_comparison(mono_data, bf_data, file_path):
     """Creates a boxplot to compare confidence levels of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
 
-    title = "Confidence levels across species - Mono-channel vs Beamformed Recordings"
+    title = f"Confidence levels across species - Mono-channel vs Beamformed Recordings - {LOCATION}"
     setup_new_plot("Species Initials", "Confidence Levels", title)
 
     boxplot_conf_data_mono = []
@@ -290,7 +298,7 @@ def barchart_count_comparison(mono_data, bf_data, conf_thresh, file_path):
     """Creates a boxplot to compare species counts of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
 
-    title = f"Species counts for detections above {str(conf_thresh)} confidence - Mono-channel vs Beamformed Recordings"
+    title = f"Species counts for detections above {str(conf_thresh)} confidence - Mono-channel vs Beamformed Recordings - {LOCATION}"
     setup_new_plot("Species Initials", "Species Count", title)
 
     count_data_list = [mono_data, bf_data]
@@ -343,7 +351,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.7          # Specify threshold confidence level
+CONF_MIN = 0.8          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
