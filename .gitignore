@@ -10,3 +10,4 @@ data/raw/old*
 !**/results.json
 # And processed files (after analysing results files)
 !**/processed.json
+!**/species_counts.json

@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/silwood/A1"
+DIR_PATH = "data/processed/manicore"
 
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
