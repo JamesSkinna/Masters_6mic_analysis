@@ -1,0 +1,72 @@
+{
+    "sep_chan3.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9831280708312988
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Ruddy Quail-Dove",
+            "scientific_name": "Geotrygon montana",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.4942220151424408
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9916173815727234
+        },
+        {
+            "common_name": "Ruddy Quail-Dove",
+            "scientific_name": "Geotrygon montana",
+            "start_time": 963.0,
+            "end_time": 966.0,
+            "confidence": 0.47249892354011536
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9958232641220093
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.4189438819885254
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9296196699142456
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.999028205871582
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan4.mp3": []
+}

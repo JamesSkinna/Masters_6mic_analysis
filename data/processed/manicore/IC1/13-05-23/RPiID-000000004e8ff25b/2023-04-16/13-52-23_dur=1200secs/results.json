@@ -1,0 +1,56 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.5329064726829529
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.45522254705429077
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 582.0,
+            "end_time": 585.0,
+            "confidence": 0.5030640363693237
+        },
+        {
+            "common_name": "Pale-vented Pigeon",
+            "scientific_name": "Patagioenas cayennensis",
+            "start_time": 714.0,
+            "end_time": 717.0,
+            "confidence": 0.4070322513580322
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.404952734708786
+        },
+        {
+            "common_name": "Gray-crowned Flycatcher",
+            "scientific_name": "Tolmomyias poliocephalus",
+            "start_time": 1095.0,
+            "end_time": 1098.0,
+            "confidence": 0.4028383791446686
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": []
+}

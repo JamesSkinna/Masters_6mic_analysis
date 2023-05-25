@@ -1,0 +1,27 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.42138639092445374
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.5559987425804138
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan4.mp3": [],
+    "sep_chan3.mp3": [],
+    "pf_chan4.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan1.mp3": []
+}

@@ -1,0 +1,57 @@
+{
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 660.0,
+            "end_time": 663.0,
+            "confidence": 0.4794059097766876
+        },
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 663.0,
+            "end_time": 666.0,
+            "confidence": 0.47451546788215637
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.44789043068885803
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.5351850390434265
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 378.0,
+            "end_time": 381.0,
+            "confidence": 0.5691268444061279
+        }
+    ],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.4811871647834778
+        }
+    ]
+}

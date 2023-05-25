@@ -1,0 +1,130 @@
+{
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5180155038833618
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.424702912569046
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.6555494070053101
+        },
+        {
+            "common_name": "Plain-throated Antwren",
+            "scientific_name": "Isleria hauxwelli",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.5034348368644714
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5970209836959839
+        },
+        {
+            "common_name": "Plain-throated Antwren",
+            "scientific_name": "Isleria hauxwelli",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.44436901807785034
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Small-billed Elaenia",
+            "scientific_name": "Elaenia parvirostris",
+            "start_time": 267.0,
+            "end_time": 270.0,
+            "confidence": 0.40402135252952576
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.5181890726089478
+        },
+        {
+            "common_name": "Rusty-backed Spinetail",
+            "scientific_name": "Cranioleuca vulpina",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4037807583808899
+        },
+        {
+            "common_name": "Yellow-bellied Elaenia",
+            "scientific_name": "Elaenia flavogaster",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.4796393811702728
+        },
+        {
+            "common_name": "Rufous-sided Crake",
+            "scientific_name": "Laterallus melanophaius",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.5090755224227905
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.6259586811065674
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 417.0,
+            "end_time": 420.0,
+            "confidence": 0.5701977610588074
+        },
+        {
+            "common_name": "Striped Woodhaunter",
+            "scientific_name": "Automolus subulatus",
+            "start_time": 429.0,
+            "end_time": 432.0,
+            "confidence": 0.5126907229423523
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.4795742928981781
+        },
+        {
+            "common_name": "White-throated Antbird",
+            "scientific_name": "Oneillornis salvini",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.4402928352355957
+        }
+    ]
+}

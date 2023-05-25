@@ -1,0 +1,78 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tropical Screech-Owl",
+            "scientific_name": "Megascops choliba",
+            "start_time": 882.0,
+            "end_time": 885.0,
+            "confidence": 0.4524398744106293
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.41415759921073914
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 348.0,
+            "end_time": 351.0,
+            "confidence": 0.4095379412174225
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 672.0,
+            "end_time": 675.0,
+            "confidence": 0.48889732360839844
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.5083349943161011
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.43449801206588745
+        }
+    ],
+    "pf_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.5219644904136658
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.4171290099620819
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.4090505838394165
+        }
+    ],
+    "pf_chan4.mp3": []
+}

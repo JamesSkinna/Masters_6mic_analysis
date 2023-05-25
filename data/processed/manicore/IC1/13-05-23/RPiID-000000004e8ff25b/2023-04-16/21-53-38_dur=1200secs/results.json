@@ -1,0 +1,56 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [],
+    "sep_chan4.mp3": [],
+    "original_chan1.mp3": [],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Rusty-fronted Tody-Flycatcher",
+            "scientific_name": "Poecilotriccus latirostris",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.41520172357559204
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.5737072229385376
+        }
+    ],
+    "sep_chan3.mp3": [],
+    "pf_chan1.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 573.0,
+            "end_time": 576.0,
+            "confidence": 0.5296353697776794
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 579.0,
+            "end_time": 582.0,
+            "confidence": 0.42888253927230835
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 801.0,
+            "end_time": 804.0,
+            "confidence": 0.4987299144268036
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.5284504294395447
+        }
+    ]
+}

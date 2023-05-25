@@ -1,0 +1,179 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.8412643671035767
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 930.0,
+            "end_time": 933.0,
+            "confidence": 0.5196604132652283
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.5078612565994263
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.4688389003276825
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 423.0,
+            "end_time": 426.0,
+            "confidence": 0.42213118076324463
+        },
+        {
+            "common_name": "Tropical Screech-Owl",
+            "scientific_name": "Megascops choliba",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4315780699253082
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.6476889252662659
+        }
+    ],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tropical Screech-Owl",
+            "scientific_name": "Megascops choliba",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.4429396390914917
+        },
+        {
+            "common_name": "Tropical Screech-Owl",
+            "scientific_name": "Megascops choliba",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4871600568294525
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.41147324442863464
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 216.0,
+            "end_time": 219.0,
+            "confidence": 0.4332081973552704
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9014002084732056
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 975.0,
+            "end_time": 978.0,
+            "confidence": 0.6573415398597717
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1017.0,
+            "end_time": 1020.0,
+            "confidence": 0.4249926209449768
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.5711468458175659
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1197.0,
+            "end_time": 1200.0,
+            "confidence": 0.4077809453010559
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 516.0,
+            "end_time": 519.0,
+            "confidence": 0.5833000540733337
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 675.0,
+            "end_time": 678.0,
+            "confidence": 0.40781959891319275
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 678.0,
+            "end_time": 681.0,
+            "confidence": 0.5830565094947815
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 681.0,
+            "end_time": 684.0,
+            "confidence": 0.5630725026130676
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.7427944540977478
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4501972496509552
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9161837697029114
+        }
+    ],
+    "pf_chan2.mp3": []
+}

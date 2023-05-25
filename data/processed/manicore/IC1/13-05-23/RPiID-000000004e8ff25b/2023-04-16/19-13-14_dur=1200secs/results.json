@@ -1,0 +1,5588 @@
+{
+    "pf_chan3.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9876340627670288
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9323064088821411
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9477477073669434
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9907037615776062
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9231885075569153
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9433956146240234
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9228301048278809
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.979152262210846
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.9932142496109009
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.9921411275863647
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.9901837706565857
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.852835476398468
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9696881175041199
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.8724662661552429
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9722169637680054
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.988742470741272
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.9945418238639832
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.6700392365455627
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.5002585649490356
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.9160719513893127
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.9541409611701965
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.9771915674209595
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9907676577568054
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9960322976112366
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.8676328063011169
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.7009679675102234
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9852485060691833
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9667668342590332
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9912818670272827
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.992216944694519
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9931907057762146
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9941458702087402
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.8865801692008972
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.9812129139900208
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9750409722328186
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.9944167137145996
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.9966409206390381
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.9962990880012512
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.9518195986747742
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.947263777256012
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9453244805335999
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.9942779541015625
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.9927880167961121
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.996315062046051
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.9890896677970886
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9686588644981384
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.949557363986969
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9850326776504517
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.9845436215400696
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.9947888851165771
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.7435019016265869
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9854536056518555
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9225606918334961
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.9821500182151794
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9931144118309021
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9884437918663025
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.8955710530281067
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.9578153491020203
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.9585545659065247
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9859604835510254
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9942570328712463
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9939588308334351
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9973779916763306
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.6998404264450073
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9269061088562012
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.9873480796813965
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.9861415028572083
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.9929371476173401
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.9967973828315735
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9976074695587158
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9192675948143005
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.7326229214668274
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.9750921726226807
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.9462184906005859
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9899299740791321
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.9972129464149475
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.9941110014915466
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9912869334220886
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.8464166522026062
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.9622611999511719
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.9838582873344421
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9894493222236633
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.9975658655166626
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.9958634376525879
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.6152628660202026
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.8021705746650696
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9674361348152161
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.9780709147453308
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.9877804517745972
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.9941425919532776
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.9935812950134277
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.9269559383392334
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9749958515167236
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.9812034964561462
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.9748229384422302
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.9909135103225708
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.9895870685577393
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.9082692861557007
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.6129076480865479
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9388030767440796
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.9636425971984863
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.9911474585533142
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.997097373008728
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.9890053868293762
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.6920677423477173
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.9056423902511597
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9094732999801636
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9927988052368164
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.9921596646308899
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9965433478355408
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8552049398422241
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.6847203969955444
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.6215024590492249
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9765290021896362
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.98893141746521
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9748539924621582
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9056003093719482
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9149875044822693
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.9858055710792542
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.9918714761734009
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.9918795228004456
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.9776610136032104
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9487380385398865
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.8982502222061157
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9853160977363586
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9908002018928528
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.9965446591377258
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9541071057319641
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.939133882522583
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9917587637901306
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9900756478309631
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9962802529335022
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9980022311210632
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9942747950553894
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.6165464520454407
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.4592542052268982
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.9807251691818237
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9332349300384521
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.9842227101325989
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9958503246307373
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9923621416091919
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.9899305105209351
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.8503731489181519
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9577287435531616
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9553817510604858
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9852250218391418
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9913058876991272
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9941670894622803
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9412209391593933
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9665582180023193
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9741631150245667
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9826662540435791
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9900026321411133
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9924978613853455
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.987266480922699
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9822383522987366
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9339049458503723
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9657822847366333
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9613531231880188
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9460397362709045
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9941137433052063
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9924582839012146
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9951702952384949
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9681686162948608
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9096337556838989
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9897419214248657
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.991587221622467
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.9916452765464783
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.997933030128479
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.9965869188308716
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.6524882912635803
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9843462109565735
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.985445499420166
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9832282066345215
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9968061447143555
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.9967432618141174
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.9406197667121887
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.9856120347976685
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.9860634207725525
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.9909383058547974
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9951112866401672
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9940012097358704
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.8914652466773987
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9868180751800537
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9897168278694153
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9930857419967651
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.997692346572876
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9972857236862183
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9985398054122925
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.5300116539001465
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.6607037782669067
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.9882006645202637
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9835282564163208
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.9924591183662415
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.996841549873352
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.9985063672065735
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.805435836315155
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.9790826439857483
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9873555302619934
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.992768406867981
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.9941562414169312
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.9954156875610352
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.9931325316429138
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9620328545570374
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9722797274589539
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9923422932624817
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.9916069507598877
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.9961594343185425
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.4583290219306946
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9944272041320801
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9880357384681702
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.9921402335166931
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9875885844230652
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9939356446266174
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9691151976585388
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.9345341920852661
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.9863533973693848
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9930726885795593
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9934213757514954
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9969574213027954
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9978561997413635
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5860293507575989
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.8553730845451355
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.9902376532554626
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.9822686910629272
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.9958099126815796
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.9975566864013672
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9982795715332031
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9461057782173157
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.9841524958610535
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.9817308187484741
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9968497157096863
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.9953528642654419
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.9980151653289795
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9986976385116577
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.6459471583366394
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.9725161194801331
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.9856957793235779
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9871349930763245
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.9978300929069519
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.9969690442085266
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.8838258981704712
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.9020869135856628
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9862788319587708
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.9943634271621704
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.9933773875236511
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.9927356243133545
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.9978674650192261
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.8948493003845215
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9886758327484131
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.9887547492980957
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.9898900985717773
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.9953681230545044
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.9971022009849548
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.9731168746948242
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9717953205108643
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.9838175773620605
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.996160626411438
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.9976205229759216
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.995974600315094
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.7693970203399658
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.9136306047439575
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9688666462898254
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9952132701873779
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.9967429041862488
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9969508647918701
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.7794787287712097
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9697950482368469
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.9871509075164795
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9277845025062561
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9676395058631897
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.980819046497345
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.9910268187522888
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.9975119829177856
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.9974076151847839
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.9841977953910828
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9179342985153198
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.9700839519500732
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9872506856918335
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9937398433685303
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.9951144456863403
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9770007133483887
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9265573024749756
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9894629120826721
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9905439019203186
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9959636926651001
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9977099895477295
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9978856444358826
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.7487074136734009
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.9683391451835632
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9828928112983704
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.9921410083770752
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9976578950881958
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9979469180107117
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.99815434217453
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.550381600856781
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.976291298866272
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.98610919713974
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.992697536945343
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9961930513381958
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9981769323348999
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9752281308174133
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9426594972610474
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9849897623062134
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9925884008407593
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9968972206115723
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9968979358673096
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.9965104460716248
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9436950087547302
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9545891880989075
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9849948287010193
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9563611745834351
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9876760244369507
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9674950838088989
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9808436036109924
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9949470162391663
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.8854327201843262
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9696425199508667
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9787244200706482
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.9776491522789001
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.9966532588005066
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.9950957894325256
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.9887714982032776
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8528900146484375
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9664195775985718
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9604990482330322
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9896975159645081
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9943044781684875
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.9921600222587585
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.7781640291213989
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.9444547295570374
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.968923032283783
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.9868139028549194
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9836357235908508
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9860138893127441
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.7729032635688782
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.573901355266571
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9855097532272339
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9910456538200378
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9926806092262268
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.9966642260551453
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9943709969520569
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9934697151184082
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.5322738885879517
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.8492143154144287
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.9707497954368591
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9821330904960632
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.9896296858787537
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.9965606331825256
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.9935435056686401
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.9618693590164185
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.9472124576568604
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9627465605735779
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.9927338361740112
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.9950366616249084
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.9930470585823059
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.9832956194877625
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9878480434417725
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9682480692863464
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9873401522636414
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.9903372526168823
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.9971068501472473
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.7522833943367004
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.981642484664917
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9854612946510315
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.9909225106239319
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9753283262252808
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9331392049789429
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.8812780380249023
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.9580777883529663
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.9798356294631958
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9721714854240417
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9966064691543579
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9877609014511108
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.997003972530365
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.5999763011932373
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.926263689994812
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.9746092557907104
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.9735403656959534
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.9906291365623474
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.9977124929428101
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9952868223190308
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.8963662981987
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.6868442296981812
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.9822085499763489
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.9387418031692505
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9927712082862854
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.9960527420043945
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.9919896721839905
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9963693618774414
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.7253413796424866
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.9656683206558228
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.9825302958488464
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9908975958824158
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.9966731071472168
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.9962067604064941
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.5897575616836548
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.4543682336807251
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.903801441192627
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9768335819244385
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.9833742380142212
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.9904395341873169
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.9978320002555847
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.9929023385047913
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.9525008201599121
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9791163802146912
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.9904594421386719
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.99276202917099
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.9943296313285828
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.9890100359916687
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.8762238621711731
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.6039884686470032
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9727404117584229
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.9826802611351013
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.9909267425537109
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.9961044788360596
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.9920835494995117
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.6911400556564331
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.9303920269012451
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9689550399780273
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9901682138442993
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.994097113609314
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9956560134887695
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8616370558738708
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.5265390276908875
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.45983511209487915
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9738050699234009
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.9861773252487183
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9443060755729675
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9632095098495483
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9616472721099854
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.9939309358596802
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.9970080256462097
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.9916602969169617
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.9594056010246277
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9350529909133911
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.7968313097953796
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9712012410163879
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9907983541488647
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.974179744720459
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.8820228576660156
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9742738604545593
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9858320951461792
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9923891425132751
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9973874688148499
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9954378008842468
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9954213500022888
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.7080443501472473
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.9826821088790894
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9185284376144409
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.9773288369178772
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9963003396987915
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9945896863937378
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.989672064781189
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.8217199444770813
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9739819765090942
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9855740666389465
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9924431443214417
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9947580695152283
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9923517107963562
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9237803220748901
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9756105542182922
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9669526219367981
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9901878237724304
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9944171905517578
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9925187826156616
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.9958831071853638
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9818560481071472
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9618905186653137
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.98689204454422
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9714342951774597
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9909699559211731
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9668996930122375
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9838576912879944
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9944288730621338
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9660176038742065
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9632139205932617
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9689634442329407
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.9754736423492432
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.99591463804245
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.9977638721466064
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.9942107200622559
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8114006519317627
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9743285179138184
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.9473079442977905
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9814825654029846
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9948102235794067
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.994290828704834
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.8280669450759888
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.5401955842971802
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.962252140045166
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.9758458137512207
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.9850972890853882
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9960907101631165
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9966918230056763
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.9666332602500916
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.60854172706604
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9888632297515869
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.9780617952346802
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.9923715591430664
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.9964330196380615
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9975333213806152
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9978502988815308
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.434135764837265
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.8784012198448181
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.97687828540802
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.9854706525802612
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.9929271340370178
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.9970659613609314
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.9969565868377686
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.9591105580329895
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.9488954544067383
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9637455344200134
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.9970911741256714
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.9961115717887878
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.9971086382865906
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.9914717078208923
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.4031020998954773
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9832937717437744
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9644136428833008
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9907394647598267
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.9933016300201416
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.9958804845809937
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.7494632005691528
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9833975434303284
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9885783195495605
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.9920990467071533
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9941450953483582
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.995639443397522
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9538975954055786
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.9767447113990784
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.983130931854248
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9906547665596008
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9927980899810791
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9963954091072083
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9978378415107727
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.6629149317741394
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9388906955718994
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.9882128834724426
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.9809133410453796
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.9921047687530518
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.9980132579803467
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9978867173194885
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9285640716552734
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.7803692817687988
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.9777206182479858
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.9523956775665283
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9948301911354065
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.9965630173683167
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.9965654015541077
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9961764812469482
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.803544282913208
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.9794353246688843
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.9891002774238586
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9939629435539246
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.9978100657463074
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.9978196620941162
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.807028591632843
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.4155232310295105
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.911059558391571
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9666279554367065
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.988575279712677
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.9928834438323975
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.9968611001968384
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.9969987869262695
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.9486149549484253
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9860570430755615
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.9883626103401184
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.9934961795806885
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.9931995272636414
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.9963861703872681
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.9462067484855652
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.544347882270813
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9686446785926819
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.9774209856987
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.9952221512794495
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.9967744946479797
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.9950529932975769
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.8845110535621643
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.9834344983100891
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9782984852790833
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9948959946632385
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.9968019723892212
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9977380037307739
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8675519824028015
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 843.0,
+            "end_time": 846.0,
+            "confidence": 0.4341290593147278
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 855.0,
+            "end_time": 858.0,
+            "confidence": 0.5693675875663757
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9862558245658875
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.9899280667304993
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.969366192817688
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9047321677207947
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9636245369911194
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.9935640692710876
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.9982842803001404
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.9957257509231567
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.9869780540466309
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9708575010299683
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.94704669713974
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9942955374717712
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9948075413703918
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.9936980605125427
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9598585367202759
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9778458476066589
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9938873648643494
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9945724606513977
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9973157048225403
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9979982972145081
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.9978498220443726
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.8092851638793945
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.43498945236206055
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.9865336418151855
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.9745271801948547
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.9919865131378174
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9969956874847412
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9956139326095581
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.9958353042602539
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.49675968289375305
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.854060709476471
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9757591485977173
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9710991382598877
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9930530190467834
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9940909743309021
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.9950361847877502
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9647830128669739
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9827044606208801
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9766945838928223
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9864178895950317
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9964779019355774
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9947487711906433
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.9927533268928528
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9798440933227539
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.9409956932067871
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9815092086791992
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9613146781921387
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 0.0,
+            "end_time": 3.0,
+            "confidence": 0.9947211742401123
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 3.0,
+            "end_time": 6.0,
+            "confidence": 0.9683027267456055
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 6.0,
+            "end_time": 9.0,
+            "confidence": 0.9627634286880493
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 9.0,
+            "end_time": 12.0,
+            "confidence": 0.9940886497497559
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.9528138041496277
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 36.0,
+            "end_time": 39.0,
+            "confidence": 0.9328190088272095
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.9554947018623352
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 42.0,
+            "end_time": 45.0,
+            "confidence": 0.986513078212738
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 45.0,
+            "end_time": 48.0,
+            "confidence": 0.994117259979248
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 48.0,
+            "end_time": 51.0,
+            "confidence": 0.9962812066078186
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 51.0,
+            "end_time": 54.0,
+            "confidence": 0.9944713115692139
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 90.0,
+            "end_time": 93.0,
+            "confidence": 0.8629416227340698
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 93.0,
+            "end_time": 96.0,
+            "confidence": 0.9622366428375244
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 96.0,
+            "end_time": 99.0,
+            "confidence": 0.8965438008308411
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 99.0,
+            "end_time": 102.0,
+            "confidence": 0.9607149958610535
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.9967290163040161
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.989000141620636
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.8362267017364502
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 138.0,
+            "end_time": 141.0,
+            "confidence": 0.6191467046737671
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 141.0,
+            "end_time": 144.0,
+            "confidence": 0.9353227019309998
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 144.0,
+            "end_time": 147.0,
+            "confidence": 0.9688949584960938
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 147.0,
+            "end_time": 150.0,
+            "confidence": 0.9805139899253845
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 150.0,
+            "end_time": 153.0,
+            "confidence": 0.9865157604217529
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 153.0,
+            "end_time": 156.0,
+            "confidence": 0.9926871061325073
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.9394180774688721
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 180.0,
+            "end_time": 183.0,
+            "confidence": 0.6055166125297546
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.9829685091972351
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.978727400302887
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.991466760635376
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 192.0,
+            "end_time": 195.0,
+            "confidence": 0.9941556453704834
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 195.0,
+            "end_time": 198.0,
+            "confidence": 0.9941765069961548
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.9955339431762695
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 240.0,
+            "end_time": 243.0,
+            "confidence": 0.8793787956237793
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 243.0,
+            "end_time": 246.0,
+            "confidence": 0.9614406228065491
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.975364625453949
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 249.0,
+            "end_time": 252.0,
+            "confidence": 0.9911153316497803
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 252.0,
+            "end_time": 255.0,
+            "confidence": 0.9954400062561035
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.9966524243354797
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.5211572051048279
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.9456189274787903
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 306.0,
+            "end_time": 309.0,
+            "confidence": 0.983357310295105
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 309.0,
+            "end_time": 312.0,
+            "confidence": 0.9414368271827698
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.9946697354316711
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 315.0,
+            "end_time": 318.0,
+            "confidence": 0.9911611080169678
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 318.0,
+            "end_time": 321.0,
+            "confidence": 0.9949920773506165
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 321.0,
+            "end_time": 324.0,
+            "confidence": 0.9811397790908813
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.4718659818172455
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.9808024168014526
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.9597838521003723
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9834262132644653
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 363.0,
+            "end_time": 366.0,
+            "confidence": 0.9731959104537964
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.9939882755279541
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.747547447681427
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.9827425479888916
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.9814264178276062
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 402.0,
+            "end_time": 405.0,
+            "confidence": 0.9893558621406555
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 405.0,
+            "end_time": 408.0,
+            "confidence": 0.9930742979049683
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 408.0,
+            "end_time": 411.0,
+            "confidence": 0.9839666485786438
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.9372657537460327
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 441.0,
+            "end_time": 444.0,
+            "confidence": 0.9514135122299194
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 444.0,
+            "end_time": 447.0,
+            "confidence": 0.9673479199409485
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.9642547965049744
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 450.0,
+            "end_time": 453.0,
+            "confidence": 0.9907496571540833
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.9942576885223389
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9972140192985535
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.793812096118927
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 483.0,
+            "end_time": 486.0,
+            "confidence": 0.9287911653518677
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 486.0,
+            "end_time": 489.0,
+            "confidence": 0.9888019561767578
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 489.0,
+            "end_time": 492.0,
+            "confidence": 0.9811702370643616
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 492.0,
+            "end_time": 495.0,
+            "confidence": 0.9954808950424194
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.997286319732666
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9969311952590942
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9541343450546265
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.7338857054710388
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.9230355620384216
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.9641938805580139
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.9887012243270874
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 561.0,
+            "end_time": 564.0,
+            "confidence": 0.9955317974090576
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 564.0,
+            "end_time": 567.0,
+            "confidence": 0.9947953820228577
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 567.0,
+            "end_time": 570.0,
+            "confidence": 0.9909765720367432
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 597.0,
+            "end_time": 600.0,
+            "confidence": 0.7274245619773865
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 600.0,
+            "end_time": 603.0,
+            "confidence": 0.9315727949142456
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 603.0,
+            "end_time": 606.0,
+            "confidence": 0.9472362995147705
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 606.0,
+            "end_time": 609.0,
+            "confidence": 0.9761189222335815
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 609.0,
+            "end_time": 612.0,
+            "confidence": 0.9971972703933716
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 612.0,
+            "end_time": 615.0,
+            "confidence": 0.9877338409423828
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 615.0,
+            "end_time": 618.0,
+            "confidence": 0.7548288106918335
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 642.0,
+            "end_time": 645.0,
+            "confidence": 0.8138279318809509
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 645.0,
+            "end_time": 648.0,
+            "confidence": 0.9695492386817932
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.9787852168083191
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.9807031154632568
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 654.0,
+            "end_time": 657.0,
+            "confidence": 0.994703471660614
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 657.0,
+            "end_time": 660.0,
+            "confidence": 0.9950030446052551
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 684.0,
+            "end_time": 687.0,
+            "confidence": 0.9315263628959656
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9713521599769592
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.9891123175621033
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.979178786277771
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 696.0,
+            "end_time": 699.0,
+            "confidence": 0.9886484742164612
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 699.0,
+            "end_time": 702.0,
+            "confidence": 0.9901174902915955
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 702.0,
+            "end_time": 705.0,
+            "confidence": 0.8769514560699463
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 744.0,
+            "end_time": 747.0,
+            "confidence": 0.6316541433334351
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 747.0,
+            "end_time": 750.0,
+            "confidence": 0.9637563824653625
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 750.0,
+            "end_time": 753.0,
+            "confidence": 0.954882800579071
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 753.0,
+            "end_time": 756.0,
+            "confidence": 0.9888302683830261
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 756.0,
+            "end_time": 759.0,
+            "confidence": 0.9939162135124207
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 759.0,
+            "end_time": 762.0,
+            "confidence": 0.9945477843284607
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 762.0,
+            "end_time": 765.0,
+            "confidence": 0.7632718086242676
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 804.0,
+            "end_time": 807.0,
+            "confidence": 0.9516071081161499
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 807.0,
+            "end_time": 810.0,
+            "confidence": 0.9679903388023376
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 810.0,
+            "end_time": 813.0,
+            "confidence": 0.9888434410095215
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 813.0,
+            "end_time": 816.0,
+            "confidence": 0.9958987832069397
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 816.0,
+            "end_time": 819.0,
+            "confidence": 0.9960519671440125
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 819.0,
+            "end_time": 822.0,
+            "confidence": 0.8940908312797546
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 852.0,
+            "end_time": 855.0,
+            "confidence": 0.6828396320343018
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 858.0,
+            "end_time": 861.0,
+            "confidence": 0.9706825017929077
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 861.0,
+            "end_time": 864.0,
+            "confidence": 0.9877632260322571
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.9677301049232483
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 885.0,
+            "end_time": 888.0,
+            "confidence": 0.5246305465698242
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.9326858520507812
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 891.0,
+            "end_time": 894.0,
+            "confidence": 0.9658868908882141
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.9875456690788269
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.9957179427146912
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.9905823469161987
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.9654629230499268
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.9650961756706238
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.9472494125366211
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 942.0,
+            "end_time": 945.0,
+            "confidence": 0.9889572262763977
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.9938095211982727
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 948.0,
+            "end_time": 951.0,
+            "confidence": 0.9942726492881775
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.9721822738647461
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.9751133918762207
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 981.0,
+            "end_time": 984.0,
+            "confidence": 0.9895087480545044
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 984.0,
+            "end_time": 987.0,
+            "confidence": 0.9926924705505371
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.9955171942710876
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 990.0,
+            "end_time": 993.0,
+            "confidence": 0.9967225193977356
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 993.0,
+            "end_time": 996.0,
+            "confidence": 0.996594250202179
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.5860648155212402
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1020.0,
+            "end_time": 1023.0,
+            "confidence": 0.4107663631439209
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.9817236661911011
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1026.0,
+            "end_time": 1029.0,
+            "confidence": 0.915310263633728
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.9870253205299377
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1032.0,
+            "end_time": 1035.0,
+            "confidence": 0.9963020086288452
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.9939237236976624
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1038.0,
+            "end_time": 1041.0,
+            "confidence": 0.9944552779197693
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1062.0,
+            "end_time": 1065.0,
+            "confidence": 0.8451399207115173
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9674115180969238
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1068.0,
+            "end_time": 1071.0,
+            "confidence": 0.9356905221939087
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1071.0,
+            "end_time": 1074.0,
+            "confidence": 0.9734443426132202
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.9906154870986938
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1077.0,
+            "end_time": 1080.0,
+            "confidence": 0.996254563331604
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1080.0,
+            "end_time": 1083.0,
+            "confidence": 0.9752261638641357
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.975214421749115
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.9814133644104004
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.9893600940704346
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.9949709177017212
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1128.0,
+            "end_time": 1131.0,
+            "confidence": 0.9955447912216187
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.9909844398498535
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1164.0,
+            "end_time": 1167.0,
+            "confidence": 0.4309298098087311
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.9630836844444275
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.8716527223587036
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.9629487991333008
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1176.0,
+            "end_time": 1179.0,
+            "confidence": 0.9696122407913208
+        }
+    ],
+    "pf_chan1.mp3": []
+}

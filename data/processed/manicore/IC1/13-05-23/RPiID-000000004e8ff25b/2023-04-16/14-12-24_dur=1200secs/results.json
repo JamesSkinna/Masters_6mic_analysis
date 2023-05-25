@@ -1,0 +1,341 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.5761528611183167
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.6435062885284424
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 129.0,
+            "end_time": 132.0,
+            "confidence": 0.40803590416908264
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5252465009689331
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.7783133387565613
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.41410595178604126
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.6684565544128418
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.5008953213691711
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.4188096821308136
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.6735155582427979
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 105.0,
+            "end_time": 108.0,
+            "confidence": 0.6032361388206482
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 117.0,
+            "end_time": 120.0,
+            "confidence": 0.4489355683326721
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5598244667053223
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.8521483540534973
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.471782386302948
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 201.0,
+            "end_time": 204.0,
+            "confidence": 0.4035942852497101
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.6877474784851074
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.4642021954059601
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.6656463742256165
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.6497797966003418
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5743595957756042
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.8432213664054871
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 669.0,
+            "end_time": 672.0,
+            "confidence": 0.7343001365661621
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.5288921594619751
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.7174293398857117
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.7406899333000183
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.6330783367156982
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 18.0,
+            "end_time": 21.0,
+            "confidence": 0.4805561900138855
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 102.0,
+            "end_time": 105.0,
+            "confidence": 0.5890519618988037
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.42224976420402527
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.6468222141265869
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.4093186855316162
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 207.0,
+            "end_time": 210.0,
+            "confidence": 0.43153834342956543
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 210.0,
+            "end_time": 213.0,
+            "confidence": 0.6329137086868286
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.5140055418014526
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.5199692249298096
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 426.0,
+            "end_time": 429.0,
+            "confidence": 0.4802810549736023
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 570.0,
+            "end_time": 573.0,
+            "confidence": 0.483458936214447
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 864.0,
+            "end_time": 867.0,
+            "confidence": 0.7259500026702881
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 924.0,
+            "end_time": 927.0,
+            "confidence": 0.6367883682250977
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.5660718083381653
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.7507379055023193
+        },
+        {
+            "common_name": "Ruddy Quail-Dove",
+            "scientific_name": "Geotrygon montana",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4455774128437042
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.42044028639793396
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.6491367220878601
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.8634682893753052
+        }
+    ]
+}

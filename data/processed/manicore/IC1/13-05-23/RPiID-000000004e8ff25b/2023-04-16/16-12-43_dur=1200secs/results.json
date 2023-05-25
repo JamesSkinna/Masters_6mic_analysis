@@ -1,0 +1,179 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.6996860504150391
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.5838809609413147
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5188687443733215
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 393.0,
+            "end_time": 396.0,
+            "confidence": 0.5038176774978638
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 399.0,
+            "end_time": 402.0,
+            "confidence": 0.588565468788147
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 915.0,
+            "end_time": 918.0,
+            "confidence": 0.435829758644104
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 1101.0,
+            "end_time": 1104.0,
+            "confidence": 0.8418943285942078
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 1125.0,
+            "end_time": 1128.0,
+            "confidence": 0.876197338104248
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.7126331925392151
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.6525559425354004
+        },
+        {
+            "common_name": "Elegant Woodcreeper",
+            "scientific_name": "Xiphorhynchus elegans",
+            "start_time": 1185.0,
+            "end_time": 1188.0,
+            "confidence": 0.4471849799156189
+        }
+    ],
+    "pf_chan4.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.6757495999336243
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.841961145401001
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 768.0,
+            "end_time": 771.0,
+            "confidence": 0.4185246229171753
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.6098514795303345
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4043511748313904
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Santarem Parakeet",
+            "scientific_name": "Pyrrhura amazonum",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.674612283706665
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Sunbittern",
+            "scientific_name": "Eurypyga helias",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.7390806078910828
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.5000839829444885
+        },
+        {
+            "common_name": "Cinereous Tinamou",
+            "scientific_name": "Crypturellus cinereus",
+            "start_time": 396.0,
+            "end_time": 399.0,
+            "confidence": 0.440554678440094
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.41197457909584045
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.42509180307388306
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1131.0,
+            "end_time": 1134.0,
+            "confidence": 0.4244225323200226
+        }
+    ]
+}
