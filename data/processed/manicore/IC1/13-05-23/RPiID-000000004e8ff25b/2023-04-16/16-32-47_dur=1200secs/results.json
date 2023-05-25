@@ -1,0 +1,199 @@
+{
+    "sep_chan1.mp3": [],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 75.0,
+            "end_time": 78.0,
+            "confidence": 0.42930370569229126
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 585.0,
+            "end_time": 588.0,
+            "confidence": 0.4131830036640167
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 678.0,
+            "end_time": 681.0,
+            "confidence": 0.40667492151260376
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 63.0,
+            "end_time": 66.0,
+            "confidence": 0.4061359167098999
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 531.0,
+            "end_time": 534.0,
+            "confidence": 0.4003048837184906
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.429635614156723
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "pf_chan3.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 15.0,
+            "end_time": 18.0,
+            "confidence": 0.46863114833831787
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1134.0,
+            "end_time": 1137.0,
+            "confidence": 0.479995995759964
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 39.0,
+            "end_time": 42.0,
+            "confidence": 0.4128444492816925
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 336.0,
+            "end_time": 339.0,
+            "confidence": 0.45800840854644775
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.47351232171058655
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.5477105975151062
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 693.0,
+            "end_time": 696.0,
+            "confidence": 0.43496397137641907
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 729.0,
+            "end_time": 732.0,
+            "confidence": 0.4249584674835205
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 897.0,
+            "end_time": 900.0,
+            "confidence": 0.5848267078399658
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 900.0,
+            "end_time": 903.0,
+            "confidence": 0.7525085210800171
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 909.0,
+            "end_time": 912.0,
+            "confidence": 0.6643199920654297
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 915.0,
+            "end_time": 918.0,
+            "confidence": 0.7673788666725159
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.7031736969947815
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.5202065110206604
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.5632807016372681
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 1161.0,
+            "end_time": 1164.0,
+            "confidence": 0.534416675567627
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 21.0,
+            "end_time": 24.0,
+            "confidence": 0.41574588418006897
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.4021574854850769
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Pavonine Cuckoo",
+            "scientific_name": "Dromococcyx pavoninus",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.40902942419052124
+        },
+        {
+            "common_name": "Zimmer's Tody-Tyrant",
+            "scientific_name": "Hemitriccus minimus",
+            "start_time": 627.0,
+            "end_time": 630.0,
+            "confidence": 0.4628494679927826
+        }
+    ]
+}

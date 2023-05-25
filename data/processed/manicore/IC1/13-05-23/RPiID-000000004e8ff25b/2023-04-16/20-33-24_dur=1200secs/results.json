@@ -1,0 +1,51 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.6485094428062439
+        }
+    ],
+    "sep_chan2.mp3": [],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.8035722970962524
+        }
+    ],
+    "pf_chan2.mp3": [],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 261.0,
+            "end_time": 264.0,
+            "confidence": 0.502673864364624
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.41399022936820984
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Black-fronted Nunbird",
+            "scientific_name": "Monasa nigrifrons",
+            "start_time": 1044.0,
+            "end_time": 1047.0,
+            "confidence": 0.4976113736629486
+        }
+    ],
+    "original_chan1.mp3": [],
+    "pf_chan4.mp3": []
+}

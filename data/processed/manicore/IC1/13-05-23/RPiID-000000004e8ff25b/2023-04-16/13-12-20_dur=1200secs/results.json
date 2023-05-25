@@ -1,0 +1,314 @@
+{
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.4497097134590149
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.4324743449687958
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6322657465934753
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.658800482749939
+        },
+        {
+            "common_name": "Gilded Barbet",
+            "scientific_name": "Capito auratus",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.8333280086517334
+        }
+    ],
+    "pf_chan2.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 273.0,
+            "end_time": 276.0,
+            "confidence": 0.46615952253341675
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.7188506126403809
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 480.0,
+            "end_time": 483.0,
+            "confidence": 0.7259448766708374
+        },
+        {
+            "common_name": "White-tipped Dove",
+            "scientific_name": "Leptotila verreauxi",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.4789363145828247
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 558.0,
+            "end_time": 561.0,
+            "confidence": 0.5499670505523682
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 774.0,
+            "end_time": 777.0,
+            "confidence": 0.6689660549163818
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 834.0,
+            "end_time": 837.0,
+            "confidence": 0.4608970284461975
+        },
+        {
+            "common_name": "White-tipped Dove",
+            "scientific_name": "Leptotila verreauxi",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7410134077072144
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 1122.0,
+            "end_time": 1125.0,
+            "confidence": 0.41242462396621704
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 1167.0,
+            "end_time": 1170.0,
+            "confidence": 0.4087696075439453
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 273.0,
+            "end_time": 276.0,
+            "confidence": 0.4870047867298126
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.5626030564308167
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.4570646584033966
+        },
+        {
+            "common_name": "Gilded Barbet",
+            "scientific_name": "Capito auratus",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.8055059313774109
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 126.0,
+            "end_time": 129.0,
+            "confidence": 0.6769063472747803
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.46435293555259705
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.849904477596283
+        },
+        {
+            "common_name": "Gilded Barbet",
+            "scientific_name": "Capito auratus",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.8365442156791687
+        },
+        {
+            "common_name": "White-tipped Dove",
+            "scientific_name": "Leptotila verreauxi",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7368829250335693
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Ferruginous Pygmy-Owl",
+            "scientific_name": "Glaucidium brasilianum",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.6498028635978699
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.49128207564353943
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 156.0,
+            "end_time": 159.0,
+            "confidence": 0.45489877462387085
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.770348072052002
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 186.0,
+            "end_time": 189.0,
+            "confidence": 0.413842111825943
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.62549889087677
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.4360164701938629
+        },
+        {
+            "common_name": "Gilded Barbet",
+            "scientific_name": "Capito auratus",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.8673601746559143
+        }
+    ],
+    "pf_chan1.mp3": [
+        {
+            "common_name": "Blue Ground Dove",
+            "scientific_name": "Claravis pretiosa",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.40153223276138306
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 351.0,
+            "end_time": 354.0,
+            "confidence": 0.5774727463722229
+        },
+        {
+            "common_name": "Gray-fronted Dove",
+            "scientific_name": "Leptotila rufaxilla",
+            "start_time": 354.0,
+            "end_time": 357.0,
+            "confidence": 0.6548513174057007
+        },
+        {
+            "common_name": "Variegated Antpitta",
+            "scientific_name": "Grallaria varia",
+            "start_time": 741.0,
+            "end_time": 744.0,
+            "confidence": 0.7771247029304504
+        },
+        {
+            "common_name": "White-tipped Dove",
+            "scientific_name": "Leptotila verreauxi",
+            "start_time": 1194.0,
+            "end_time": 1197.0,
+            "confidence": 0.47499826550483704
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 165.0,
+            "end_time": 168.0,
+            "confidence": 0.47914204001426697
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 168.0,
+            "end_time": 171.0,
+            "confidence": 0.8325722813606262
+        },
+        {
+            "common_name": "Green-backed Trogon",
+            "scientific_name": "Trogon viridis",
+            "start_time": 198.0,
+            "end_time": 201.0,
+            "confidence": 0.6453256607055664
+        },
+        {
+            "common_name": "Variegated Tinamou",
+            "scientific_name": "Crypturellus variegatus",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.6324915885925293
+        },
+        {
+            "common_name": "Gilded Barbet",
+            "scientific_name": "Capito auratus",
+            "start_time": 639.0,
+            "end_time": 642.0,
+            "confidence": 0.873473584651947
+        }
+    ]
+}

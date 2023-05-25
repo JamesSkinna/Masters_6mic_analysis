@@ -1,0 +1,1964 @@
+{
+    "pf_chan2.mp3": [],
+    "sep_chan1.mp3": [
+        {
+            "common_name": "Tropical Screech-Owl",
+            "scientific_name": "Megascops choliba",
+            "start_time": 12.0,
+            "end_time": 15.0,
+            "confidence": 0.4313444495201111
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.6485550999641418
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.47706976532936096
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.7845385670661926
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.6909785270690918
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8962584733963013
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.8946137428283691
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.8457152247428894
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.41203293204307556
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.7769505977630615
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.8331747055053711
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.4983067810535431
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.884913444519043
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9001402854919434
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.5988094806671143
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.801714301109314
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.40839284658432007
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.7267014384269714
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.424936980009079
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.6360557079315186
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.6002058386802673
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.573877215385437
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.5317144393920898
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.42266350984573364
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.7369905710220337
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.42912882566452026
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.7008452415466309
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.45568329095840454
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.604933500289917
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.541223406791687
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.7780323624610901
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.8444121479988098
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.7986860871315002
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9784278869628906
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.974105715751648
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.910029947757721
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.9377565979957581
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.6091179251670837
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.7480856776237488
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.6449806690216064
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.5119339227676392
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4622649848461151
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8686756491661072
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9617978930473328
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9733507037162781
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9387035369873047
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.8759915232658386
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.6665578484535217
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.6944432854652405
+        }
+    ],
+    "sep_chan2.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5291703939437866
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.421396940946579
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.5403590798377991
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 255.0,
+            "end_time": 258.0,
+            "confidence": 0.41846174001693726
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.511322021484375
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.8212212324142456
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8832929134368896
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.4409172832965851
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.4483300745487213
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.4936910569667816
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.8768121004104614
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.5834360718727112
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9601434469223022
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.9517275094985962
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.7148526310920715
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.8690487742424011
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.851191520690918
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.6677679419517517
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.8886092305183411
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.4163183271884918
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.659288763999939
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.6676124930381775
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.43940597772598267
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.42766937613487244
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.718321681022644
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.45702001452445984
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.4811001718044281
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.40366798639297485
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.4428195059299469
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.6544609069824219
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.44223886728286743
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.4366418719291687
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.7331543564796448
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.44033411145210266
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.6261287927627563
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5179635286331177
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.5664855241775513
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.790168046951294
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.40387675166130066
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.8158625364303589
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.90174800157547
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.8715829849243164
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9796866178512573
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.9598137736320496
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.9394272565841675
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.8198883533477783
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.7234362363815308
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.44482287764549255
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.5525535345077515
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.4091755151748657
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.6112687587738037
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.5511400103569031
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8100450038909912
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9769943356513977
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9825111031532288
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9771077632904053
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.91286700963974
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.5830428004264832
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.7095110416412354
+        }
+    ],
+    "pf_chan3.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.4935239255428314
+        }
+    ],
+    "sep_chan4.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.7825489044189453
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.5971752405166626
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.7531454563140869
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.6817589998245239
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.8668428063392639
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.40754419565200806
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.8746689558029175
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.7360731363296509
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.4260292649269104
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9555132985115051
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.9331175088882446
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.8653014898300171
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9462693929672241
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9750544428825378
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.7287073731422424
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.7933021783828735
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.9265971183776855
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.5650030374526978
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.619710385799408
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.6941576600074768
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.41991376876831055
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.4450230598449707
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.6876873970031738
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.4154881536960602
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 927.0,
+            "end_time": 930.0,
+            "confidence": 0.5842347145080566
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.4993472397327423
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.5154839754104614
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.41246843338012695
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.687187135219574
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.6302559971809387
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 999.0,
+            "end_time": 1002.0,
+            "confidence": 0.5030600428581238
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.7755380868911743
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1014.0,
+            "end_time": 1017.0,
+            "confidence": 0.7555511593818665
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.7877158522605896
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.9532979130744934
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.9290615320205688
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9778229594230652
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.984826922416687
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.9241873025894165
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.7043257355690002
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.7096459865570068
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.4331301748752594
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.5185677409172058
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.9066192507743835
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1119.0,
+            "end_time": 1122.0,
+            "confidence": 0.4498535394668579
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.9501584768295288
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9721408486366272
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9755910634994507
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9693121910095215
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.9429189562797546
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.4659126400947571
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.6986567974090576
+        }
+    ],
+    "original_chan1.mp3": [
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.5474568009376526
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 246.0,
+            "end_time": 249.0,
+            "confidence": 0.5179263949394226
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.6726498603820801
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.7282882928848267
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.4147055745124817
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.5982481241226196
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.5201255083084106
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 381.0,
+            "end_time": 384.0,
+            "confidence": 0.4069533348083496
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 411.0,
+            "end_time": 414.0,
+            "confidence": 0.46573054790496826
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.4085748791694641
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.663092315196991
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.8480440974235535
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.48715826869010925
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.5115512013435364
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.5380699634552002
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 651.0,
+            "end_time": 654.0,
+            "confidence": 0.7662159204483032
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 783.0,
+            "end_time": 786.0,
+            "confidence": 0.42281052470207214
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.40025001764297485
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.4864261746406555
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.4587535560131073
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 894.0,
+            "end_time": 897.0,
+            "confidence": 0.40013912320137024
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 912.0,
+            "end_time": 915.0,
+            "confidence": 0.462409108877182
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 921.0,
+            "end_time": 924.0,
+            "confidence": 0.4209122359752655
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 936.0,
+            "end_time": 939.0,
+            "confidence": 0.4375954270362854
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 960.0,
+            "end_time": 963.0,
+            "confidence": 0.4425939917564392
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.6069824695587158
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.4141862094402313
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1005.0,
+            "end_time": 1008.0,
+            "confidence": 0.6260422468185425
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1023.0,
+            "end_time": 1026.0,
+            "confidence": 0.5319727063179016
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.4010687470436096
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.9227242469787598
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.92839515209198
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9627341628074646
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.9766606688499451
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.6813077926635742
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.6598174571990967
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1074.0,
+            "end_time": 1077.0,
+            "confidence": 0.5592253804206848
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1083.0,
+            "end_time": 1086.0,
+            "confidence": 0.5712388157844543
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.42313525080680847
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.6968295574188232
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.8499158024787903
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9129931926727295
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9827917218208313
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.9651067852973938
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.7999907732009888
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.4148012101650238
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1173.0,
+            "end_time": 1176.0,
+            "confidence": 0.40736648440361023
+        }
+    ],
+    "sep_chan3.mp3": [
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 27.0,
+            "end_time": 30.0,
+            "confidence": 0.4167861342430115
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 108.0,
+            "end_time": 111.0,
+            "confidence": 0.41810041666030884
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.7966753840446472
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 162.0,
+            "end_time": 165.0,
+            "confidence": 0.599657416343689
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 213.0,
+            "end_time": 216.0,
+            "confidence": 0.8507851362228394
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 276.0,
+            "end_time": 279.0,
+            "confidence": 0.8152995109558105
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 279.0,
+            "end_time": 282.0,
+            "confidence": 0.8025474548339844
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 282.0,
+            "end_time": 285.0,
+            "confidence": 0.9520007371902466
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 285.0,
+            "end_time": 288.0,
+            "confidence": 0.5803772807121277
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 303.0,
+            "end_time": 306.0,
+            "confidence": 0.507919430732727
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 312.0,
+            "end_time": 315.0,
+            "confidence": 0.4215260446071625
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 357.0,
+            "end_time": 360.0,
+            "confidence": 0.5399488210678101
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 360.0,
+            "end_time": 363.0,
+            "confidence": 0.9514623880386353
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 366.0,
+            "end_time": 369.0,
+            "confidence": 0.8575592637062073
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 372.0,
+            "end_time": 375.0,
+            "confidence": 0.42136648297309875
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 453.0,
+            "end_time": 456.0,
+            "confidence": 0.4273660182952881
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 456.0,
+            "end_time": 459.0,
+            "confidence": 0.9488770961761475
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 459.0,
+            "end_time": 462.0,
+            "confidence": 0.9078474044799805
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 495.0,
+            "end_time": 498.0,
+            "confidence": 0.8798136711120605
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 498.0,
+            "end_time": 501.0,
+            "confidence": 0.9487030506134033
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 501.0,
+            "end_time": 504.0,
+            "confidence": 0.9424076676368713
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 540.0,
+            "end_time": 543.0,
+            "confidence": 0.7467154264450073
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 543.0,
+            "end_time": 546.0,
+            "confidence": 0.8896620273590088
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 546.0,
+            "end_time": 549.0,
+            "confidence": 0.845004677772522
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 549.0,
+            "end_time": 552.0,
+            "confidence": 0.5018551349639893
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 552.0,
+            "end_time": 555.0,
+            "confidence": 0.7820915579795837
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 555.0,
+            "end_time": 558.0,
+            "confidence": 0.6519964337348938
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 648.0,
+            "end_time": 651.0,
+            "confidence": 0.640282928943634
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 849.0,
+            "end_time": 852.0,
+            "confidence": 0.41170361638069153
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 879.0,
+            "end_time": 882.0,
+            "confidence": 0.4739583730697632
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 888.0,
+            "end_time": 891.0,
+            "confidence": 0.8270682096481323
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 903.0,
+            "end_time": 906.0,
+            "confidence": 0.40039360523223877
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.4105576276779175
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 945.0,
+            "end_time": 948.0,
+            "confidence": 0.4388244152069092
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 951.0,
+            "end_time": 954.0,
+            "confidence": 0.4215514063835144
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 969.0,
+            "end_time": 972.0,
+            "confidence": 0.45499658584594727
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 978.0,
+            "end_time": 981.0,
+            "confidence": 0.47108781337738037
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 987.0,
+            "end_time": 990.0,
+            "confidence": 0.5774537920951843
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 996.0,
+            "end_time": 999.0,
+            "confidence": 0.7068461775779724
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1035.0,
+            "end_time": 1038.0,
+            "confidence": 0.7500344514846802
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1047.0,
+            "end_time": 1050.0,
+            "confidence": 0.9578465223312378
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1050.0,
+            "end_time": 1053.0,
+            "confidence": 0.9322015643119812
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1053.0,
+            "end_time": 1056.0,
+            "confidence": 0.9859945774078369
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1056.0,
+            "end_time": 1059.0,
+            "confidence": 0.9881568551063538
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1059.0,
+            "end_time": 1062.0,
+            "confidence": 0.9677332639694214
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1065.0,
+            "end_time": 1068.0,
+            "confidence": 0.8031030297279358
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1098.0,
+            "end_time": 1101.0,
+            "confidence": 0.5399717092514038
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1110.0,
+            "end_time": 1113.0,
+            "confidence": 0.7019753456115723
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1116.0,
+            "end_time": 1119.0,
+            "confidence": 0.7674275636672974
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1146.0,
+            "end_time": 1149.0,
+            "confidence": 0.967254102230072
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1149.0,
+            "end_time": 1152.0,
+            "confidence": 0.9760720133781433
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1152.0,
+            "end_time": 1155.0,
+            "confidence": 0.9707440733909607
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1155.0,
+            "end_time": 1158.0,
+            "confidence": 0.98653644323349
+        },
+        {
+            "common_name": "Tawny-bellied Screech-Owl",
+            "scientific_name": "Megascops watsonii",
+            "start_time": 1158.0,
+            "end_time": 1161.0,
+            "confidence": 0.9034920334815979
+        },
+        {
+            "common_name": "Mottled Owl",
+            "scientific_name": "Ciccaba virgata",
+            "start_time": 1170.0,
+            "end_time": 1173.0,
+            "confidence": 0.567139744758606
+        },
+        {
+            "common_name": "Crested Owl",
+            "scientific_name": "Lophostrix cristata",
+            "start_time": 1182.0,
+            "end_time": 1185.0,
+            "confidence": 0.6295685172080994
+        }
+    ],
+    "pf_chan4.mp3": [
+        {
+            "common_name": "Tawny-crowned Greenlet",
+            "scientific_name": "Tunchiornis ochraceiceps",
+            "start_time": 159.0,
+            "end_time": 162.0,
+            "confidence": 0.46075519919395447
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 174.0,
+            "end_time": 177.0,
+            "confidence": 0.40903374552726746
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 183.0,
+            "end_time": 186.0,
+            "confidence": 0.605391800403595
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 189.0,
+            "end_time": 192.0,
+            "confidence": 0.8854758143424988
+        },
+        {
+            "common_name": "Tawny-crowned Greenlet",
+            "scientific_name": "Tunchiornis ochraceiceps",
+            "start_time": 369.0,
+            "end_time": 372.0,
+            "confidence": 0.6087738275527954
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 447.0,
+            "end_time": 450.0,
+            "confidence": 0.45468661189079285
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 528.0,
+            "end_time": 531.0,
+            "confidence": 0.4308609366416931
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 687.0,
+            "end_time": 690.0,
+            "confidence": 0.9667796492576599
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 690.0,
+            "end_time": 693.0,
+            "confidence": 0.8536921739578247
+        },
+        {
+            "common_name": "Tawny-crowned Greenlet",
+            "scientific_name": "Tunchiornis ochraceiceps",
+            "start_time": 780.0,
+            "end_time": 783.0,
+            "confidence": 0.43401652574539185
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 876.0,
+            "end_time": 879.0,
+            "confidence": 0.5721255540847778
+        },
+        {
+            "common_name": "Striped Cuckoo",
+            "scientific_name": "Tapera naevia",
+            "start_time": 882.0,
+            "end_time": 885.0,
+            "confidence": 0.8740934729576111
+        },
+        {
+            "common_name": "Scaly-breasted Wren",
+            "scientific_name": "Microcerculus marginatus",
+            "start_time": 939.0,
+            "end_time": 942.0,
+            "confidence": 0.6027705073356628
+        },
+        {
+            "common_name": "Tawny-crowned Greenlet",
+            "scientific_name": "Tunchiornis ochraceiceps",
+            "start_time": 1029.0,
+            "end_time": 1032.0,
+            "confidence": 0.5214506983757019
+        }
+    ],
+    "pf_chan1.mp3": []
+}
