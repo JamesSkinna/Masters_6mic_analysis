@@ -18,7 +18,7 @@ from birdnetlib.analyzer import Analyzer
 
 
 # Define constants
-DIR_PATH = "data/raw/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16"    # Directory to analyse
+DIR_PATH = "data/raw/speaker_sphere_lab_tests/test_auto_bf"    # Directory to analyse
 # DIR_PATH = "data/raw/speaker_sphere_lab_tests"
 CONFIG_PATH = "src/configs"     # Where our ODAS config templates are located
 LOCATION_DICT = {"manicore": {"lat": -5.750849, "long":-61.421894},
@@ -31,6 +31,11 @@ elif "silwood" in DIR_PATH:
 else:
     LOCATION = "lab"
 
+# Choose whether to beamform based on pre-set directions, or let ODAS do it automatically
+# Preset -> Results put into 'data/processed' folder
+# Auto   -> Results put into 'data/processed_auto_beamform' folder
+AUTO_BEAMFORM = True
+
 
 def convert_flac_to_wav(input_path):
     """Take flac file from data/raw directory
@@ -38,8 +43,13 @@ def convert_flac_to_wav(input_path):
     --> Store in new directory, inside data/processed
     Returns: File path of processed RAW file"""
 
+    if AUTO_BEAMFORM:
+        folder_replace = "processed_auto_beamform"
+    else:
+        folder_replace = "processed"
+
     folder_path = input_path.split(".")[0]       # New folder path
-    folder_path = folder_path.replace("raw", "processed")     # Move from raw folder to processed
+    folder_path = folder_path.replace("raw", folder_replace)     # Move from raw folder to processed
 
     # Setup a new folder for the processed data
     if not os.path.exists(folder_path):
@@ -72,7 +82,11 @@ def create_cfg_file(input_path, folder_path):
     env = Environment(loader=FileSystemLoader(CONFIG_PATH))
 
     # Load the template from disk
-    template = env.get_template("6mic_post_analysis_template.cfg")
+    if AUTO_BEAMFORM:
+        template_file = "6mic_post_analysis_autobf_template.cfg"
+    else:
+        template_file = "6mic_post_analysis_template.cfg"
+    template = env.get_template(template_file)
 
     # Setup the paths
     raw_input_path = input_path
