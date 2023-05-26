@@ -1,0 +1,14 @@
+{
+    "mono_channel": {
+        "Carolina Wren": 65,
+        "Eurasian Blackcap": 91
+    },
+    "beamformed": {
+        "Carolina Wren": 100,
+        "Great Plains Narrow-mouthed Toad": 1,
+        "Eurasian Blackcap": 136,
+        "Orange-billed Nightingale-Thrush": 1,
+        "Savi's Warbler": 1,
+        "Greenish Schiffornis": 1
+    }
+}

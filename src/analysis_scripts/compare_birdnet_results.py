@@ -10,11 +10,20 @@
 
 import os
 import json
+import math
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
 DIR_PATH = "data/processed/manicore"
+
+# Set the location of data...
+if "manicore" in DIR_PATH:
+    LOCATION = "Manicore"
+elif "silwood" in DIR_PATH:
+    LOCATION = "Silwood"
+else:
+    LOCATION = "Lab: Speaker Sphere"
 
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
@@ -52,10 +61,6 @@ def extract_max_bf_conf(mono_detection, results_dict):
 def update_species(species_dict, species_name, conf, start_time, file_path, max_conf_chan=""):
     """Updates the data of an existing species, in a dictionary"""
 
-    species_dict[species_name]["count"] += 1
-    species_dict[species_name]["conf_sum"] += conf
-    species_dict[species_name]["max_conf"] = max(conf, species_dict[species_name]["max_conf"])
-    species_dict[species_name]["conf_avg"] = round(species_dict[species_name]["conf_sum"] / species_dict[species_name]["count"], 2)
     species_dict[species_name]["conf_list"].append(conf)
     species_dict[species_name]["start_time_list"].append(start_time)
     if max_conf_chan != "":
@@ -71,10 +76,6 @@ def add_new_species(species_dict, species_name, conf, start_time, file_path, max
     """Adds data for a new species, to a dictionary"""
 
     species_dict[species_name] = {}       # Create new nested dictionary
-    species_dict[species_name]["count"] = 1
-    species_dict[species_name]["conf_sum"] = conf
-    species_dict[species_name]["max_conf"] = conf
-    species_dict[species_name]["conf_avg"] = round(species_dict[species_name]["conf_sum"] / species_dict[species_name]["count"], 2)
     species_dict[species_name]["conf_list"] = [conf]
     species_dict[species_name]["start_time_list"] = [start_time]
     if max_conf_chan != "":
@@ -204,6 +205,31 @@ def count_detections_in_dict(results_dict, overall_results, conf_thresh):
     return overall_results
 
 
+def add_conf_metrics(processed_dict):
+    """Takes a dictionary of processed results
+    --> Extracts each confidence list (each channel, each species)
+    --> Caclulates and adds: mean, median, stdev, max & count"""
+
+    for chan in processed_dict.keys():
+        chan_data = processed_dict[chan]
+        for species in chan_data.keys():
+            species_data = chan_data[species]
+
+            conf_list = species_data["conf_list"]
+            mean = round(np.mean(conf_list), 3)
+            median = round(np.median(conf_list), 3)
+            stdev = round(np.std(conf_list), 3)
+            max_conf = round(np.max(conf_list), 3)
+            count = len(conf_list)
+
+            processed_dict[chan][species]["conf_avg"] = mean
+            processed_dict[chan][species]["conf_median"] = median
+            processed_dict[chan][species]["conf_stdev"] = stdev
+            processed_dict[chan][species]["conf_max"] = max_conf
+            processed_dict[chan][species]["count"] = count
+
+    return processed_dict
+
 
 # FUNCTIONS FOR PLOTTING PROCESSED RESULTS-----------------------------------------------------------------------------------
 def set_box_color(bp, color):
@@ -235,11 +261,69 @@ def setup_new_plot(xlabel, ylabel, title):
     plt.grid(True)
 
 
+def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path):
+    """Draws several histograms in a single plot
+    --> Organised in a grid of n_rows x n_cols"""
+
+    fig=plt.figure(figsize=(18, 12))
+    fig.suptitle(title, fontsize=16)         # As we have subplots, we set an overall title with suptitle
+
+    for i, name in enumerate(species_names):
+        ax=fig.add_subplot(n_rows,n_cols,i+1)
+        ax.hist(hist_data[i], bins=20)
+
+        ax.set_ylabel("Frequency")
+        ax.set_xlabel("Confidence")
+        ax.grid(True)
+        ax.set_title(name, fontsize=12)
+    
+    fig.tight_layout()  # Improves appearance a bit.
+    plt.subplots_adjust(top=0.92, wspace=0.3, hspace=0.3)
+    
+    plt.savefig(file_path)
+    plt.show()
+
+
+def find_best_grid_arrangement(num_graphs):
+    """Calculate the number of rows and columns for the grid"""
+    num_rows = math.ceil(math.sqrt(num_graphs))
+    num_cols = math.ceil(num_graphs / num_rows)
+
+    return num_rows, num_cols
+
+
+def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path):
+    """Creates two plots - each containing X histograms (one for each species present)
+    --> Used to assess whether confidence data is normally distributed"""
+
+    hist_conf_data_mono = []
+    hist_conf_data_bf = []
+    hist_labels = []
+
+    # Extract the confidence levels list for each species - append to list of lists
+    for species in mono_data.keys():
+        if mono_data[species]["count"] >= 20:    # Only plot those with more than 20 detections (otherwise, histograms aren't useful)
+            hist_conf_data_mono.append(mono_data[species]["conf_list"])
+            hist_conf_data_bf.append(bf_data[species]["conf_list"])
+            hist_labels.append(get_initials(species))
+
+    if hist_labels:
+        num_rows, num_cols = find_best_grid_arrangement(len(hist_labels))
+
+        mono_title = f"Distributions of confidence levels, per species - Mono-channel - {LOCATION}"
+        bf_title = f"Distributions of confidence levels, per species - Beamformed - {LOCATION}"
+
+        draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path)
+        draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path)
+    else:
+        print("No histogram data to plot!")
+
+
 def boxplot_conf_comparison(mono_data, bf_data, file_path):
     """Creates a boxplot to compare confidence levels of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
 
-    title = "Confidence levels across species - Mono-channel vs Beamformed Recordings"
+    title = f"Confidence levels across species - Mono-channel vs Beamformed Recordings - {LOCATION}"
     setup_new_plot("Species Initials", "Confidence Levels", title)
 
     boxplot_conf_data_mono = []
@@ -290,7 +374,7 @@ def barchart_count_comparison(mono_data, bf_data, conf_thresh, file_path):
     """Creates a boxplot to compare species counts of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
 
-    title = f"Species counts for detections above {str(conf_thresh)} confidence - Mono-channel vs Beamformed Recordings"
+    title = f"Species counts for detections above {str(conf_thresh)} confidence - Mono-channel vs Beamformed Recordings - {LOCATION}"
     setup_new_plot("Species Initials", "Species Count", title)
 
     count_data_list = [mono_data, bf_data]
@@ -355,16 +439,26 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
             processed_results = process_results_dict(current_results_dict, processed_results, results_path)
             species_counts = count_detections_in_dict(current_results_dict, species_counts, CONF_MIN)
 
+processed_results = add_conf_metrics(processed_results)
+
 write_processed_to_file(processed_results, "processed.json")
 write_processed_to_file(species_counts, "species_counts.json")
 
-# Plot the data for visual inspection
+# Plot the data for visual inspection--------------------------------------
+# Confidence Boxplots...
 mono_dict = processed_results["mono_channel"]
 bf_dict = processed_results["beamformed"]
 boxplot_file_path = DIR_PATH + "/boxcompare.png"
 
 boxplot_conf_comparison(mono_dict, bf_dict, boxplot_file_path)
 
+# Confidence Histograms...
+mono_hist_file_path = DIR_PATH + "/mono_hists.png"
+bf_hist_file_path = DIR_PATH + "/bf_hists.png"
+
+plot_confidence_histograms(mono_dict, bf_dict, mono_hist_file_path, bf_hist_file_path)
+
+# Species Count Bar Charts...
 mono_dict = species_counts["mono_channel"]
 bf_dict = species_counts["beamformed"]
 barchart_file_path = DIR_PATH + "/bar_compare_count.png"
