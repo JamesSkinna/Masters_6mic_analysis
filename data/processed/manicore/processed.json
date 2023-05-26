@@ -1,10 +1,6 @@
 {
     "mono_channel": {
         "Striped Woodhaunter": {
-            "count": 5,
-            "conf_sum": 3.3654414415359497,
-            "max_conf": 0.9093917608261108,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.9093917608261108,
                 0.8837270736694336,
@@ -25,13 +21,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-38-14_dur=1200secs/results.json, original_channel1.mp3, 414.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-18-13_dur=1200secs/results.json, original_channel1.mp3, 384.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-18-13_dur=1200secs/results.json, original_channel1.mp3, 387.0"
-            ]
+            ],
+            "conf_avg": 0.673,
+            "conf_median": 0.558,
+            "conf_stdev": 0.186,
+            "conf_max": 0.909,
+            "count": 5
         },
         "Snethlage's Tody-Tyrant": {
-            "count": 2,
-            "conf_sum": 1.0558788180351257,
-            "max_conf": 0.5469348430633545,
-            "conf_avg": 0.53,
             "conf_list": [
                 0.5469348430633545,
                 0.5089439749717712
@@ -43,13 +40,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-35-23_dur=1200secs/results.json, original_channel1.mp3, 12.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, original_channel1.mp3, 804.0"
-            ]
+            ],
+            "conf_avg": 0.528,
+            "conf_median": 0.528,
+            "conf_stdev": 0.019,
+            "conf_max": 0.547,
+            "count": 2
         },
         "Mealy Parrot": {
-            "count": 107,
-            "conf_sum": 79.54697760939598,
-            "max_conf": 0.9513607025146484,
-            "conf_avg": 0.74,
             "conf_list": [
                 0.9489825367927551,
                 0.7661726474761963,
@@ -376,13 +374,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, original_channel1.mp3, 1131.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, original_channel1.mp3, 1134.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, original_channel1.mp3, 1137.0"
-            ]
+            ],
+            "conf_avg": 0.743,
+            "conf_median": 0.778,
+            "conf_stdev": 0.157,
+            "conf_max": 0.951,
+            "count": 107
         },
         "Green-backed Trogon": {
-            "count": 47,
-            "conf_sum": 29.2614067196846,
-            "max_conf": 0.9364773035049438,
-            "conf_avg": 0.62,
             "conf_list": [
                 0.48377999663352966,
                 0.557857096195221,
@@ -529,13 +528,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, original_channel1.mp3, 183.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, original_channel1.mp3, 210.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, original_channel1.mp3, 213.0"
-            ]
+            ],
+            "conf_avg": 0.623,
+            "conf_median": 0.589,
+            "conf_stdev": 0.156,
+            "conf_max": 0.936,
+            "count": 47
         },
         "Cinereous Tinamou": {
-            "count": 7,
-            "conf_sum": 4.379311829805374,
-            "max_conf": 0.8741878867149353,
-            "conf_avg": 0.63,
             "conf_list": [
                 0.7263202667236328,
                 0.8741878867149353,
@@ -562,13 +562,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/15-15-45_dur=1200secs/results.json, original_channel1.mp3, 1047.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-37-19_dur=1200secs/results.json, original_channel1.mp3, 1071.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-37-19_dur=1200secs/results.json, original_channel1.mp3, 1074.0"
-            ]
+            ],
+            "conf_avg": 0.626,
+            "conf_median": 0.593,
+            "conf_stdev": 0.133,
+            "conf_max": 0.874,
+            "count": 7
         },
         "Variegated Tinamou": {
-            "count": 25,
-            "conf_sum": 15.048469692468643,
-            "max_conf": 0.9420341849327087,
-            "conf_avg": 0.6,
             "conf_list": [
                 0.404081255197525,
                 0.5211181044578552,
@@ -649,13 +650,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-52-23_dur=1200secs/results.json, original_channel1.mp3, 936.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, original_channel1.mp3, 303.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/16-12-43_dur=1200secs/results.json, original_channel1.mp3, 186.0"
-            ]
+            ],
+            "conf_avg": 0.602,
+            "conf_median": 0.542,
+            "conf_stdev": 0.166,
+            "conf_max": 0.942,
+            "count": 25
         },
         "Rufous-tailed Flatbill": {
-            "count": 22,
-            "conf_sum": 16.394565403461456,
-            "max_conf": 0.9424120187759399,
-            "conf_avg": 0.75,
             "conf_list": [
                 0.5073741674423218,
                 0.48703470826148987,
@@ -727,13 +729,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, original_channel1.mp3, 1167.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, original_channel1.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, original_channel1.mp3, 1179.0"
-            ]
+            ],
+            "conf_avg": 0.745,
+            "conf_median": 0.764,
+            "conf_stdev": 0.148,
+            "conf_max": 0.942,
+            "count": 22
         },
         "Mottled Owl": {
-            "count": 27,
-            "conf_sum": 12.726313412189484,
-            "max_conf": 0.8082766532897949,
-            "conf_avg": 0.47,
             "conf_list": [
                 0.4244363009929657,
                 0.417116641998291,
@@ -820,13 +823,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 33.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 405.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/16-12-43_dur=1200secs/results.json, original_channel1.mp3, 1119.0"
-            ]
+            ],
+            "conf_avg": 0.471,
+            "conf_median": 0.443,
+            "conf_stdev": 0.088,
+            "conf_max": 0.808,
+            "count": 27
         },
         "Sunbittern": {
-            "count": 4,
-            "conf_sum": 2.373652845621109,
-            "max_conf": 0.7636321783065796,
-            "conf_avg": 0.59,
             "conf_list": [
                 0.7127721309661865,
                 0.41191330552101135,
@@ -844,13 +848,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-15-33_dur=1200secs/results.json, original_channel1.mp3, 156.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-15-33_dur=1200secs/results.json, original_channel1.mp3, 159.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-55-38_dur=1200secs/results.json, original_channel1.mp3, 954.0"
-            ]
+            ],
+            "conf_avg": 0.593,
+            "conf_median": 0.599,
+            "conf_stdev": 0.148,
+            "conf_max": 0.764,
+            "count": 4
         },
         "Tawny-bellied Screech-Owl": {
-            "count": 752,
-            "conf_sum": 680.4736069738865,
-            "max_conf": 0.9990133047103882,
-            "conf_avg": 0.9,
             "conf_list": [
                 0.7387409806251526,
                 0.7969951033592224,
@@ -3112,13 +3117,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 9.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 12.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 15.0"
-            ]
+            ],
+            "conf_avg": 0.905,
+            "conf_median": 0.969,
+            "conf_stdev": 0.139,
+            "conf_max": 0.999,
+            "count": 752
         },
         "Elegant Woodcreeper": {
-            "count": 1,
-            "conf_sum": 0.5584734678268433,
-            "max_conf": 0.5584734678268433,
-            "conf_avg": 0.56,
             "conf_list": [
                 0.5584734678268433
             ],
@@ -3127,13 +3133,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/16-15-51_dur=1200secs/results.json, original_channel1.mp3, 762.0"
-            ]
+            ],
+            "conf_avg": 0.558,
+            "conf_median": 0.558,
+            "conf_stdev": 0.0,
+            "conf_max": 0.558,
+            "count": 1
         },
         "Wing-barred Piprites": {
-            "count": 2,
-            "conf_sum": 0.9055129289627075,
-            "max_conf": 0.49236324429512024,
-            "conf_avg": 0.45,
             "conf_list": [
                 0.4131496846675873,
                 0.49236324429512024
@@ -3145,13 +3152,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-55-38_dur=1200secs/results.json, original_channel1.mp3, 615.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 1086.0"
-            ]
+            ],
+            "conf_avg": 0.453,
+            "conf_median": 0.453,
+            "conf_stdev": 0.04,
+            "conf_max": 0.492,
+            "count": 2
         },
         "Cinereous Mourner": {
-            "count": 2,
-            "conf_sum": 1.1665918231010437,
-            "max_conf": 0.5874258279800415,
-            "conf_avg": 0.58,
             "conf_list": [
                 0.5791659951210022,
                 0.5874258279800415
@@ -3163,13 +3171,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, original_channel1.mp3, 99.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-32-40_dur=1200secs/results.json, original_channel1.mp3, 1041.0"
-            ]
+            ],
+            "conf_avg": 0.583,
+            "conf_median": 0.583,
+            "conf_stdev": 0.004,
+            "conf_max": 0.587,
+            "count": 2
         },
         "Red-throated Caracara": {
-            "count": 2,
-            "conf_sum": 1.149033397436142,
-            "max_conf": 0.6713871955871582,
-            "conf_avg": 0.57,
             "conf_list": [
                 0.6713871955871582,
                 0.47764620184898376
@@ -3181,13 +3190,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, original_channel1.mp3, 468.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-32-22_dur=1200secs/results.json, original_channel1.mp3, 426.0"
-            ]
+            ],
+            "conf_avg": 0.575,
+            "conf_median": 0.575,
+            "conf_stdev": 0.097,
+            "conf_max": 0.671,
+            "count": 2
         },
         "Painted Parakeet": {
-            "count": 1,
-            "conf_sum": 0.4398290514945984,
-            "max_conf": 0.4398290514945984,
-            "conf_avg": 0.44,
             "conf_list": [
                 0.4398290514945984
             ],
@@ -3196,13 +3206,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, original_channel1.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.44,
+            "conf_median": 0.44,
+            "conf_stdev": 0.0,
+            "conf_max": 0.44,
+            "count": 1
         },
         "Common Scale-backed Antbird": {
-            "count": 8,
-            "conf_sum": 5.9017593562603,
-            "max_conf": 0.9678594470024109,
-            "conf_avg": 0.74,
             "conf_list": [
                 0.8583227396011353,
                 0.7552782297134399,
@@ -3232,13 +3243,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, original_channel1.mp3, 249.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, original_channel1.mp3, 261.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, original_channel1.mp3, 837.0"
-            ]
+            ],
+            "conf_avg": 0.738,
+            "conf_median": 0.763,
+            "conf_stdev": 0.174,
+            "conf_max": 0.968,
+            "count": 8
         },
         "White-throated Antbird": {
-            "count": 6,
-            "conf_sum": 5.326821148395538,
-            "max_conf": 0.9974457025527954,
-            "conf_avg": 0.89,
             "conf_list": [
                 0.8478200435638428,
                 0.9974457025527954,
@@ -3262,13 +3274,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-37-11_dur=1200secs/results.json, original_channel1.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-52-30_dur=1200secs/results.json, original_channel1.mp3, 411.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-12-33_dur=1200secs/results.json, original_channel1.mp3, 1161.0"
-            ]
+            ],
+            "conf_avg": 0.888,
+            "conf_median": 0.922,
+            "conf_stdev": 0.125,
+            "conf_max": 0.997,
+            "count": 6
         },
         "Blue-headed Parrot": {
-            "count": 5,
-            "conf_sum": 2.9334796667099,
-            "max_conf": 0.6643648743629456,
-            "conf_avg": 0.59,
             "conf_list": [
                 0.5229938626289368,
                 0.5370397567749023,
@@ -3289,13 +3302,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, original_channel1.mp3, 90.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, original_channel1.mp3, 93.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, original_channel1.mp3, 96.0"
-            ]
+            ],
+            "conf_avg": 0.587,
+            "conf_median": 0.596,
+            "conf_stdev": 0.052,
+            "conf_max": 0.664,
+            "count": 5
         },
         "Gray-winged Trumpeter": {
-            "count": 1,
-            "conf_sum": 0.41704505681991577,
-            "max_conf": 0.41704505681991577,
-            "conf_avg": 0.42,
             "conf_list": [
                 0.41704505681991577
             ],
@@ -3304,13 +3318,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-58-13_dur=1200secs/results.json, original_channel1.mp3, 777.0"
-            ]
+            ],
+            "conf_avg": 0.417,
+            "conf_median": 0.417,
+            "conf_stdev": 0.0,
+            "conf_max": 0.417,
+            "count": 1
         },
         "Crested Owl": {
-            "count": 35,
-            "conf_sum": 19.4302519261837,
-            "max_conf": 0.9219546318054199,
-            "conf_avg": 0.56,
             "conf_list": [
                 0.44186660647392273,
                 0.43451550602912903,
@@ -3421,13 +3436,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 213.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 240.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, original_channel1.mp3, 252.0"
-            ]
+            ],
+            "conf_avg": 0.555,
+            "conf_median": 0.514,
+            "conf_stdev": 0.136,
+            "conf_max": 0.922,
+            "count": 35
         },
         "White-fronted Nunbird": {
-            "count": 5,
-            "conf_sum": 2.453578382730484,
-            "max_conf": 0.6668233871459961,
-            "conf_avg": 0.49,
             "conf_list": [
                 0.4106847047805786,
                 0.4346821904182434,
@@ -3448,13 +3464,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, original_channel1.mp3, 942.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, original_channel1.mp3, 945.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, original_channel1.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.491,
+            "conf_median": 0.465,
+            "conf_stdev": 0.091,
+            "conf_max": 0.667,
+            "count": 5
         },
         "Common Potoo": {
-            "count": 13,
-            "conf_sum": 7.021429538726807,
-            "max_conf": 0.7751995325088501,
-            "conf_avg": 0.54,
             "conf_list": [
                 0.40104666352272034,
                 0.7595244646072388,
@@ -3499,13 +3516,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, original_channel1.mp3, 1161.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, original_channel1.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, original_channel1.mp3, 60.0"
-            ]
+            ],
+            "conf_avg": 0.54,
+            "conf_median": 0.492,
+            "conf_stdev": 0.127,
+            "conf_max": 0.775,
+            "count": 13
         },
         "White-throated Toucan": {
-            "count": 1,
-            "conf_sum": 0.4269210398197174,
-            "max_conf": 0.4269210398197174,
-            "conf_avg": 0.43,
             "conf_list": [
                 0.4269210398197174
             ],
@@ -3514,13 +3532,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-37-11_dur=1200secs/results.json, original_channel1.mp3, 99.0"
-            ]
+            ],
+            "conf_avg": 0.427,
+            "conf_median": 0.427,
+            "conf_stdev": 0.0,
+            "conf_max": 0.427,
+            "count": 1
         },
         "Olivaceous Woodcreeper": {
-            "count": 1,
-            "conf_sum": 0.7079349160194397,
-            "max_conf": 0.7079349160194397,
-            "conf_avg": 0.71,
             "conf_list": [
                 0.7079349160194397
             ],
@@ -3529,13 +3548,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-38-14_dur=1200secs/results.json, original_channel1.mp3, 1008.0"
-            ]
+            ],
+            "conf_avg": 0.708,
+            "conf_median": 0.708,
+            "conf_stdev": 0.0,
+            "conf_max": 0.708,
+            "count": 1
         },
         "Gray Tinamou": {
-            "count": 2,
-            "conf_sum": 1.080585390329361,
-            "max_conf": 0.5913628935813904,
-            "conf_avg": 0.54,
             "conf_list": [
                 0.4892224967479706,
                 0.5913628935813904
@@ -3547,13 +3567,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/12-58-01_dur=1200secs/results.json, original_channel1.mp3, 1071.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, original_channel1.mp3, 1197.0"
-            ]
+            ],
+            "conf_avg": 0.54,
+            "conf_median": 0.54,
+            "conf_stdev": 0.051,
+            "conf_max": 0.591,
+            "count": 2
         },
         "Bat Falcon": {
-            "count": 1,
-            "conf_sum": 0.6206414103507996,
-            "max_conf": 0.6206414103507996,
-            "conf_avg": 0.62,
             "conf_list": [
                 0.6206414103507996
             ],
@@ -3562,13 +3583,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/07-37-25_dur=1200secs/results.json, original_channel1.mp3, 1083.0"
-            ]
+            ],
+            "conf_avg": 0.621,
+            "conf_median": 0.621,
+            "conf_stdev": 0.0,
+            "conf_max": 0.621,
+            "count": 1
         },
         "Red-necked Woodpecker": {
-            "count": 30,
-            "conf_sum": 17.269065022468567,
-            "max_conf": 0.7734687328338623,
-            "conf_avg": 0.58,
             "conf_list": [
                 0.40478450059890747,
                 0.6109665036201477,
@@ -3664,13 +3686,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, original_channel1.mp3, 891.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, original_channel1.mp3, 921.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, original_channel1.mp3, 966.0"
-            ]
+            ],
+            "conf_avg": 0.576,
+            "conf_median": 0.589,
+            "conf_stdev": 0.11,
+            "conf_max": 0.773,
+            "count": 30
         },
         "Collared Puffbird": {
-            "count": 6,
-            "conf_sum": 3.315742462873459,
-            "max_conf": 0.7182599306106567,
-            "conf_avg": 0.55,
             "conf_list": [
                 0.5230740904808044,
                 0.4719565212726593,
@@ -3694,13 +3717,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 96.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 360.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 528.0"
-            ]
+            ],
+            "conf_avg": 0.553,
+            "conf_median": 0.539,
+            "conf_stdev": 0.098,
+            "conf_max": 0.718,
+            "count": 6
         },
         "Slaty-backed Forest-Falcon": {
-            "count": 8,
-            "conf_sum": 4.319302916526794,
-            "max_conf": 0.6470819711685181,
-            "conf_avg": 0.54,
             "conf_list": [
                 0.6405770778656006,
                 0.6470819711685181,
@@ -3730,13 +3754,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 477.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 519.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 570.0"
-            ]
+            ],
+            "conf_avg": 0.54,
+            "conf_median": 0.557,
+            "conf_stdev": 0.087,
+            "conf_max": 0.647,
+            "count": 8
         },
         "Cinnamon-throated Woodcreeper": {
-            "count": 2,
-            "conf_sum": 1.090440034866333,
-            "max_conf": 0.5621220469474792,
-            "conf_avg": 0.55,
             "conf_list": [
                 0.5283179879188538,
                 0.5621220469474792
@@ -3748,13 +3773,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 897.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 939.0"
-            ]
+            ],
+            "conf_avg": 0.545,
+            "conf_median": 0.545,
+            "conf_stdev": 0.017,
+            "conf_max": 0.562,
+            "count": 2
         },
         "Plain-brown Woodcreeper": {
-            "count": 2,
-            "conf_sum": 0.9641094505786896,
-            "max_conf": 0.5294187068939209,
-            "conf_avg": 0.48,
             "conf_list": [
                 0.5294187068939209,
                 0.4346907436847687
@@ -3766,13 +3792,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 915.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, original_channel1.mp3, 939.0"
-            ]
+            ],
+            "conf_avg": 0.482,
+            "conf_median": 0.482,
+            "conf_stdev": 0.047,
+            "conf_max": 0.529,
+            "count": 2
         },
         "Little Tinamou": {
-            "count": 1,
-            "conf_sum": 0.5000382661819458,
-            "max_conf": 0.5000382661819458,
-            "conf_avg": 0.5,
             "conf_list": [
                 0.5000382661819458
             ],
@@ -3781,13 +3808,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-17-15_dur=1200secs/results.json, original_channel1.mp3, 660.0"
-            ]
+            ],
+            "conf_avg": 0.5,
+            "conf_median": 0.5,
+            "conf_stdev": 0.0,
+            "conf_max": 0.5,
+            "count": 1
         },
         "White-crested Spadebill": {
-            "count": 1,
-            "conf_sum": 0.40977704524993896,
-            "max_conf": 0.40977704524993896,
-            "conf_avg": 0.41,
             "conf_list": [
                 0.40977704524993896
             ],
@@ -3796,13 +3824,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-32-25_dur=1200secs/results.json, original_channel1.mp3, 483.0"
-            ]
+            ],
+            "conf_avg": 0.41,
+            "conf_median": 0.41,
+            "conf_stdev": 0.0,
+            "conf_max": 0.41,
+            "count": 1
         },
         "Gilded Barbet": {
-            "count": 1,
-            "conf_sum": 0.8365442156791687,
-            "max_conf": 0.8365442156791687,
-            "conf_avg": 0.84,
             "conf_list": [
                 0.8365442156791687
             ],
@@ -3811,13 +3840,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-12-20_dur=1200secs/results.json, original_channel1.mp3, 639.0"
-            ]
+            ],
+            "conf_avg": 0.837,
+            "conf_median": 0.837,
+            "conf_stdev": 0.0,
+            "conf_max": 0.837,
+            "count": 1
         },
         "Plain-throated Antwren": {
-            "count": 1,
-            "conf_sum": 0.5034348368644714,
-            "max_conf": 0.5034348368644714,
-            "conf_avg": 0.5,
             "conf_list": [
                 0.5034348368644714
             ],
@@ -3826,15 +3856,16 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-12-33_dur=1200secs/results.json, original_channel1.mp3, 1170.0"
-            ]
+            ],
+            "conf_avg": 0.503,
+            "conf_median": 0.503,
+            "conf_stdev": 0.0,
+            "conf_max": 0.503,
+            "count": 1
         }
     },
     "beamformed": {
         "Striped Woodhaunter": {
-            "count": 5,
-            "conf_sum": 3.922589361667633,
-            "max_conf": 0.949370801448822,
-            "conf_avg": 0.78,
             "conf_list": [
                 0.949370801448822,
                 0.5061594843864441,
@@ -3862,13 +3893,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-38-14_dur=1200secs/results.json, sep_chan4.mp3, 414.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-18-13_dur=1200secs/results.json, sep_chan2.mp3, 384.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-18-13_dur=1200secs/results.json, sep_chan4.mp3, 387.0"
-            ]
+            ],
+            "conf_avg": 0.785,
+            "conf_median": 0.863,
+            "conf_stdev": 0.154,
+            "conf_max": 0.949,
+            "count": 5
         },
         "Snethlage's Tody-Tyrant": {
-            "count": 2,
-            "conf_sum": 1.4245625734329224,
-            "max_conf": 0.869127094745636,
-            "conf_avg": 0.71,
             "conf_list": [
                 0.869127094745636,
                 0.5554354786872864
@@ -3884,13 +3916,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-35-23_dur=1200secs/results.json, sep_chan4.mp3, 12.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, sep_chan4.mp3, 804.0"
-            ]
+            ],
+            "conf_avg": 0.712,
+            "conf_median": 0.712,
+            "conf_stdev": 0.157,
+            "conf_max": 0.869,
+            "count": 2
         },
         "Mealy Parrot": {
-            "count": 107,
-            "conf_sum": 88.24909061193466,
-            "max_conf": 0.9818828105926514,
-            "conf_avg": 0.82,
             "conf_list": [
                 0.9818828105926514,
                 0.7930908799171448,
@@ -4326,13 +4359,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, sep_chan4.mp3, 1131.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, sep_chan3.mp3, 1134.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-52-43_dur=1200secs/results.json, sep_chan4.mp3, 1137.0"
-            ]
+            ],
+            "conf_avg": 0.825,
+            "conf_median": 0.86,
+            "conf_stdev": 0.133,
+            "conf_max": 0.982,
+            "count": 107
         },
         "Green-backed Trogon": {
-            "count": 47,
-            "conf_sum": 35.65776747465134,
-            "max_conf": 0.9613026976585388,
-            "conf_avg": 0.76,
             "conf_list": [
                 0.7501333951950073,
                 0.8216162323951721,
@@ -4528,13 +4562,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, sep_chan3.mp3, 183.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, sep_chan3.mp3, 210.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, sep_chan1.mp3, 213.0"
-            ]
+            ],
+            "conf_avg": 0.759,
+            "conf_median": 0.781,
+            "conf_stdev": 0.139,
+            "conf_max": 0.961,
+            "count": 47
         },
         "Cinereous Tinamou": {
-            "count": 7,
-            "conf_sum": 5.045002967119217,
-            "max_conf": 0.9196303486824036,
-            "conf_avg": 0.72,
             "conf_list": [
                 0.8295502662658691,
                 0.9196303486824036,
@@ -4570,13 +4605,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/15-15-45_dur=1200secs/results.json, sep_chan3.mp3, 1047.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-37-19_dur=1200secs/results.json, sep_chan1.mp3, 1071.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-37-19_dur=1200secs/results.json, sep_chan1.mp3, 1074.0"
-            ]
+            ],
+            "conf_avg": 0.721,
+            "conf_median": 0.74,
+            "conf_stdev": 0.167,
+            "conf_max": 0.92,
+            "count": 7
         },
         "Variegated Tinamou": {
-            "count": 25,
-            "conf_sum": 18.538839370012283,
-            "max_conf": 0.9284043908119202,
-            "conf_avg": 0.74,
             "conf_list": [
                 0.682248055934906,
                 0.7863280177116394,
@@ -4684,13 +4720,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-52-23_dur=1200secs/results.json, sep_chan1.mp3, 936.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-12-24_dur=1200secs/results.json, sep_chan1.mp3, 303.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/16-12-43_dur=1200secs/results.json, sep_chan1.mp3, 186.0"
-            ]
+            ],
+            "conf_avg": 0.742,
+            "conf_median": 0.776,
+            "conf_stdev": 0.14,
+            "conf_max": 0.928,
+            "count": 25
         },
         "Rufous-tailed Flatbill": {
-            "count": 22,
-            "conf_sum": 19.431723952293396,
-            "max_conf": 0.9802504777908325,
-            "conf_avg": 0.88,
             "conf_list": [
                 0.7491469979286194,
                 0.8502761125564575,
@@ -4786,13 +4823,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, sep_chan3.mp3, 1167.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, sep_chan3.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/11-55-25_dur=1200secs/results.json, sep_chan3.mp3, 1179.0"
-            ]
+            ],
+            "conf_avg": 0.883,
+            "conf_median": 0.922,
+            "conf_stdev": 0.096,
+            "conf_max": 0.98,
+            "count": 22
         },
         "Mottled Owl": {
-            "count": 27,
-            "conf_sum": 13.838045626878738,
-            "max_conf": 0.8270682096481323,
-            "conf_avg": 0.51,
             "conf_list": [
                 0.4671730101108551,
                 0.45779868960380554,
@@ -4908,13 +4946,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan2.mp3, 33.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan2.mp3, 405.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/16-12-43_dur=1200secs/results.json, sep_chan3.mp3, 1119.0"
-            ]
+            ],
+            "conf_avg": 0.513,
+            "conf_median": 0.467,
+            "conf_stdev": 0.104,
+            "conf_max": 0.827,
+            "count": 27
         },
         "Sunbittern": {
-            "count": 4,
-            "conf_sum": 3.224606454372406,
-            "max_conf": 0.9016032814979553,
-            "conf_avg": 0.81,
             "conf_list": [
                 0.9016032814979553,
                 0.5424956679344177,
@@ -4938,13 +4977,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-15-33_dur=1200secs/results.json, sep_chan4.mp3, 156.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-15-33_dur=1200secs/results.json, sep_chan1.mp3, 159.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-55-38_dur=1200secs/results.json, sep_chan2.mp3, 954.0"
-            ]
+            ],
+            "conf_avg": 0.806,
+            "conf_median": 0.89,
+            "conf_stdev": 0.152,
+            "conf_max": 0.902,
+            "count": 4
         },
         "Tawny-bellied Screech-Owl": {
-            "count": 752,
-            "conf_sum": 721.9166176319122,
-            "max_conf": 0.9985697269439697,
-            "conf_avg": 0.96,
             "conf_list": [
                 0.9537872076034546,
                 0.9349752068519592,
@@ -7960,13 +8000,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan4.mp3, 9.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan4.mp3, 12.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan4.mp3, 15.0"
-            ]
+            ],
+            "conf_avg": 0.96,
+            "conf_median": 0.986,
+            "conf_stdev": 0.074,
+            "conf_max": 0.999,
+            "count": 752
         },
         "Elegant Woodcreeper": {
-            "count": 1,
-            "conf_sum": 0.9275152087211609,
-            "max_conf": 0.9275152087211609,
-            "conf_avg": 0.93,
             "conf_list": [
                 0.9275152087211609
             ],
@@ -7978,13 +8019,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/16-15-51_dur=1200secs/results.json, sep_chan3.mp3, 762.0"
-            ]
+            ],
+            "conf_avg": 0.928,
+            "conf_median": 0.928,
+            "conf_stdev": 0.0,
+            "conf_max": 0.928,
+            "count": 1
         },
         "Wing-barred Piprites": {
-            "count": 2,
-            "conf_sum": 1.2826220393180847,
-            "max_conf": 0.6875101923942566,
-            "conf_avg": 0.64,
             "conf_list": [
                 0.5951118469238281,
                 0.6875101923942566
@@ -8000,13 +8042,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-17/13-55-38_dur=1200secs/results.json, sep_chan1.mp3, 615.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan4.mp3, 1086.0"
-            ]
+            ],
+            "conf_avg": 0.641,
+            "conf_median": 0.641,
+            "conf_stdev": 0.046,
+            "conf_max": 0.688,
+            "count": 2
         },
         "Cinereous Mourner": {
-            "count": 2,
-            "conf_sum": 1.009435772895813,
-            "max_conf": 0.5955267548561096,
-            "conf_avg": 0.5,
             "conf_list": [
                 0.41390901803970337,
                 0.5955267548561096
@@ -8022,13 +8065,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, sep_chan2.mp3, 99.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-32-40_dur=1200secs/results.json, sep_chan1.mp3, 1041.0"
-            ]
+            ],
+            "conf_avg": 0.505,
+            "conf_median": 0.505,
+            "conf_stdev": 0.091,
+            "conf_max": 0.596,
+            "count": 2
         },
         "Red-throated Caracara": {
-            "count": 2,
-            "conf_sum": 1.112003743648529,
-            "max_conf": 0.6810337901115417,
-            "conf_avg": 0.56,
             "conf_list": [
                 0.6810337901115417,
                 0.4309699535369873
@@ -8044,13 +8088,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, sep_chan1.mp3, 468.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-32-22_dur=1200secs/results.json, sep_chan3.mp3, 426.0"
-            ]
+            ],
+            "conf_avg": 0.556,
+            "conf_median": 0.556,
+            "conf_stdev": 0.125,
+            "conf_max": 0.681,
+            "count": 2
         },
         "Painted Parakeet": {
-            "count": 1,
-            "conf_sum": 0.6682978868484497,
-            "max_conf": 0.6682978868484497,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.6682978868484497
             ],
@@ -8062,13 +8107,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-58-20_dur=1200secs/results.json, sep_chan3.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.668,
+            "conf_median": 0.668,
+            "conf_stdev": 0.0,
+            "conf_max": 0.668,
+            "count": 1
         },
         "Common Scale-backed Antbird": {
-            "count": 8,
-            "conf_sum": 7.569065690040588,
-            "max_conf": 0.9858059287071228,
-            "conf_avg": 0.95,
             "conf_list": [
                 0.9858059287071228,
                 0.9845125675201416,
@@ -8108,13 +8154,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, sep_chan3.mp3, 249.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, sep_chan1.mp3, 261.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-57-14_dur=1200secs/results.json, sep_chan1.mp3, 837.0"
-            ]
+            ],
+            "conf_avg": 0.946,
+            "conf_median": 0.961,
+            "conf_stdev": 0.046,
+            "conf_max": 0.986,
+            "count": 8
         },
         "White-throated Antbird": {
-            "count": 6,
-            "conf_sum": 5.254752814769745,
-            "max_conf": 0.9996471405029297,
-            "conf_avg": 0.88,
             "conf_list": [
                 0.8213699460029602,
                 0.9987373948097229,
@@ -8146,13 +8193,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-37-11_dur=1200secs/results.json, sep_chan4.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-52-30_dur=1200secs/results.json, sep_chan4.mp3, 411.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-12-33_dur=1200secs/results.json, sep_chan4.mp3, 1161.0"
-            ]
+            ],
+            "conf_avg": 0.876,
+            "conf_median": 0.997,
+            "conf_stdev": 0.205,
+            "conf_max": 1.0,
+            "count": 6
         },
         "Blue-headed Parrot": {
-            "count": 5,
-            "conf_sum": 3.319739520549774,
-            "max_conf": 0.7401081919670105,
-            "conf_avg": 0.66,
             "conf_list": [
                 0.7401081919670105,
                 0.6405789852142334,
@@ -8180,13 +8228,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, sep_chan2.mp3, 90.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, sep_chan1.mp3, 93.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-38-12_dur=1200secs/results.json, sep_chan3.mp3, 96.0"
-            ]
+            ],
+            "conf_avg": 0.664,
+            "conf_median": 0.692,
+            "conf_stdev": 0.072,
+            "conf_max": 0.74,
+            "count": 5
         },
         "Gray-winged Trumpeter": {
-            "count": 1,
-            "conf_sum": 0.6227180361747742,
-            "max_conf": 0.6227180361747742,
-            "conf_avg": 0.62,
             "conf_list": [
                 0.6227180361747742
             ],
@@ -8198,13 +8247,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-58-13_dur=1200secs/results.json, sep_chan2.mp3, 777.0"
-            ]
+            ],
+            "conf_avg": 0.623,
+            "conf_median": 0.623,
+            "conf_stdev": 0.0,
+            "conf_max": 0.623,
+            "count": 1
         },
         "Crested Owl": {
-            "count": 35,
-            "conf_sum": 25.79927459359169,
-            "max_conf": 0.9685655832290649,
-            "conf_avg": 0.74,
             "conf_list": [
                 0.6182518601417542,
                 0.519950807094574,
@@ -8352,13 +8402,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan4.mp3, 213.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan4.mp3, 240.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/18-33-06_dur=1200secs/results.json, sep_chan1.mp3, 252.0"
-            ]
+            ],
+            "conf_avg": 0.737,
+            "conf_median": 0.763,
+            "conf_stdev": 0.162,
+            "conf_max": 0.969,
+            "count": 35
         },
         "White-fronted Nunbird": {
-            "count": 5,
-            "conf_sum": 4.041892111301422,
-            "max_conf": 0.9133998155593872,
-            "conf_avg": 0.81,
             "conf_list": [
                 0.770439624786377,
                 0.8447237610816956,
@@ -8386,13 +8437,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, sep_chan3.mp3, 942.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, sep_chan3.mp3, 945.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/12-52-15_dur=1200secs/results.json, sep_chan3.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.808,
+            "conf_median": 0.77,
+            "conf_stdev": 0.062,
+            "conf_max": 0.913,
+            "count": 5
         },
         "Common Potoo": {
-            "count": 13,
-            "conf_sum": 8.149074077606201,
-            "max_conf": 0.8160025477409363,
-            "conf_avg": 0.63,
             "conf_list": [
                 0.5304247736930847,
                 0.8160025477409363,
@@ -8452,13 +8504,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, sep_chan4.mp3, 1161.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, sep_chan4.mp3, 1173.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, sep_chan4.mp3, 60.0"
-            ]
+            ],
+            "conf_avg": 0.627,
+            "conf_median": 0.662,
+            "conf_stdev": 0.126,
+            "conf_max": 0.816,
+            "count": 13
         },
         "White-throated Toucan": {
-            "count": 1,
-            "conf_sum": 0.49561282992362976,
-            "max_conf": 0.49561282992362976,
-            "conf_avg": 0.5,
             "conf_list": [
                 0.49561282992362976
             ],
@@ -8470,13 +8523,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-37-11_dur=1200secs/results.json, sep_chan1.mp3, 99.0"
-            ]
+            ],
+            "conf_avg": 0.496,
+            "conf_median": 0.496,
+            "conf_stdev": 0.0,
+            "conf_max": 0.496,
+            "count": 1
         },
         "Olivaceous Woodcreeper": {
-            "count": 1,
-            "conf_sum": 0.868374228477478,
-            "max_conf": 0.868374228477478,
-            "conf_avg": 0.87,
             "conf_list": [
                 0.868374228477478
             ],
@@ -8488,13 +8542,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/15-38-14_dur=1200secs/results.json, sep_chan3.mp3, 1008.0"
-            ]
+            ],
+            "conf_avg": 0.868,
+            "conf_median": 0.868,
+            "conf_stdev": 0.0,
+            "conf_max": 0.868,
+            "count": 1
         },
         "Gray Tinamou": {
-            "count": 2,
-            "conf_sum": 1.4541256427764893,
-            "max_conf": 0.91293865442276,
-            "conf_avg": 0.73,
             "conf_list": [
                 0.5411869883537292,
                 0.91293865442276
@@ -8510,13 +8565,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/12-58-01_dur=1200secs/results.json, sep_chan4.mp3, 1071.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/14-18-08_dur=1200secs/results.json, sep_chan3.mp3, 1197.0"
-            ]
+            ],
+            "conf_avg": 0.727,
+            "conf_median": 0.727,
+            "conf_stdev": 0.186,
+            "conf_max": 0.913,
+            "count": 2
         },
         "Bat Falcon": {
-            "count": 1,
-            "conf_sum": 0.7658542990684509,
-            "max_conf": 0.7658542990684509,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.7658542990684509
             ],
@@ -8528,13 +8584,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/07-37-25_dur=1200secs/results.json, sep_chan2.mp3, 1083.0"
-            ]
+            ],
+            "conf_avg": 0.766,
+            "conf_median": 0.766,
+            "conf_stdev": 0.0,
+            "conf_max": 0.766,
+            "count": 1
         },
         "Red-necked Woodpecker": {
-            "count": 30,
-            "conf_sum": 20.156924188137054,
-            "max_conf": 0.8342970013618469,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.45399612188339233,
                 0.6822033524513245,
@@ -8662,13 +8719,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, sep_chan3.mp3, 891.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, sep_chan3.mp3, 921.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/13-38-05_dur=1200secs/results.json, sep_chan3.mp3, 966.0"
-            ]
+            ],
+            "conf_avg": 0.672,
+            "conf_median": 0.683,
+            "conf_stdev": 0.101,
+            "conf_max": 0.834,
+            "count": 30
         },
         "Collared Puffbird": {
-            "count": 6,
-            "conf_sum": 4.648218393325806,
-            "max_conf": 0.9523398280143738,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.6766031980514526,
                 0.9523398280143738,
@@ -8700,13 +8758,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan2.mp3, 96.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan3.mp3, 360.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan2.mp3, 528.0"
-            ]
+            ],
+            "conf_avg": 0.775,
+            "conf_median": 0.776,
+            "conf_stdev": 0.142,
+            "conf_max": 0.952,
+            "count": 6
         },
         "Slaty-backed Forest-Falcon": {
-            "count": 8,
-            "conf_sum": 3.999133348464966,
-            "max_conf": 0.5573627948760986,
-            "conf_avg": 0.5,
             "conf_list": [
                 0.5193792581558228,
                 0.46145227551460266,
@@ -8746,13 +8805,14 @@
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan1.mp3, 477.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan1.mp3, 519.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan3.mp3, 570.0"
-            ]
+            ],
+            "conf_avg": 0.5,
+            "conf_median": 0.507,
+            "conf_stdev": 0.046,
+            "conf_max": 0.557,
+            "count": 8
         },
         "Cinnamon-throated Woodcreeper": {
-            "count": 2,
-            "conf_sum": 1.5419507026672363,
-            "max_conf": 0.810580313205719,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.7313703894615173,
                 0.810580313205719
@@ -8768,13 +8828,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan3.mp3, 897.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan3.mp3, 939.0"
-            ]
+            ],
+            "conf_avg": 0.771,
+            "conf_median": 0.771,
+            "conf_stdev": 0.04,
+            "conf_max": 0.811,
+            "count": 2
         },
         "Plain-brown Woodcreeper": {
-            "count": 2,
-            "conf_sum": 1.3532667756080627,
-            "max_conf": 0.7122989296913147,
-            "conf_avg": 0.68,
             "conf_list": [
                 0.7122989296913147,
                 0.640967845916748
@@ -8790,13 +8851,14 @@
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan1.mp3, 915.0",
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/04-17-09_dur=1200secs/results.json, sep_chan2.mp3, 939.0"
-            ]
+            ],
+            "conf_avg": 0.677,
+            "conf_median": 0.677,
+            "conf_stdev": 0.036,
+            "conf_max": 0.712,
+            "count": 2
         },
         "Little Tinamou": {
-            "count": 1,
-            "conf_sum": 0.7263885140419006,
-            "max_conf": 0.7263885140419006,
-            "conf_avg": 0.73,
             "conf_list": [
                 0.7263885140419006
             ],
@@ -8808,13 +8870,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-18/05-17-15_dur=1200secs/results.json, sep_chan3.mp3, 660.0"
-            ]
+            ],
+            "conf_avg": 0.726,
+            "conf_median": 0.726,
+            "conf_stdev": 0.0,
+            "conf_max": 0.726,
+            "count": 1
         },
         "White-crested Spadebill": {
-            "count": 1,
-            "conf_sum": 0.640869140625,
-            "max_conf": 0.640869140625,
-            "conf_avg": 0.64,
             "conf_list": [
                 0.640869140625
             ],
@@ -8826,13 +8889,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/14-32-25_dur=1200secs/results.json, sep_chan4.mp3, 483.0"
-            ]
+            ],
+            "conf_avg": 0.641,
+            "conf_median": 0.641,
+            "conf_stdev": 0.0,
+            "conf_max": 0.641,
+            "count": 1
         },
         "Gilded Barbet": {
-            "count": 1,
-            "conf_sum": 0.873473584651947,
-            "max_conf": 0.873473584651947,
-            "conf_avg": 0.87,
             "conf_list": [
                 0.873473584651947
             ],
@@ -8844,13 +8908,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/13-12-20_dur=1200secs/results.json, sep_chan3.mp3, 639.0"
-            ]
+            ],
+            "conf_avg": 0.873,
+            "conf_median": 0.873,
+            "conf_stdev": 0.0,
+            "conf_max": 0.873,
+            "count": 1
         },
         "Plain-throated Antwren": {
-            "count": 1,
-            "conf_sum": 0.44436901807785034,
-            "max_conf": 0.44436901807785034,
-            "conf_avg": 0.44,
             "conf_list": [
                 0.44436901807785034
             ],
@@ -8862,7 +8927,12 @@
             ],
             "mp3_identifier": [
                 "data/processed/manicore/IC1/13-05-23/RPiID-000000004e8ff25b/2023-04-16/15-12-33_dur=1200secs/results.json, sep_chan1.mp3, 1170.0"
-            ]
+            ],
+            "conf_avg": 0.444,
+            "conf_median": 0.444,
+            "conf_stdev": 0.0,
+            "conf_max": 0.444,
+            "count": 1
         }
     }
 }

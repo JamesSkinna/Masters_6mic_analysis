@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/silwood/A1"
+DIR_PATH = "data/processed/manicore"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -61,10 +61,6 @@ def extract_max_bf_conf(mono_detection, results_dict):
 def update_species(species_dict, species_name, conf, start_time, file_path, max_conf_chan=""):
     """Updates the data of an existing species, in a dictionary"""
 
-    species_dict[species_name]["count"] += 1
-    species_dict[species_name]["conf_sum"] += conf
-    species_dict[species_name]["max_conf"] = max(conf, species_dict[species_name]["max_conf"])
-    species_dict[species_name]["conf_avg"] = round(species_dict[species_name]["conf_sum"] / species_dict[species_name]["count"], 2)
     species_dict[species_name]["conf_list"].append(conf)
     species_dict[species_name]["start_time_list"].append(start_time)
     if max_conf_chan != "":
@@ -80,10 +76,6 @@ def add_new_species(species_dict, species_name, conf, start_time, file_path, max
     """Adds data for a new species, to a dictionary"""
 
     species_dict[species_name] = {}       # Create new nested dictionary
-    species_dict[species_name]["count"] = 1
-    species_dict[species_name]["conf_sum"] = conf
-    species_dict[species_name]["max_conf"] = conf
-    species_dict[species_name]["conf_avg"] = round(species_dict[species_name]["conf_sum"] / species_dict[species_name]["count"], 2)
     species_dict[species_name]["conf_list"] = [conf]
     species_dict[species_name]["start_time_list"] = [start_time]
     if max_conf_chan != "":
@@ -212,6 +204,31 @@ def count_detections_in_dict(results_dict, overall_results, conf_thresh):
 
     return overall_results
 
+
+def add_conf_metrics(processed_dict):
+    """Takes a dictionary of processed results
+    --> Extracts each confidence list (each channel, each species)
+    --> Caclulates and adds: mean, median, stdev, max & count"""
+
+    for chan in processed_dict.keys():
+        chan_data = processed_dict[chan]
+        for species in chan_data.keys():
+            species_data = chan_data[species]
+
+            conf_list = species_data["conf_list"]
+            mean = round(np.mean(conf_list), 3)
+            median = round(np.median(conf_list), 3)
+            stdev = round(np.std(conf_list), 3)
+            max_conf = round(np.max(conf_list), 3)
+            count = len(conf_list)
+
+            processed_dict[chan][species]["conf_avg"] = mean
+            processed_dict[chan][species]["conf_median"] = median
+            processed_dict[chan][species]["conf_stdev"] = stdev
+            processed_dict[chan][species]["conf_max"] = max_conf
+            processed_dict[chan][species]["count"] = count
+
+    return processed_dict
 
 
 # FUNCTIONS FOR PLOTTING PROCESSED RESULTS-----------------------------------------------------------------------------------
@@ -421,6 +438,8 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
 
             processed_results = process_results_dict(current_results_dict, processed_results, results_path)
             species_counts = count_detections_in_dict(current_results_dict, species_counts, CONF_MIN)
+
+processed_results = add_conf_metrics(processed_results)
 
 write_processed_to_file(processed_results, "processed.json")
 write_processed_to_file(species_counts, "species_counts.json")
