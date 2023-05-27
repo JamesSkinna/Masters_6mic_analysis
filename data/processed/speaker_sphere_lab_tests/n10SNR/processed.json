@@ -1,0 +1,69 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": {
+            "conf_list": [
+                0.5206992626190186,
+                0.7958666682243347,
+                0.8052422404289246,
+                0.44182220101356506,
+                0.5275557041168213
+            ],
+            "start_time_list": [
+                90.0,
+                129.0,
+                135.0,
+                141.0,
+                150.0
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, original_channel1.mp3, 90.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, original_channel1.mp3, 129.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, original_channel1.mp3, 135.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, original_channel1.mp3, 141.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, original_channel1.mp3, 150.0"
+            ],
+            "conf_avg": 0.618,
+            "conf_median": 0.528,
+            "conf_stdev": 0.152,
+            "conf_max": 0.805,
+            "count": 5
+        }
+    },
+    "beamformed": {
+        "Eurasian Blackcap": {
+            "conf_list": [
+                0.7480261921882629,
+                0.8928500413894653,
+                0.7491024732589722,
+                0.6316953301429749,
+                0.7832147479057312
+            ],
+            "start_time_list": [
+                90.0,
+                129.0,
+                135.0,
+                141.0,
+                150.0
+            ],
+            "max_conf_chan_list": [
+                "sep_chan2.mp3",
+                "sep_chan2.mp3",
+                "sep_chan2.mp3",
+                "sep_chan4.mp3",
+                "sep_chan1.mp3"
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, sep_chan2.mp3, 90.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, sep_chan2.mp3, 129.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, sep_chan2.mp3, 135.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, sep_chan4.mp3, 141.0",
+                "data/processed/speaker_sphere_lab_tests/n10SNR/EurasianBlackcap_n10SNR/results.json, sep_chan1.mp3, 150.0"
+            ],
+            "conf_avg": 0.761,
+            "conf_median": 0.749,
+            "conf_stdev": 0.084,
+            "conf_max": 0.893,
+            "count": 5
+        }
+    }
+}

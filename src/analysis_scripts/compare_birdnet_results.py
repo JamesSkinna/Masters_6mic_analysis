@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/manicore"
+DIR_PATH = "data/processed/speaker_sphere_lab_tests/n20SNR"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -281,7 +281,7 @@ def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path):
     plt.subplots_adjust(top=0.92, wspace=0.3, hspace=0.3)
     
     plt.savefig(file_path)
-    plt.show()
+    # plt.show()
 
 
 def find_best_grid_arrangement(num_graphs):
@@ -355,7 +355,7 @@ def boxplot_conf_comparison(mono_data, bf_data, file_path):
         plt.tight_layout()
 
         plt.savefig(file_path)
-        plt.show()
+        # plt.show()
     else:
         print("No boxplot data to plot!")
 
@@ -414,7 +414,7 @@ def barchart_count_comparison(mono_data, bf_data, conf_thresh, file_path):
         plt.tight_layout()
 
         plt.savefig(file_path)
-        plt.show()
+        # plt.show()
     else:
         print("No barchart data to plot!")
 

@@ -1,0 +1,174 @@
+{
+    "mono_channel": {
+        "Carolina Wren": {
+            "conf_list": [
+                0.4780203402042389,
+                0.7573809027671814,
+                0.6228377223014832
+            ],
+            "start_time_list": [
+                0.0,
+                147.0,
+                183.0
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, original_channel1.mp3, 0.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, original_channel1.mp3, 147.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, original_channel1.mp3, 183.0"
+            ],
+            "conf_avg": 0.619,
+            "conf_median": 0.623,
+            "conf_stdev": 0.114,
+            "conf_max": 0.757,
+            "count": 3
+        },
+        "Eurasian Blackcap": {
+            "conf_list": [
+                0.5957911014556885,
+                0.4087718427181244,
+                0.6085976362228394,
+                0.5788342952728271,
+                0.8108776807785034,
+                0.7351192831993103,
+                0.8259007930755615,
+                0.8552905917167664,
+                0.7327715158462524,
+                0.41520339250564575,
+                0.5213605165481567,
+                0.6703112721443176,
+                0.44431519508361816
+            ],
+            "start_time_list": [
+                3.0,
+                9.0,
+                93.0,
+                99.0,
+                108.0,
+                114.0,
+                129.0,
+                138.0,
+                153.0,
+                159.0,
+                168.0,
+                174.0,
+                189.0
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 3.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 9.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 93.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 99.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 108.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 114.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 129.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 138.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 153.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 159.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 168.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 174.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, original_channel1.mp3, 189.0"
+            ],
+            "conf_avg": 0.631,
+            "conf_median": 0.609,
+            "conf_stdev": 0.15,
+            "conf_max": 0.855,
+            "count": 13
+        }
+    },
+    "beamformed": {
+        "Carolina Wren": {
+            "conf_list": [
+                0.5774213075637817,
+                0.7506874799728394,
+                0.7095258235931396
+            ],
+            "start_time_list": [
+                0.0,
+                147.0,
+                183.0
+            ],
+            "max_conf_chan_list": [
+                "sep_chan2.mp3",
+                "sep_chan1.mp3",
+                "sep_chan1.mp3"
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, sep_chan2.mp3, 0.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, sep_chan1.mp3, 147.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/CarolinaWren_n5SNR/results.json, sep_chan1.mp3, 183.0"
+            ],
+            "conf_avg": 0.679,
+            "conf_median": 0.71,
+            "conf_stdev": 0.074,
+            "conf_max": 0.751,
+            "count": 3
+        },
+        "Eurasian Blackcap": {
+            "conf_list": [
+                0.7740631103515625,
+                0.6143220663070679,
+                0.5892931222915649,
+                0.8803151249885559,
+                0.9695620536804199,
+                0.9363539814949036,
+                0.8716312646865845,
+                0.7663635611534119,
+                0.7651803493499756,
+                0.8784384727478027,
+                0.8915634155273438,
+                0.8637201189994812,
+                0.5831006169319153
+            ],
+            "start_time_list": [
+                3.0,
+                9.0,
+                93.0,
+                99.0,
+                108.0,
+                114.0,
+                129.0,
+                138.0,
+                153.0,
+                159.0,
+                168.0,
+                174.0,
+                189.0
+            ],
+            "max_conf_chan_list": [
+                "sep_chan3.mp3",
+                "sep_chan3.mp3",
+                "sep_chan2.mp3",
+                "sep_chan3.mp3",
+                "sep_chan4.mp3",
+                "sep_chan4.mp3",
+                "sep_chan2.mp3",
+                "sep_chan2.mp3",
+                "sep_chan3.mp3",
+                "sep_chan1.mp3",
+                "sep_chan1.mp3",
+                "sep_chan1.mp3",
+                "sep_chan3.mp3"
+            ],
+            "mp3_identifier": [
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan3.mp3, 3.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan3.mp3, 9.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan2.mp3, 93.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan3.mp3, 99.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan4.mp3, 108.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan4.mp3, 114.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan2.mp3, 129.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan2.mp3, 138.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan3.mp3, 153.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan1.mp3, 159.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan1.mp3, 168.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan1.mp3, 174.0",
+                "data/processed/speaker_sphere_lab_tests/n5SNR/EurasianBlackcap_n5SNR/results.json, sep_chan3.mp3, 189.0"
+            ],
+            "conf_avg": 0.799,
+            "conf_median": 0.864,
+            "conf_stdev": 0.126,
+            "conf_max": 0.97,
+            "count": 13
+        }
+    }
+}
