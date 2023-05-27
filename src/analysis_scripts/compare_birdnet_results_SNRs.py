@@ -1,12 +1,12 @@
-"""Specify a results directory --> Iterate through all results files. For each:
+"""A slight modification to the compare_birdnet_results.py file - specifically, for the SNR lab tests
 
-1. Compare confidence levels - boxplots for different species
-    --> Original, mono channel VS most confident beamformed detection
-    --> Here, we only look for detections present in both original AND beamformed channels
-        --> i.e., same species, same time interval
+Specify a results directory --> Iterate through all results files. For each:
         
-2. Compare counts - bar charts for each species
-    --> To be safe, set a very high minium confidence level of 0.7"""
+1. Compare counts - bar charts for each species
+    --> Do this for all confidence thresholds, from 0.4 (min conf from birdnet) to 1, in steps of 0.05)
+    --> Save bar_graphs of 0.4, 0.6 & 0.8 conf only"""
+    
+    
 
 import os
 import json
@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/speaker_sphere_lab_tests/n20SNR"
+DIR_PATH = "data/processed/speaker_sphere_lab_tests/0SNR"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -420,47 +420,37 @@ def barchart_count_comparison(mono_data, bf_data, conf_thresh, file_path):
 
 
 # RUN THE ANALYSIS----------------------------------------------------------------------------------------------------------
-# New dict to compare single channel vs best of beamformed - detections in both mono & beamformed
-processed_results = {"mono_channel": {},
-                     "beamformed": {}}
 
-# New dict to compare species count, above a min conf level - detections in either mono or beamformed
-species_counts = {"mono_channel": {},
-                 "beamformed": {}}
-CONF_MIN = 0.4          # Specify threshold confidence level
+for conf_min in np.arange(0.4, 1, 0.05):        # Iterate through several confidence thresholds - no point doing 1.0 (as no detections)
+    
+    conf_min = round(conf_min, 2)
 
-# Analyse all results files in the directory
-for root, dirs, files in os.walk(DIR_PATH, topdown=False):
-    for name in files:
-        if name == "results.json":
-            results_path = os.path.join(root, name)
-            current_results_dict = read_results_from_file(results_path)
+    # New dict to compare species count, above a min conf level - detections in either mono or beamformed
+    species_counts = {"mono_channel": {},
+                    "beamformed": {}}
 
-            processed_results = process_results_dict(current_results_dict, processed_results, results_path)
-            species_counts = count_detections_in_dict(current_results_dict, species_counts, CONF_MIN)
+    # Analyse all results files in the directory
+    for root, dirs, files in os.walk(DIR_PATH, topdown=False):
+        for name in files:
+            if name == "results.json":
+                results_path = os.path.join(root, name)
+                current_results_dict = read_results_from_file(results_path)
 
-processed_results = add_conf_metrics(processed_results)
+                species_counts = count_detections_in_dict(current_results_dict, species_counts, conf_min)
 
-write_processed_to_file(processed_results, "processed.json")
-write_processed_to_file(species_counts, "species_counts.json")
+    # Setup a new folder for the processed data
+    conf_dir_path = DIR_PATH + "/" + "conf_thresholds"
 
-# Plot the data for visual inspection--------------------------------------
-# Confidence Boxplots...
-mono_dict = processed_results["mono_channel"]
-bf_dict = processed_results["beamformed"]
-boxplot_file_path = DIR_PATH + "/boxcompare.png"
+    if not os.path.exists(conf_dir_path):
+        os.makedirs(conf_dir_path)
 
-boxplot_conf_comparison(mono_dict, bf_dict, boxplot_file_path)
+    write_processed_to_file(species_counts, f"conf_thresholds/species_counts_{str(conf_min)}conf.json")
 
-# Confidence Histograms...
-mono_hist_file_path = DIR_PATH + "/mono_hists.png"
-bf_hist_file_path = DIR_PATH + "/bf_hists.png"
+    # Plot the data for visual inspection--------------------------------------
+    if conf_min == 0.4 or conf_min == 0.6 or conf_min == 0.8:
+        # Species Count Bar Charts...
+        mono_dict = species_counts["mono_channel"]
+        bf_dict = species_counts["beamformed"]
+        barchart_file_path = DIR_PATH + f"/conf_thresholds/bar_compare_count_{str(conf_min)}conf.png"
 
-plot_confidence_histograms(mono_dict, bf_dict, mono_hist_file_path, bf_hist_file_path)
-
-# Species Count Bar Charts...
-mono_dict = species_counts["mono_channel"]
-bf_dict = species_counts["beamformed"]
-barchart_file_path = DIR_PATH + "/bar_compare_count.png"
-
-barchart_count_comparison(mono_dict, bf_dict, CONF_MIN, barchart_file_path)
+        barchart_count_comparison(mono_dict, bf_dict, conf_min, barchart_file_path)
