@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/speaker_sphere_lab_tests/0SNR"
+DIR_PATH = "data/processed/speaker_sphere_lab_tests/n15SNR"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
