@@ -1,0 +1,11 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": 21,
+        "Carolina Wren": 16
+    },
+    "beamformed": {
+        "Eurasian Blackcap": 30,
+        "Savi's Warbler": 1,
+        "Carolina Wren": 24
+    }
+}

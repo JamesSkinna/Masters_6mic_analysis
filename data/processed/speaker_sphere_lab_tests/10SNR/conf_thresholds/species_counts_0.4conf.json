@@ -1,0 +1,20 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": 24,
+        "Carolina Wren": 24,
+        "Oak Titmouse": 1,
+        "Middle American Screech-Owl": 1
+    },
+    "beamformed": {
+        "Eurasian Blackcap": 32,
+        "Gray-crowned Yellowthroat": 1,
+        "Savi's Warbler": 2,
+        "Orange-billed Nightingale-Thrush": 1,
+        "Carolina Wren": 29,
+        "Dark-necked Tailorbird": 2,
+        "Common Tailorbird": 2,
+        "Alpine Swift": 1,
+        "Oak Titmouse": 2,
+        "Yellowish-bellied Bush Warbler": 1
+    }
+}

@@ -11,5 +11,6 @@ data/raw/old*
 # But, do upload results files (after processing in ODAS & BirdNET)
 !**/results.json
 # And processed files (after analysing results files)
+!**conf.json
 !**/processed.json
 !**/species_counts.json

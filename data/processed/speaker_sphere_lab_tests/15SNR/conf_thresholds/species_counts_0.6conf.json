@@ -1,0 +1,12 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": 26,
+        "Carolina Wren": 23,
+        "Yellowish-bellied Bush Warbler": 1
+    },
+    "beamformed": {
+        "Eurasian Blackcap": 27,
+        "Carolina Wren": 33,
+        "Oak Titmouse": 1
+    }
+}

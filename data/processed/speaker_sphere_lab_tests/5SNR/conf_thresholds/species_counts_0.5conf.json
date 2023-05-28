@@ -1,0 +1,12 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": 20,
+        "Carolina Wren": 8
+    },
+    "beamformed": {
+        "Eurasian Blackcap": 26,
+        "Orange-billed Nightingale-Thrush": 1,
+        "Carolina Wren": 16,
+        "Dark-necked Tailorbird": 3
+    }
+}

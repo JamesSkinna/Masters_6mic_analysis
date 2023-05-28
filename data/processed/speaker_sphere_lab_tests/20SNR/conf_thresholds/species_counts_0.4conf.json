@@ -1,0 +1,15 @@
+{
+    "mono_channel": {
+        "Eurasian Blackcap": 23,
+        "Orange-billed Nightingale-Thrush": 1,
+        "Orange-headed Thrush": 1,
+        "Carolina Wren": 26
+    },
+    "beamformed": {
+        "Eurasian Blackcap": 27,
+        "Spot-breasted Wren": 1,
+        "Orange-billed Nightingale-Thrush": 1,
+        "Carolina Wren": 33,
+        "Mangrove Vireo": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "mono_channel": {
+        "Carolina Wren": 7,
+        "Kentucky Warbler": 1,
+        "Common Tailorbird": 1,
+        "Eurasian Blackcap": 16
+    },
+    "beamformed": {
+        "Carolina Wren": 12,
+        "Dark-necked Tailorbird": 3,
+        "Common Tailorbird": 2,
+        "Kentucky Warbler": 1,
+        "Eurasian Blackcap": 22,
+        "Alpine Swift": 1,
+        "Warbling Vireo": 1
+    }
+}
