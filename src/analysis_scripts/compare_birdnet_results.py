@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/speaker_sphere_lab_tests/n20SNR"
+DIR_PATH = "data/processed/manicore"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -24,6 +24,8 @@ elif "silwood" in DIR_PATH:
     LOCATION = "Silwood"
 else:
     LOCATION = "Lab: Speaker Sphere"
+
+MIN_SAMPLE_SIZE = 20            # At least 20 detections, for confidence level tests
 
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
@@ -302,7 +304,7 @@ def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path)
 
     # Extract the confidence levels list for each species - append to list of lists
     for species in mono_data.keys():
-        if mono_data[species]["count"] >= 20:    # Only plot those with more than 20 detections (otherwise, histograms aren't useful)
+        if mono_data[species]["count"] >= MIN_SAMPLE_SIZE:    # Only plot those with more than 20 detections (otherwise, histograms aren't useful)
             hist_conf_data_mono.append(mono_data[species]["conf_list"])
             hist_conf_data_bf.append(bf_data[species]["conf_list"])
             hist_labels.append(get_initials(species))
@@ -332,7 +334,7 @@ def boxplot_conf_comparison(mono_data, bf_data, file_path):
 
     # Extract the confidence levels list for each species - append to list of lists
     for species in mono_data.keys():
-        if mono_data[species]["count"] >= 5:    # Only plot those with more than 5 detections (greater sample size)
+        if mono_data[species]["count"] >= MIN_SAMPLE_SIZE:    # Only plot those with more than 20 detections (greater sample size)
             boxplot_conf_data_mono.append(mono_data[species]["conf_list"])
             boxplot_conf_data_bf.append(bf_data[species]["conf_list"])
             boxplot_labels.append(get_initials(species))
@@ -427,7 +429,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.4          # Specify threshold confidence level
+CONF_MIN = 0.7          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
