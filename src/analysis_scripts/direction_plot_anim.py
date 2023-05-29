@@ -14,16 +14,16 @@ def read_results_from_file(file_path):
 
 # Where 0 degrees = straight ahead, 90 degrees = directly to the right (clockwise)
 # These mappings are based on the directions set in ODAS, and the config of the Speaker Array
-# direction_map = {"sep_chan1.mp3": 270,
-#                  "sep_chan2.mp3": 180,
-#                  "sep_chan3.mp3": 0,
-#                  "sep_chan4.mp3": 90}
+direction_map = {"sep_chan1.mp3": 270,
+                 "sep_chan2.mp3": 180,
+                 "sep_chan3.mp3": 0,
+                 "sep_chan4.mp3": 90}
 
 # Needs investigating - this map seems to make it a lot more accurate (maybe some echoing/deflections inside the device?)
-direction_map = {"sep_chan1.mp3": 90,
-                 "sep_chan2.mp3": 0,
-                 "sep_chan3.mp3": 180,
-                 "sep_chan4.mp3": 270}
+# direction_map = {"sep_chan1.mp3": 90,
+#                  "sep_chan2.mp3": 0,
+#                  "sep_chan3.mp3": 180,
+#                  "sep_chan4.mp3": 270}
 
 # Extract the list of directions with highest confidence levels...
 processed_file_path = "data/processed/speaker_sphere_lab_tests/15SNR/processed.json"
@@ -78,6 +78,7 @@ def update(frame):
 
 # Create a figure and axes with polar projection
 fig = plt.figure()
+fig.set_size_inches(10, 5, True)
 ax = fig.add_subplot(111, projection='polar')
 
 start_times = np.arange(0, 202, 3)
@@ -170,4 +171,7 @@ for entry in speaker_directions:
 animation = FuncAnimation(fig, update, frames=anim_list, interval=500, repeat=False)
 
 # Display the animation
-plt.show()
+# plt.show()
+
+save_path = "data/processed/speaker_sphere_lab_tests/beamform_ani.gif"
+animation.save(save_path, writer='imagemagick', fps=2)

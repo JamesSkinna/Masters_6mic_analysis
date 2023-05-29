@@ -14,3 +14,5 @@ data/raw/old*
 !**conf.json
 !**/processed.json
 !**/species_counts.json
+# And gifs!
+!**.gif
