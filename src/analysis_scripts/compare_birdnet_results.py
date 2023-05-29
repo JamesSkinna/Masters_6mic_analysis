@@ -263,7 +263,7 @@ def setup_new_plot(xlabel, ylabel, title):
     plt.grid(True)
 
 
-def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path):
+def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path, colour):
     """Draws several histograms in a single plot
     --> Organised in a grid of n_rows x n_cols"""
 
@@ -272,7 +272,7 @@ def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path):
 
     for i, name in enumerate(species_names):
         ax=fig.add_subplot(n_rows,n_cols,i+1)
-        ax.hist(hist_data[i], bins=20)
+        ax.hist(hist_data[i], bins=20, color=colour)
 
         ax.set_ylabel("Frequency")
         ax.set_xlabel("Confidence")
@@ -315,8 +315,8 @@ def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path)
         mono_title = f"Distributions of confidence levels, per species - Mono-channel - {LOCATION}"
         bf_title = f"Distributions of confidence levels, per species - Beamformed - {LOCATION}"
 
-        draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path)
-        draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path)
+        draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path, '#D7191C')
+        draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path, '#2C7BB6')
     else:
         print("No histogram data to plot!")
 
@@ -429,7 +429,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.4          # Specify threshold confidence level
+CONF_MIN = 0.7          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
