@@ -1,10 +1,6 @@
 {
     "mono_channel": {
         "Eurasian Jackdaw": {
-            "count": 1263,
-            "conf_sum": 844.2750008404255,
-            "max_conf": 0.9924474954605103,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.5684975981712341,
                 0.9780588150024414,
@@ -3799,13 +3795,14 @@
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, original_channel1.mp3, 1179.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, original_channel1.mp3, 1185.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, original_channel1.mp3, 1188.0"
-            ]
+            ],
+            "conf_avg": 0.668,
+            "conf_median": 0.657,
+            "conf_stdev": 0.161,
+            "conf_max": 0.992,
+            "count": 1263
         },
         "Carrion Crow": {
-            "count": 146,
-            "conf_sum": 79.96664935350418,
-            "max_conf": 0.8443287014961243,
-            "conf_avg": 0.55,
             "conf_list": [
                 0.5349116325378418,
                 0.5049699544906616,
@@ -4249,13 +4246,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 975.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 1134.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 1179.0"
-            ]
+            ],
+            "conf_avg": 0.548,
+            "conf_median": 0.523,
+            "conf_stdev": 0.11,
+            "conf_max": 0.844,
+            "count": 146
         },
         "Eurasian Nuthatch": {
-            "count": 447,
-            "conf_sum": 324.85675475001335,
-            "max_conf": 0.9945001602172852,
-            "conf_avg": 0.73,
             "conf_list": [
                 0.9068174958229065,
                 0.8300002813339233,
@@ -5602,13 +5600,14 @@
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, original_channel1.mp3, 1164.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, original_channel1.mp3, 1179.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, original_channel1.mp3, 1191.0"
-            ]
+            ],
+            "conf_avg": 0.727,
+            "conf_median": 0.738,
+            "conf_stdev": 0.179,
+            "conf_max": 0.995,
+            "count": 447
         },
         "Eurasian Green Woodpecker": {
-            "count": 214,
-            "conf_sum": 162.05551663041115,
-            "max_conf": 0.9991127848625183,
-            "conf_avg": 0.76,
             "conf_list": [
                 0.8356421589851379,
                 0.9005680084228516,
@@ -6256,13 +6255,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 9.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 15.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 846.0"
-            ]
+            ],
+            "conf_avg": 0.757,
+            "conf_median": 0.792,
+            "conf_stdev": 0.193,
+            "conf_max": 0.999,
+            "count": 214
         },
         "Ring-necked Pheasant": {
-            "count": 23,
-            "conf_sum": 15.153134018182755,
-            "max_conf": 0.9001361131668091,
-            "conf_avg": 0.66,
             "conf_list": [
                 0.5023417472839355,
                 0.6376556158065796,
@@ -6337,13 +6337,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, original_channel1.mp3, 669.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, original_channel1.mp3, 132.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, original_channel1.mp3, 891.0"
-            ]
+            ],
+            "conf_avg": 0.659,
+            "conf_median": 0.638,
+            "conf_stdev": 0.141,
+            "conf_max": 0.9,
+            "count": 23
         },
         "Black Redstart": {
-            "count": 27,
-            "conf_sum": 15.690887600183487,
-            "max_conf": 0.9135997295379639,
-            "conf_avg": 0.58,
             "conf_list": [
                 0.5032510161399841,
                 0.5429652333259583,
@@ -6430,13 +6431,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 996.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 1122.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, original_channel1.mp3, 1128.0"
-            ]
+            ],
+            "conf_avg": 0.581,
+            "conf_median": 0.543,
+            "conf_stdev": 0.132,
+            "conf_max": 0.914,
+            "count": 27
         },
         "Eurasian Blue Tit": {
-            "count": 171,
-            "conf_sum": 103.13911557197571,
-            "max_conf": 0.9493496417999268,
-            "conf_avg": 0.6,
             "conf_list": [
                 0.43383097648620605,
                 0.40803003311157227,
@@ -6955,13 +6957,14 @@
                 "data/processed/silwood/A1/2023-03-26/10-41-01_dur=1200secs/results.json, original_channel1.mp3, 852.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, original_channel1.mp3, 771.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, original_channel1.mp3, 990.0"
-            ]
+            ],
+            "conf_avg": 0.603,
+            "conf_median": 0.592,
+            "conf_stdev": 0.135,
+            "conf_max": 0.949,
+            "count": 171
         },
         "Common Wood-Pigeon": {
-            "count": 22,
-            "conf_sum": 12.029619812965393,
-            "max_conf": 0.8210980892181396,
-            "conf_avg": 0.55,
             "conf_list": [
                 0.48818984627723694,
                 0.4013594388961792,
@@ -7033,13 +7036,14 @@
                 "data/processed/silwood/A1/2023-03-26/15-21-31_dur=1200secs/results.json, original_channel1.mp3, 762.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, original_channel1.mp3, 516.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, original_channel1.mp3, 519.0"
-            ]
+            ],
+            "conf_avg": 0.547,
+            "conf_median": 0.501,
+            "conf_stdev": 0.124,
+            "conf_max": 0.821,
+            "count": 22
         },
         "European Robin": {
-            "count": 26,
-            "conf_sum": 15.840276598930359,
-            "max_conf": 0.9150151014328003,
-            "conf_avg": 0.61,
             "conf_list": [
                 0.5323344469070435,
                 0.5235527157783508,
@@ -7123,13 +7127,14 @@
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, original_channel1.mp3, 639.0",
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, original_channel1.mp3, 663.0",
                 "data/processed/silwood/A1/2023-03-26/07-00-32_dur=1200secs/results.json, original_channel1.mp3, 57.0"
-            ]
+            ],
+            "conf_avg": 0.609,
+            "conf_median": 0.571,
+            "conf_stdev": 0.149,
+            "conf_max": 0.915,
+            "count": 26
         },
         "Common Kingfisher": {
-            "count": 22,
-            "conf_sum": 13.333636790513992,
-            "max_conf": 0.8968384265899658,
-            "conf_avg": 0.61,
             "conf_list": [
                 0.7688663005828857,
                 0.8119632005691528,
@@ -7201,13 +7206,14 @@
                 "data/processed/silwood/A1/2023-03-26/06-20-26_dur=1200secs/results.json, original_channel1.mp3, 207.0",
                 "data/processed/silwood/A1/2023-03-26/06-20-26_dur=1200secs/results.json, original_channel1.mp3, 210.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 741.0"
-            ]
+            ],
+            "conf_avg": 0.606,
+            "conf_median": 0.585,
+            "conf_stdev": 0.151,
+            "conf_max": 0.897,
+            "count": 22
         },
         "Great Spotted Woodpecker": {
-            "count": 359,
-            "conf_sum": 277.21154260635376,
-            "max_conf": 0.986242413520813,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.8122730851173401,
                 0.5084958076477051,
@@ -8290,13 +8296,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 1152.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 1170.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 1197.0"
-            ]
+            ],
+            "conf_avg": 0.772,
+            "conf_median": 0.805,
+            "conf_stdev": 0.152,
+            "conf_max": 0.986,
+            "count": 359
         },
         "Great Tit": {
-            "count": 253,
-            "conf_sum": 159.80526480078697,
-            "max_conf": 0.9947664737701416,
-            "conf_avg": 0.63,
             "conf_list": [
                 0.4769635498523712,
                 0.7184141874313354,
@@ -9061,13 +9068,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 210.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 213.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, original_channel1.mp3, 348.0"
-            ]
+            ],
+            "conf_avg": 0.632,
+            "conf_median": 0.59,
+            "conf_stdev": 0.167,
+            "conf_max": 0.995,
+            "count": 253
         },
         "Eurasian Jay": {
-            "count": 27,
-            "conf_sum": 18.496160238981247,
-            "max_conf": 0.942268967628479,
-            "conf_avg": 0.69,
             "conf_list": [
                 0.8880147933959961,
                 0.6726239919662476,
@@ -9154,13 +9162,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-00-08_dur=1200secs/results.json, original_channel1.mp3, 1101.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, original_channel1.mp3, 171.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, original_channel1.mp3, 336.0"
-            ]
+            ],
+            "conf_avg": 0.685,
+            "conf_median": 0.684,
+            "conf_stdev": 0.164,
+            "conf_max": 0.942,
+            "count": 27
         },
         "Hooded Crow": {
-            "count": 8,
-            "conf_sum": 4.080566912889481,
-            "max_conf": 0.7022260427474976,
-            "conf_avg": 0.51,
             "conf_list": [
                 0.5733593106269836,
                 0.4557659924030304,
@@ -9190,13 +9199,14 @@
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, original_channel1.mp3, 621.0",
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, original_channel1.mp3, 639.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, original_channel1.mp3, 474.0"
-            ]
+            ],
+            "conf_avg": 0.51,
+            "conf_median": 0.491,
+            "conf_stdev": 0.093,
+            "conf_max": 0.702,
+            "count": 8
         },
         "Stock Dove": {
-            "count": 69,
-            "conf_sum": 50.4496473968029,
-            "max_conf": 0.9687777757644653,
-            "conf_avg": 0.73,
             "conf_list": [
                 0.6499104499816895,
                 0.5894398093223572,
@@ -9409,13 +9419,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, original_channel1.mp3, 273.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, original_channel1.mp3, 276.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, original_channel1.mp3, 279.0"
-            ]
+            ],
+            "conf_avg": 0.731,
+            "conf_median": 0.742,
+            "conf_stdev": 0.156,
+            "conf_max": 0.969,
+            "count": 69
         },
         "Common Sandpiper": {
-            "count": 7,
-            "conf_sum": 4.682240009307861,
-            "max_conf": 0.9537149667739868,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.6267865896224976,
                 0.6546387672424316,
@@ -9442,13 +9453,14 @@
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, original_channel1.mp3, 501.0",
                 "data/processed/silwood/A1/2023-03-26/08-40-44_dur=1200secs/results.json, original_channel1.mp3, 951.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, original_channel1.mp3, 1059.0"
-            ]
+            ],
+            "conf_avg": 0.669,
+            "conf_median": 0.627,
+            "conf_stdev": 0.185,
+            "conf_max": 0.954,
+            "count": 7
         },
         "Dunnock": {
-            "count": 10,
-            "conf_sum": 5.100721448659897,
-            "max_conf": 0.7042027115821838,
-            "conf_avg": 0.51,
             "conf_list": [
                 0.601396381855011,
                 0.41502276062965393,
@@ -9484,13 +9496,14 @@
                 "data/processed/silwood/A1/2023-03-27/07-23-26_dur=1200secs/results.json, original_channel1.mp3, 465.0",
                 "data/processed/silwood/A1/2023-03-26/04-00-13_dur=1200secs/results.json, original_channel1.mp3, 1014.0",
                 "data/processed/silwood/A1/2023-03-26/09-40-53_dur=1200secs/results.json, original_channel1.mp3, 906.0"
-            ]
+            ],
+            "conf_avg": 0.51,
+            "conf_median": 0.489,
+            "conf_stdev": 0.091,
+            "conf_max": 0.704,
+            "count": 10
         },
         "Mistle Thrush": {
-            "count": 1,
-            "conf_sum": 0.4684562087059021,
-            "max_conf": 0.4684562087059021,
-            "conf_avg": 0.47,
             "conf_list": [
                 0.4684562087059021
             ],
@@ -9499,13 +9512,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/12-38-43_dur=1200secs/results.json, original_channel1.mp3, 696.0"
-            ]
+            ],
+            "conf_avg": 0.468,
+            "conf_median": 0.468,
+            "conf_stdev": 0.0,
+            "conf_max": 0.468,
+            "count": 1
         },
         "Coal Tit": {
-            "count": 84,
-            "conf_sum": 64.92386662960052,
-            "max_conf": 0.99613356590271,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.5957874059677124,
                 0.4707283079624176,
@@ -9763,13 +9777,14 @@
                 "data/processed/silwood/A1/2023-03-27/07-43-30_dur=1200secs/results.json, original_channel1.mp3, 1050.0",
                 "data/processed/silwood/A1/2023-03-27/08-03-32_dur=1200secs/results.json, original_channel1.mp3, 1119.0",
                 "data/processed/silwood/A1/2023-03-26/06-00-26_dur=1200secs/results.json, original_channel1.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.773,
+            "conf_median": 0.833,
+            "conf_stdev": 0.182,
+            "conf_max": 0.996,
+            "count": 84
         },
         "Common Buzzard": {
-            "count": 24,
-            "conf_sum": 18.695856541395187,
-            "max_conf": 0.9661930799484253,
-            "conf_avg": 0.78,
             "conf_list": [
                 0.518857479095459,
                 0.41393956542015076,
@@ -9847,13 +9862,14 @@
                 "data/processed/silwood/A1/2023-03-27/12-03-58_dur=1200secs/results.json, original_channel1.mp3, 612.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, original_channel1.mp3, 141.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, original_channel1.mp3, 288.0"
-            ]
+            ],
+            "conf_avg": 0.779,
+            "conf_median": 0.829,
+            "conf_stdev": 0.145,
+            "conf_max": 0.966,
+            "count": 24
         },
         "Common Chiffchaff": {
-            "count": 1,
-            "conf_sum": 0.5760318040847778,
-            "max_conf": 0.5760318040847778,
-            "conf_avg": 0.58,
             "conf_list": [
                 0.5760318040847778
             ],
@@ -9862,13 +9878,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/02-57-36_dur=1200secs/results.json, original_channel1.mp3, 642.0"
-            ]
+            ],
+            "conf_avg": 0.576,
+            "conf_median": 0.576,
+            "conf_stdev": 0.0,
+            "conf_max": 0.576,
+            "count": 1
         },
         "Egyptian Goose": {
-            "count": 2,
-            "conf_sum": 1.1655415296554565,
-            "max_conf": 0.6086590886116028,
-            "conf_avg": 0.58,
             "conf_list": [
                 0.6086590886116028,
                 0.5568824410438538
@@ -9880,13 +9897,14 @@
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/02-17-33_dur=1200secs/results.json, original_channel1.mp3, 819.0",
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, original_channel1.mp3, 1098.0"
-            ]
+            ],
+            "conf_avg": 0.583,
+            "conf_median": 0.583,
+            "conf_stdev": 0.026,
+            "conf_max": 0.609,
+            "count": 2
         },
         "Eurasian Kestrel": {
-            "count": 2,
-            "conf_sum": 1.6396793723106384,
-            "max_conf": 0.9509308338165283,
-            "conf_avg": 0.82,
             "conf_list": [
                 0.9509308338165283,
                 0.6887485384941101
@@ -9898,13 +9916,14 @@
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/09-18-21_dur=1200secs/results.json, original_channel1.mp3, 69.0",
                 "data/processed/silwood/A1/2023-03-25/04-17-45_dur=1200secs/results.json, original_channel1.mp3, 1125.0"
-            ]
+            ],
+            "conf_avg": 0.82,
+            "conf_median": 0.82,
+            "conf_stdev": 0.131,
+            "conf_max": 0.951,
+            "count": 2
         },
         "Common Raven": {
-            "count": 1,
-            "conf_sum": 0.4384900629520416,
-            "max_conf": 0.4384900629520416,
-            "conf_avg": 0.44,
             "conf_list": [
                 0.4384900629520416
             ],
@@ -9913,13 +9932,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/19-44-44_dur=1200secs/results.json, original_channel1.mp3, 567.0"
-            ]
+            ],
+            "conf_avg": 0.438,
+            "conf_median": 0.438,
+            "conf_stdev": 0.0,
+            "conf_max": 0.438,
+            "count": 1
         },
         "Yellowhammer": {
-            "count": 1,
-            "conf_sum": 0.5317074656486511,
-            "max_conf": 0.5317074656486511,
-            "conf_avg": 0.53,
             "conf_list": [
                 0.5317074656486511
             ],
@@ -9928,13 +9948,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/03-02-52_dur=1200secs/results.json, original_channel1.mp3, 255.0"
-            ]
+            ],
+            "conf_avg": 0.532,
+            "conf_median": 0.532,
+            "conf_stdev": 0.0,
+            "conf_max": 0.532,
+            "count": 1
         },
         "Eurasian Coot": {
-            "count": 1,
-            "conf_sum": 0.5646304488182068,
-            "max_conf": 0.5646304488182068,
-            "conf_avg": 0.56,
             "conf_list": [
                 0.5646304488182068
             ],
@@ -9943,13 +9964,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/16-04-18_dur=1200secs/results.json, original_channel1.mp3, 339.0"
-            ]
+            ],
+            "conf_avg": 0.565,
+            "conf_median": 0.565,
+            "conf_stdev": 0.0,
+            "conf_max": 0.565,
+            "count": 1
         },
         "Eurasian Moorhen": {
-            "count": 3,
-            "conf_sum": 2.142503321170807,
-            "max_conf": 0.8983926177024841,
-            "conf_avg": 0.71,
             "conf_list": [
                 0.8983926177024841,
                 0.6339888572692871,
@@ -9964,13 +9986,14 @@
                 "data/processed/silwood/A1/2023-03-27/18-24-35_dur=1200secs/results.json, original_channel1.mp3, 516.0",
                 "data/processed/silwood/A1/2023-03-27/14-24-09_dur=1200secs/results.json, original_channel1.mp3, 105.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, original_channel1.mp3, 756.0"
-            ]
+            ],
+            "conf_avg": 0.714,
+            "conf_median": 0.634,
+            "conf_stdev": 0.131,
+            "conf_max": 0.898,
+            "count": 3
         },
         "Eurasian Blackcap": {
-            "count": 5,
-            "conf_sum": 2.5423916578292847,
-            "max_conf": 0.5753147006034851,
-            "conf_avg": 0.51,
             "conf_list": [
                 0.45956429839134216,
                 0.5269469022750854,
@@ -9991,13 +10014,14 @@
                 "data/processed/silwood/A1/2023-03-27/13-44-05_dur=1200secs/results.json, original_channel1.mp3, 555.0",
                 "data/processed/silwood/A1/2023-03-27/12-44-00_dur=1200secs/results.json, original_channel1.mp3, 780.0",
                 "data/processed/silwood/A1/2023-03-27/12-44-00_dur=1200secs/results.json, original_channel1.mp3, 957.0"
-            ]
+            ],
+            "conf_avg": 0.508,
+            "conf_median": 0.527,
+            "conf_stdev": 0.047,
+            "conf_max": 0.575,
+            "count": 5
         },
         "European Goldfinch": {
-            "count": 1,
-            "conf_sum": 0.41048991680145264,
-            "max_conf": 0.41048991680145264,
-            "conf_avg": 0.41,
             "conf_list": [
                 0.41048991680145264
             ],
@@ -10006,13 +10030,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/02-22-50_dur=1200secs/results.json, original_channel1.mp3, 1125.0"
-            ]
+            ],
+            "conf_avg": 0.41,
+            "conf_median": 0.41,
+            "conf_stdev": 0.0,
+            "conf_max": 0.41,
+            "count": 1
         },
         "Eurasian Magpie": {
-            "count": 1,
-            "conf_sum": 0.8572998046875,
-            "max_conf": 0.8572998046875,
-            "conf_avg": 0.86,
             "conf_list": [
                 0.8572998046875
             ],
@@ -10021,13 +10046,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, original_channel1.mp3, 147.0"
-            ]
+            ],
+            "conf_avg": 0.857,
+            "conf_median": 0.857,
+            "conf_stdev": 0.0,
+            "conf_max": 0.857,
+            "count": 1
         },
         "Eurasian Blackbird": {
-            "count": 1,
-            "conf_sum": 0.41356202960014343,
-            "max_conf": 0.41356202960014343,
-            "conf_avg": 0.41,
             "conf_list": [
                 0.41356202960014343
             ],
@@ -10036,15 +10062,16 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-26/16-41-41_dur=1200secs/results.json, original_channel1.mp3, 582.0"
-            ]
+            ],
+            "conf_avg": 0.414,
+            "conf_median": 0.414,
+            "conf_stdev": 0.0,
+            "conf_max": 0.414,
+            "count": 1
         }
     },
     "beamformed": {
         "Eurasian Jackdaw": {
-            "count": 1263,
-            "conf_sum": 1014.6897613704205,
-            "max_conf": 0.9979540109634399,
-            "conf_avg": 0.8,
             "conf_list": [
                 0.5955404043197632,
                 0.9752393364906311,
@@ -15104,13 +15131,14 @@
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, sep_chan2.mp3, 1179.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, sep_chan2.mp3, 1185.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, sep_chan1.mp3, 1188.0"
-            ]
+            ],
+            "conf_avg": 0.803,
+            "conf_median": 0.835,
+            "conf_stdev": 0.134,
+            "conf_max": 0.998,
+            "count": 1263
         },
         "Carrion Crow": {
-            "count": 146,
-            "conf_sum": 105.31490436196327,
-            "max_conf": 0.9183405041694641,
-            "conf_avg": 0.72,
             "conf_list": [
                 0.6877214312553406,
                 0.6306918859481812,
@@ -15702,13 +15730,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 975.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 1134.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 1179.0"
-            ]
+            ],
+            "conf_avg": 0.721,
+            "conf_median": 0.741,
+            "conf_stdev": 0.106,
+            "conf_max": 0.918,
+            "count": 146
         },
         "Eurasian Nuthatch": {
-            "count": 447,
-            "conf_sum": 387.87387320399284,
-            "max_conf": 0.9972737431526184,
-            "conf_avg": 0.87,
             "conf_list": [
                 0.9299557209014893,
                 0.7994526028633118,
@@ -17504,13 +17533,14 @@
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, sep_chan4.mp3, 1164.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, sep_chan4.mp3, 1179.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, sep_chan4.mp3, 1191.0"
-            ]
+            ],
+            "conf_avg": 0.868,
+            "conf_median": 0.912,
+            "conf_stdev": 0.127,
+            "conf_max": 0.997,
+            "count": 447
         },
         "Eurasian Green Woodpecker": {
-            "count": 214,
-            "conf_sum": 188.2890179157257,
-            "max_conf": 0.9992617964744568,
-            "conf_avg": 0.88,
             "conf_list": [
                 0.9228427410125732,
                 0.7909231185913086,
@@ -18374,13 +18404,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 9.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 15.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan4.mp3, 846.0"
-            ]
+            ],
+            "conf_avg": 0.88,
+            "conf_median": 0.933,
+            "conf_stdev": 0.134,
+            "conf_max": 0.999,
+            "count": 214
         },
         "Ring-necked Pheasant": {
-            "count": 23,
-            "conf_sum": 17.830211490392685,
-            "max_conf": 0.9585117101669312,
-            "conf_avg": 0.78,
             "conf_list": [
                 0.48030492663383484,
                 0.40115341544151306,
@@ -18480,13 +18511,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, sep_chan4.mp3, 669.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, sep_chan2.mp3, 132.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, sep_chan4.mp3, 891.0"
-            ]
+            ],
+            "conf_avg": 0.775,
+            "conf_median": 0.797,
+            "conf_stdev": 0.154,
+            "conf_max": 0.959,
+            "count": 23
         },
         "Black Redstart": {
-            "count": 27,
-            "conf_sum": 19.986750811338425,
-            "max_conf": 0.9298413991928101,
-            "conf_avg": 0.74,
             "conf_list": [
                 0.6854764819145203,
                 0.6833436489105225,
@@ -18602,13 +18634,14 @@
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan1.mp3, 996.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan1.mp3, 1122.0",
                 "data/processed/silwood/A1/2023-03-26/05-00-19_dur=1200secs/results.json, sep_chan1.mp3, 1128.0"
-            ]
+            ],
+            "conf_avg": 0.74,
+            "conf_median": 0.78,
+            "conf_stdev": 0.155,
+            "conf_max": 0.93,
+            "count": 27
         },
         "Eurasian Blue Tit": {
-            "count": 171,
-            "conf_sum": 121.46581041812897,
-            "max_conf": 0.959976077079773,
-            "conf_avg": 0.71,
             "conf_list": [
                 0.7034071087837219,
                 0.7797253131866455,
@@ -19300,13 +19333,14 @@
                 "data/processed/silwood/A1/2023-03-26/10-41-01_dur=1200secs/results.json, sep_chan1.mp3, 852.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, sep_chan3.mp3, 771.0",
                 "data/processed/silwood/A1/2023-03-26/10-00-54_dur=1200secs/results.json, sep_chan4.mp3, 990.0"
-            ]
+            ],
+            "conf_avg": 0.71,
+            "conf_median": 0.71,
+            "conf_stdev": 0.141,
+            "conf_max": 0.96,
+            "count": 171
         },
         "Common Wood-Pigeon": {
-            "count": 22,
-            "conf_sum": 15.019377559423447,
-            "max_conf": 0.8822903037071228,
-            "conf_avg": 0.68,
             "conf_list": [
                 0.765356719493866,
                 0.5012141466140747,
@@ -19402,13 +19436,14 @@
                 "data/processed/silwood/A1/2023-03-26/15-21-31_dur=1200secs/results.json, sep_chan1.mp3, 762.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, sep_chan2.mp3, 516.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, sep_chan4.mp3, 519.0"
-            ]
+            ],
+            "conf_avg": 0.683,
+            "conf_median": 0.694,
+            "conf_stdev": 0.137,
+            "conf_max": 0.882,
+            "count": 22
         },
         "European Robin": {
-            "count": 26,
-            "conf_sum": 17.293045967817307,
-            "max_conf": 0.8322693705558777,
-            "conf_avg": 0.67,
             "conf_list": [
                 0.5371721982955933,
                 0.8256835341453552,
@@ -19520,13 +19555,14 @@
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, sep_chan4.mp3, 639.0",
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, sep_chan3.mp3, 663.0",
                 "data/processed/silwood/A1/2023-03-26/07-00-32_dur=1200secs/results.json, sep_chan4.mp3, 57.0"
-            ]
+            ],
+            "conf_avg": 0.665,
+            "conf_median": 0.666,
+            "conf_stdev": 0.121,
+            "conf_max": 0.832,
+            "count": 26
         },
         "Common Kingfisher": {
-            "count": 22,
-            "conf_sum": 15.015854120254517,
-            "max_conf": 0.9195995330810547,
-            "conf_avg": 0.68,
             "conf_list": [
                 0.7212459444999695,
                 0.6395925283432007,
@@ -19622,13 +19658,14 @@
                 "data/processed/silwood/A1/2023-03-26/06-20-26_dur=1200secs/results.json, sep_chan3.mp3, 207.0",
                 "data/processed/silwood/A1/2023-03-26/06-20-26_dur=1200secs/results.json, sep_chan1.mp3, 210.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan2.mp3, 741.0"
-            ]
+            ],
+            "conf_avg": 0.683,
+            "conf_median": 0.713,
+            "conf_stdev": 0.152,
+            "conf_max": 0.92,
+            "count": 22
         },
         "Great Spotted Woodpecker": {
-            "count": 359,
-            "conf_sum": 307.6092622578144,
-            "max_conf": 0.9941931366920471,
-            "conf_avg": 0.86,
             "conf_list": [
                 0.9315445423126221,
                 0.6877360343933105,
@@ -21072,13 +21109,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 1152.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 1170.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 1197.0"
-            ]
+            ],
+            "conf_avg": 0.857,
+            "conf_median": 0.893,
+            "conf_stdev": 0.117,
+            "conf_max": 0.994,
+            "count": 359
         },
         "Great Tit": {
-            "count": 253,
-            "conf_sum": 189.25942051410675,
-            "max_conf": 0.9982998967170715,
-            "conf_avg": 0.75,
             "conf_list": [
                 0.640321671962738,
                 0.6602012515068054,
@@ -22098,13 +22136,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 210.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 213.0",
                 "data/processed/silwood/A1/2023-03-26/03-20-09_dur=1200secs/results.json, sep_chan1.mp3, 348.0"
-            ]
+            ],
+            "conf_avg": 0.748,
+            "conf_median": 0.761,
+            "conf_stdev": 0.16,
+            "conf_max": 0.998,
+            "count": 253
         },
         "Eurasian Jay": {
-            "count": 27,
-            "conf_sum": 25.069635272026062,
-            "max_conf": 0.9922056794166565,
-            "conf_avg": 0.93,
             "conf_list": [
                 0.9854733347892761,
                 0.9504795074462891,
@@ -22220,13 +22259,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-00-08_dur=1200secs/results.json, sep_chan4.mp3, 1101.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, sep_chan1.mp3, 171.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, sep_chan4.mp3, 336.0"
-            ]
+            ],
+            "conf_avg": 0.929,
+            "conf_median": 0.946,
+            "conf_stdev": 0.061,
+            "conf_max": 0.992,
+            "count": 27
         },
         "Hooded Crow": {
-            "count": 8,
-            "conf_sum": 4.271350413560867,
-            "max_conf": 0.6558443903923035,
-            "conf_avg": 0.53,
             "conf_list": [
                 0.5359117388725281,
                 0.4568248987197876,
@@ -22266,13 +22306,14 @@
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, sep_chan3.mp3, 621.0",
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, sep_chan4.mp3, 639.0",
                 "data/processed/silwood/A1/2023-03-26/05-20-20_dur=1200secs/results.json, sep_chan4.mp3, 474.0"
-            ]
+            ],
+            "conf_avg": 0.534,
+            "conf_median": 0.517,
+            "conf_stdev": 0.073,
+            "conf_max": 0.656,
+            "count": 8
         },
         "Stock Dove": {
-            "count": 69,
-            "conf_sum": 63.24956774711609,
-            "max_conf": 0.9951568245887756,
-            "conf_avg": 0.92,
             "conf_list": [
                 0.8302326798439026,
                 0.900209367275238,
@@ -22556,13 +22597,14 @@
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, sep_chan2.mp3, 273.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, sep_chan2.mp3, 276.0",
                 "data/processed/silwood/A1/2023-03-26/03-40-12_dur=1200secs/results.json, sep_chan2.mp3, 279.0"
-            ]
+            ],
+            "conf_avg": 0.917,
+            "conf_median": 0.942,
+            "conf_stdev": 0.077,
+            "conf_max": 0.995,
+            "count": 69
         },
         "Common Sandpiper": {
-            "count": 7,
-            "conf_sum": 5.123878717422485,
-            "max_conf": 0.8638113141059875,
-            "conf_avg": 0.73,
             "conf_list": [
                 0.6757379770278931,
                 0.6614280939102173,
@@ -22598,13 +22640,14 @@
                 "data/processed/silwood/A1/2023-03-26/07-20-34_dur=1200secs/results.json, sep_chan2.mp3, 501.0",
                 "data/processed/silwood/A1/2023-03-26/08-40-44_dur=1200secs/results.json, sep_chan1.mp3, 951.0",
                 "data/processed/silwood/A1/2023-03-26/14-21-22_dur=1200secs/results.json, sep_chan4.mp3, 1059.0"
-            ]
+            ],
+            "conf_avg": 0.732,
+            "conf_median": 0.677,
+            "conf_stdev": 0.084,
+            "conf_max": 0.864,
+            "count": 7
         },
         "Dunnock": {
-            "count": 10,
-            "conf_sum": 6.890173077583313,
-            "max_conf": 0.8256865739822388,
-            "conf_avg": 0.69,
             "conf_list": [
                 0.5191365480422974,
                 0.6240091919898987,
@@ -22652,13 +22695,14 @@
                 "data/processed/silwood/A1/2023-03-27/07-23-26_dur=1200secs/results.json, sep_chan3.mp3, 465.0",
                 "data/processed/silwood/A1/2023-03-26/04-00-13_dur=1200secs/results.json, sep_chan2.mp3, 1014.0",
                 "data/processed/silwood/A1/2023-03-26/09-40-53_dur=1200secs/results.json, sep_chan4.mp3, 906.0"
-            ]
+            ],
+            "conf_avg": 0.689,
+            "conf_median": 0.735,
+            "conf_stdev": 0.118,
+            "conf_max": 0.826,
+            "count": 10
         },
         "Mistle Thrush": {
-            "count": 1,
-            "conf_sum": 0.40481871366500854,
-            "max_conf": 0.40481871366500854,
-            "conf_avg": 0.4,
             "conf_list": [
                 0.40481871366500854
             ],
@@ -22670,13 +22714,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/12-38-43_dur=1200secs/results.json, sep_chan1.mp3, 696.0"
-            ]
+            ],
+            "conf_avg": 0.405,
+            "conf_median": 0.405,
+            "conf_stdev": 0.0,
+            "conf_max": 0.405,
+            "count": 1
         },
         "Coal Tit": {
-            "count": 84,
-            "conf_sum": 68.20084875822067,
-            "max_conf": 0.9948766827583313,
-            "conf_avg": 0.81,
             "conf_list": [
                 0.4536277651786804,
                 0.42147552967071533,
@@ -23020,13 +23065,14 @@
                 "data/processed/silwood/A1/2023-03-27/07-43-30_dur=1200secs/results.json, sep_chan2.mp3, 1050.0",
                 "data/processed/silwood/A1/2023-03-27/08-03-32_dur=1200secs/results.json, sep_chan3.mp3, 1119.0",
                 "data/processed/silwood/A1/2023-03-26/06-00-26_dur=1200secs/results.json, sep_chan2.mp3, 978.0"
-            ]
+            ],
+            "conf_avg": 0.812,
+            "conf_median": 0.873,
+            "conf_stdev": 0.168,
+            "conf_max": 0.995,
+            "count": 84
         },
         "Common Buzzard": {
-            "count": 24,
-            "conf_sum": 21.324069559574127,
-            "max_conf": 0.9900020360946655,
-            "conf_avg": 0.89,
             "conf_list": [
                 0.9106485843658447,
                 0.9596561789512634,
@@ -23130,13 +23176,14 @@
                 "data/processed/silwood/A1/2023-03-27/12-03-58_dur=1200secs/results.json, sep_chan2.mp3, 612.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, sep_chan3.mp3, 141.0",
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, sep_chan1.mp3, 288.0"
-            ]
+            ],
+            "conf_avg": 0.889,
+            "conf_median": 0.922,
+            "conf_stdev": 0.105,
+            "conf_max": 0.99,
+            "count": 24
         },
         "Common Chiffchaff": {
-            "count": 1,
-            "conf_sum": 0.6929209232330322,
-            "max_conf": 0.6929209232330322,
-            "conf_avg": 0.69,
             "conf_list": [
                 0.6929209232330322
             ],
@@ -23148,13 +23195,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/02-57-36_dur=1200secs/results.json, sep_chan3.mp3, 642.0"
-            ]
+            ],
+            "conf_avg": 0.693,
+            "conf_median": 0.693,
+            "conf_stdev": 0.0,
+            "conf_max": 0.693,
+            "count": 1
         },
         "Egyptian Goose": {
-            "count": 2,
-            "conf_sum": 1.6652984023094177,
-            "max_conf": 0.8464365005493164,
-            "conf_avg": 0.83,
             "conf_list": [
                 0.8188619017601013,
                 0.8464365005493164
@@ -23170,13 +23218,14 @@
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/02-17-33_dur=1200secs/results.json, sep_chan1.mp3, 819.0",
                 "data/processed/silwood/A1/2023-03-27/06-03-21_dur=1200secs/results.json, sep_chan4.mp3, 1098.0"
-            ]
+            ],
+            "conf_avg": 0.833,
+            "conf_median": 0.833,
+            "conf_stdev": 0.014,
+            "conf_max": 0.846,
+            "count": 2
         },
         "Eurasian Kestrel": {
-            "count": 2,
-            "conf_sum": 1.6609964966773987,
-            "max_conf": 0.9765556454658508,
-            "conf_avg": 0.83,
             "conf_list": [
                 0.9765556454658508,
                 0.6844408512115479
@@ -23192,13 +23241,14 @@
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-25/09-18-21_dur=1200secs/results.json, sep_chan3.mp3, 69.0",
                 "data/processed/silwood/A1/2023-03-25/04-17-45_dur=1200secs/results.json, sep_chan1.mp3, 1125.0"
-            ]
+            ],
+            "conf_avg": 0.83,
+            "conf_median": 0.83,
+            "conf_stdev": 0.146,
+            "conf_max": 0.977,
+            "count": 2
         },
         "Common Raven": {
-            "count": 1,
-            "conf_sum": 0.7730258107185364,
-            "max_conf": 0.7730258107185364,
-            "conf_avg": 0.77,
             "conf_list": [
                 0.7730258107185364
             ],
@@ -23210,13 +23260,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/19-44-44_dur=1200secs/results.json, sep_chan4.mp3, 567.0"
-            ]
+            ],
+            "conf_avg": 0.773,
+            "conf_median": 0.773,
+            "conf_stdev": 0.0,
+            "conf_max": 0.773,
+            "count": 1
         },
         "Yellowhammer": {
-            "count": 1,
-            "conf_sum": 0.6575828790664673,
-            "max_conf": 0.6575828790664673,
-            "conf_avg": 0.66,
             "conf_list": [
                 0.6575828790664673
             ],
@@ -23228,13 +23279,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/03-02-52_dur=1200secs/results.json, sep_chan4.mp3, 255.0"
-            ]
+            ],
+            "conf_avg": 0.658,
+            "conf_median": 0.658,
+            "conf_stdev": 0.0,
+            "conf_max": 0.658,
+            "count": 1
         },
         "Eurasian Coot": {
-            "count": 1,
-            "conf_sum": 0.5862201452255249,
-            "max_conf": 0.5862201452255249,
-            "conf_avg": 0.59,
             "conf_list": [
                 0.5862201452255249
             ],
@@ -23246,13 +23298,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/16-04-18_dur=1200secs/results.json, sep_chan3.mp3, 339.0"
-            ]
+            ],
+            "conf_avg": 0.586,
+            "conf_median": 0.586,
+            "conf_stdev": 0.0,
+            "conf_max": 0.586,
+            "count": 1
         },
         "Eurasian Moorhen": {
-            "count": 3,
-            "conf_sum": 1.99467533826828,
-            "max_conf": 0.9759213328361511,
-            "conf_avg": 0.66,
             "conf_list": [
                 0.9759213328361511,
                 0.48736703395843506,
@@ -23272,13 +23325,14 @@
                 "data/processed/silwood/A1/2023-03-27/18-24-35_dur=1200secs/results.json, sep_chan4.mp3, 516.0",
                 "data/processed/silwood/A1/2023-03-27/14-24-09_dur=1200secs/results.json, sep_chan3.mp3, 105.0",
                 "data/processed/silwood/A1/2023-03-26/13-21-17_dur=1200secs/results.json, sep_chan3.mp3, 756.0"
-            ]
+            ],
+            "conf_avg": 0.665,
+            "conf_median": 0.531,
+            "conf_stdev": 0.221,
+            "conf_max": 0.976,
+            "count": 3
         },
         "Eurasian Blackcap": {
-            "count": 5,
-            "conf_sum": 3.2511298656463623,
-            "max_conf": 0.7589623928070068,
-            "conf_avg": 0.65,
             "conf_list": [
                 0.5576530694961548,
                 0.5367125272750854,
@@ -23306,13 +23360,14 @@
                 "data/processed/silwood/A1/2023-03-27/13-44-05_dur=1200secs/results.json, sep_chan2.mp3, 555.0",
                 "data/processed/silwood/A1/2023-03-27/12-44-00_dur=1200secs/results.json, sep_chan2.mp3, 780.0",
                 "data/processed/silwood/A1/2023-03-27/12-44-00_dur=1200secs/results.json, sep_chan4.mp3, 957.0"
-            ]
+            ],
+            "conf_avg": 0.65,
+            "conf_median": 0.677,
+            "conf_stdev": 0.088,
+            "conf_max": 0.759,
+            "count": 5
         },
         "European Goldfinch": {
-            "count": 1,
-            "conf_sum": 0.7166666388511658,
-            "max_conf": 0.7166666388511658,
-            "conf_avg": 0.72,
             "conf_list": [
                 0.7166666388511658
             ],
@@ -23324,13 +23379,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-27/02-22-50_dur=1200secs/results.json, sep_chan1.mp3, 1125.0"
-            ]
+            ],
+            "conf_avg": 0.717,
+            "conf_median": 0.717,
+            "conf_stdev": 0.0,
+            "conf_max": 0.717,
+            "count": 1
         },
         "Eurasian Magpie": {
-            "count": 1,
-            "conf_sum": 0.8845548629760742,
-            "max_conf": 0.8845548629760742,
-            "conf_avg": 0.88,
             "conf_list": [
                 0.8845548629760742
             ],
@@ -23342,13 +23398,14 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-26/08-00-37_dur=1200secs/results.json, sep_chan4.mp3, 147.0"
-            ]
+            ],
+            "conf_avg": 0.885,
+            "conf_median": 0.885,
+            "conf_stdev": 0.0,
+            "conf_max": 0.885,
+            "count": 1
         },
         "Eurasian Blackbird": {
-            "count": 1,
-            "conf_sum": 0.5333545804023743,
-            "max_conf": 0.5333545804023743,
-            "conf_avg": 0.53,
             "conf_list": [
                 0.5333545804023743
             ],
@@ -23360,7 +23417,12 @@
             ],
             "mp3_identifier": [
                 "data/processed/silwood/A1/2023-03-26/16-41-41_dur=1200secs/results.json, sep_chan2.mp3, 582.0"
-            ]
+            ],
+            "conf_avg": 0.533,
+            "conf_median": 0.533,
+            "conf_stdev": 0.0,
+            "conf_max": 0.533,
+            "count": 1
         }
     }
 }

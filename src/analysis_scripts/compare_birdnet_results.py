@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/manicore"
+DIR_PATH = "data/processed/silwood/A1"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -429,7 +429,7 @@ processed_results = {"mono_channel": {},
 # New dict to compare species count, above a min conf level - detections in either mono or beamformed
 species_counts = {"mono_channel": {},
                  "beamformed": {}}
-CONF_MIN = 0.7          # Specify threshold confidence level
+CONF_MIN = 0.4          # Specify threshold confidence level
 
 # Analyse all results files in the directory
 for root, dirs, files in os.walk(DIR_PATH, topdown=False):
