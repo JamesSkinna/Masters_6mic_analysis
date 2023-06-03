@@ -34,7 +34,7 @@ else:
 # Choose whether to beamform based on pre-set directions, or let ODAS do it automatically
 # Preset -> Results put into 'data/processed' folder
 # Auto   -> Results put into 'data/processed_auto_beamform' folder
-AUTO_BEAMFORM = True
+AUTO_BEAMFORM = False
 
 
 def convert_flac_to_wav(input_path):
