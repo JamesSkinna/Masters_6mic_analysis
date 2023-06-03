@@ -37,7 +37,7 @@ else:
 AUTO_BEAMFORM = False
 
 
-def convert_flac_to_wav(input_path):
+def convert_flac_to_raw(input_path):
     """Take flac file from data/raw directory
     --> Convert to equivalent .RAW file
     --> Store in new directory, inside data/processed
@@ -247,7 +247,7 @@ for root, dirs, files in os.walk(DIR_PATH, topdown=False):
             print(f"processing: {original_file_path}")
 
             print("Converting to RAW...")
-            RAW_file_path, processed_folder_path = convert_flac_to_wav(original_file_path)
+            RAW_file_path, processed_folder_path = convert_flac_to_raw(original_file_path)
 
             print("Processing through ODAS...")
             current_config_path = create_cfg_file(RAW_file_path, processed_folder_path)
