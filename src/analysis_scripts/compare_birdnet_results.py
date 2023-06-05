@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/manicore"
+DIR_PATH = "data/processed/silwood/A1"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -25,7 +25,7 @@ elif "silwood" in DIR_PATH:
 else:
     LOCATION = "Lab: Speaker Sphere"
 
-MIN_SAMPLE_SIZE = 30            # At least 20 detections, for confidence level tests
+MIN_SAMPLE_SIZE = 30            # At least 30 detections, for confidence level tests
 
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
@@ -264,6 +264,35 @@ def setup_new_plot(xlabel, ylabel, title):
     plt.grid(True)
 
 
+def draw_overlay_histograms(hist_data_bf, hist_data_mono, species_names, n_rows, n_cols):
+    """Draws several histograms in a single plot
+    --> Organised in a grid of n_rows x n_cols"""
+
+    mono_col = '#18D12B'
+    bf_col = '#008CFF'
+
+    fig=plt.figure(figsize=(18, 12))
+    # fig.suptitle(title, fontsize=16)         # As we have subplots, we set an overall title with suptitle
+
+    for i, name in enumerate(species_names):
+        ax=fig.add_subplot(n_rows,n_cols,i+1)
+        ax.hist(hist_data_bf[i], bins=20, color=bf_col, alpha=0.7)
+        ax.hist(hist_data_mono[i], bins=20, color=mono_col, alpha=0.7)
+
+        ax.set_ylabel("Frequency", fontsize=16, labelpad=5)
+        ax.set_xlabel("Confidence", fontsize=16, labelpad=5)
+        plt.tick_params(axis="both", labelsize=16)
+        ax.grid(True)
+        ax.set_title(name, fontsize=20)
+    
+    fig.tight_layout()  # Improves appearance a bit.
+    # plt.subplots_adjust(top=0.92, wspace=0.3, hspace=0.3)
+    
+    file_path = DIR_PATH + '/overlap_hists.png'
+    plt.savefig(file_path)
+    # plt.show()
+
+
 def draw_histograms(hist_data, species_names, n_rows, n_cols, title, file_path, colour):
     """Draws several histograms in a single plot
     --> Organised in a grid of n_rows x n_cols"""
@@ -318,8 +347,9 @@ def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path)
         mono_title = f"Distributions of confidence levels, per species - Mono-channel - {LOCATION}"
         bf_title = f"Distributions of confidence levels, per species - Beamformed - {LOCATION}"
 
-        draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path, '#D7191C')
-        draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path, '#2C7BB6')
+        # draw_histograms(hist_conf_data_mono, hist_labels, num_rows, num_cols, mono_title, mono_file_path, '#D7191C')
+        # draw_histograms(hist_conf_data_bf, hist_labels, num_rows, num_cols, bf_title, bf_file_path, '#2C7BB6')
+        draw_overlay_histograms(hist_conf_data_bf, hist_conf_data_mono, hist_labels, num_rows, num_cols)
     else:
         print("No histogram data to plot!")
 
