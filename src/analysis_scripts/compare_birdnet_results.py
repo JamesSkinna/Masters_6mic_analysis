@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Define constants
-DIR_PATH = "data/processed/silwood/A1"
+DIR_PATH = "data/processed/manicore"
 
 # Set the location of data...
 if "manicore" in DIR_PATH:
@@ -380,7 +380,6 @@ def plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels
     plot_count = str(int(round(i/5, 0)))
     new_filepath = fp_extension_rm + plot_count + ".png"
     plt.savefig(new_filepath)
-    
 
 
 def boxplot_conf_comparison(mono_data, bf_data, file_path):
@@ -408,62 +407,16 @@ def boxplot_conf_comparison(mono_data, bf_data, file_path):
             i += 1
             if (i % 5) == 0:            # Maximum of 5 species per plot
                 plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels, fp_extension_rm, i)
-                # # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
-                # bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
-                # bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
-                # set_box_color(bpl, MONO_COL) # colors are from http://colorbrewer2.org/
-                # set_box_color(bpr, BF_COL)
-
-                # # draw temporary red and blue lines and use them to create a legend
-                # plt.plot([], c=MONO_COL, label='Monophonic')
-                # plt.plot([], c=BF_COL, label='Beamformed')
-                # leg = plt.legend(fontsize=20)
-                # leg.get_lines()[0].set_linewidth(5)
-                # leg.get_lines()[1].set_linewidth(5)
-
-                # plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
-                # plt.xlim(-2, len(boxplot_labels)*2)
-                # plt.ylim(0.4, 1)
-                # plt.tight_layout()
-
-                # plot_count = str(int(round(i/5, 0)))
-                # new_filepath = fp_extension_rm + plot_count + ".png"
-                # plt.savefig(new_filepath)
 
                 # Reset the plotting data...
                 boxplot_conf_data_mono = []
                 boxplot_conf_data_bf = []
                 boxplot_labels = []
 
-
                 # plt.show()
 
     if boxplot_labels:        # If we have some remaining data to plot (otherwise, = [], which acts as False)
         plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels, fp_extension_rm, i)
-
-    # if boxplot_labels:        # If we have some data to plot (otherwise, = [], which acts as False)
-    #     # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
-    #     bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
-    #     bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
-    #     set_box_color(bpl, MONO_COL) # colors are from http://colorbrewer2.org/
-    #     set_box_color(bpr, BF_COL)
-
-    #     # draw temporary red and blue lines and use them to create a legend
-    #     plt.plot([], c=MONO_COL, label='Monophonic')
-    #     plt.plot([], c=BF_COL, label='Beamformed')
-    #     leg = plt.legend(fontsize=20)
-    #     leg.get_lines()[0].set_linewidth(5)
-    #     leg.get_lines()[1].set_linewidth(5)
-
-    #     plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
-    #     plt.xlim(-2, len(boxplot_labels)*2)
-    #     plt.ylim(0.4, 1)
-    #     plt.tight_layout()
-
-    #     plt.savefig(file_path)
-    #     # plt.show()
-    # else:
-    #     print("No boxplot data to plot!")
 
 
 def get_unique_species(arr):
