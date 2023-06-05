@@ -27,6 +27,9 @@ else:
 
 MIN_SAMPLE_SIZE = 30            # At least 30 detections, for confidence level tests
 
+MONO_COL = '#18D12B'        # Colours for plots
+BF_COL = '#008CFF'
+
 # FUNCTIONS FOR PROCESSING A DIRECTORY OF RESULTS FILES-----------------------------------------------------------------------------------
 def read_results_from_file(file_path):
     """Read the BirdNET detections from a file"""
@@ -256,33 +259,30 @@ def get_initials(species_name):
 
 def setup_new_plot(xlabel, ylabel, title):
     """Initialises a new matplotlib plot, with desired parameters"""
-    plt.figure(figsize=(18, 12))
-    plt.xlabel(xlabel, fontsize=16, labelpad=20)
-    plt.ylabel(ylabel, fontsize=16, labelpad=20)
+    plt.figure(figsize=(18, 8))
+    plt.xlabel(xlabel, fontsize=20, labelpad=20)
+    plt.ylabel(ylabel, fontsize=20, labelpad=20)
     plt.tick_params(axis="both", labelsize=14)
     # plt.title(title)  - Don't set title - use fig captions instead
-    plt.grid(True)
+    # plt.grid(True)
 
 
 def draw_overlay_histograms(hist_data_bf, hist_data_mono, species_names, n_rows, n_cols):
     """Draws several histograms in a single plot
     --> Organised in a grid of n_rows x n_cols"""
 
-    mono_col = '#18D12B'
-    bf_col = '#008CFF'
-
     fig=plt.figure(figsize=(18, 12))
     # fig.suptitle(title, fontsize=16)         # As we have subplots, we set an overall title with suptitle
 
     for i, name in enumerate(species_names):
         ax=fig.add_subplot(n_rows,n_cols,i+1)
-        ax.hist(hist_data_bf[i], bins=20, color=bf_col, alpha=0.7)
-        ax.hist(hist_data_mono[i], bins=20, color=mono_col, alpha=0.7)
+        ax.hist(hist_data_bf[i], bins=20, color=BF_COL, alpha=0.7)
+        ax.hist(hist_data_mono[i], bins=20, color=MONO_COL, alpha=0.7)
 
         ax.set_ylabel("Frequency", fontsize=16, labelpad=5)
         ax.set_xlabel("Confidence", fontsize=16, labelpad=5)
         plt.tick_params(axis="both", labelsize=16)
-        ax.grid(True)
+        # ax.grid(True)
         ax.set_title(name, fontsize=20)
     
     fig.tight_layout()  # Improves appearance a bit.
@@ -354,45 +354,116 @@ def plot_confidence_histograms(mono_data, bf_data, mono_file_path, bf_file_path)
         print("No histogram data to plot!")
 
 
+def plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels, fp_extension_rm, i):
+    """Plots a boxplot with 2 groups, for side-by-side comparison"""
+
+    setup_new_plot("Species Name", "Confidence", "")
+
+    # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
+    bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
+    bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
+    set_box_color(bpl, MONO_COL) # colors are from http://colorbrewer2.org/
+    set_box_color(bpr, BF_COL)
+
+    # draw temporary red and blue lines and use them to create a legend
+    plt.plot([], c=MONO_COL, label='Monophonic')
+    plt.plot([], c=BF_COL, label='Beamformed')
+    leg = plt.legend(fontsize=16, loc="upper left")
+    leg.get_lines()[0].set_linewidth(5)
+    leg.get_lines()[1].set_linewidth(5)
+
+    plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
+    plt.xlim(-2, len(boxplot_labels)*2)
+    plt.ylim(0.35, 1)
+    plt.tight_layout()
+
+    plot_count = str(int(round(i/5, 0)))
+    new_filepath = fp_extension_rm + plot_count + ".png"
+    plt.savefig(new_filepath)
+    
+
+
 def boxplot_conf_comparison(mono_data, bf_data, file_path):
     """Creates a boxplot to compare confidence levels of mono-channel vs beamformed
     --> Split into groups (1 group per species) - for side-by-side comparison"""
 
-    title = f"Confidence levels across species - Mono-channel vs Beamformed Recordings - {LOCATION}"
-    setup_new_plot("Species Initials", "Confidence Levels", title)
+    # title = f"Confidence levels across species - Mono-channel vs Beamformed Recordings - {LOCATION}"
+    # setup_new_plot("Species Name", "Confidence", "")
 
     boxplot_conf_data_mono = []
     boxplot_conf_data_bf = []
     boxplot_labels = []
+
+    fp_extension_rm = file_path.split(".")[0]
+
+    i = 0
 
     # Extract the confidence levels list for each species - append to list of lists
     for species in mono_data.keys():
         if mono_data[species]["count"] >= MIN_SAMPLE_SIZE:    # Only plot those with more than 20 detections (greater sample size)
             boxplot_conf_data_mono.append(mono_data[species]["conf_list"])
             boxplot_conf_data_bf.append(bf_data[species]["conf_list"])
-            boxplot_labels.append(get_initials(species))
+            # boxplot_labels.append(get_initials(species))
+            boxplot_labels.append("'" + species + "'")
+            i += 1
+            if (i % 5) == 0:            # Maximum of 5 species per plot
+                plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels, fp_extension_rm, i)
+                # # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
+                # bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
+                # bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
+                # set_box_color(bpl, MONO_COL) # colors are from http://colorbrewer2.org/
+                # set_box_color(bpr, BF_COL)
 
-    if boxplot_labels:        # If we have some data to plot (otherwise, = [], which acts as False)
-        # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
-        bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
-        bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
-        set_box_color(bpl, '#D7191C') # colors are from http://colorbrewer2.org/
-        set_box_color(bpr, '#2C7BB6')
+                # # draw temporary red and blue lines and use them to create a legend
+                # plt.plot([], c=MONO_COL, label='Monophonic')
+                # plt.plot([], c=BF_COL, label='Beamformed')
+                # leg = plt.legend(fontsize=20)
+                # leg.get_lines()[0].set_linewidth(5)
+                # leg.get_lines()[1].set_linewidth(5)
 
-        # draw temporary red and blue lines and use them to create a legend
-        plt.plot([], c='#D7191C', label='Mono-channel')
-        plt.plot([], c='#2C7BB6', label='Beamformed')
-        plt.legend()
+                # plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
+                # plt.xlim(-2, len(boxplot_labels)*2)
+                # plt.ylim(0.4, 1)
+                # plt.tight_layout()
 
-        plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
-        plt.xlim(-2, len(boxplot_labels)*2)
-        plt.ylim(0.4, 1)
-        plt.tight_layout()
+                # plot_count = str(int(round(i/5, 0)))
+                # new_filepath = fp_extension_rm + plot_count + ".png"
+                # plt.savefig(new_filepath)
 
-        plt.savefig(file_path)
-        # plt.show()
-    else:
-        print("No boxplot data to plot!")
+                # Reset the plotting data...
+                boxplot_conf_data_mono = []
+                boxplot_conf_data_bf = []
+                boxplot_labels = []
+
+
+                # plt.show()
+
+    if boxplot_labels:        # If we have some remaining data to plot (otherwise, = [], which acts as False)
+        plt_box_compare(boxplot_conf_data_mono, boxplot_conf_data_bf, boxplot_labels, fp_extension_rm, i)
+
+    # if boxplot_labels:        # If we have some data to plot (otherwise, = [], which acts as False)
+    #     # Plot the data - unfortunately, for side-by-side groups, we have to lay it out manually...
+    #     bpl = plt.boxplot(boxplot_conf_data_mono, positions=np.array(range(len(boxplot_conf_data_mono)))*2.0-0.4, sym='', widths=0.6)
+    #     bpr = plt.boxplot(boxplot_conf_data_bf, positions=np.array(range(len(boxplot_conf_data_bf)))*2.0+0.4, sym='', widths=0.6)
+    #     set_box_color(bpl, MONO_COL) # colors are from http://colorbrewer2.org/
+    #     set_box_color(bpr, BF_COL)
+
+    #     # draw temporary red and blue lines and use them to create a legend
+    #     plt.plot([], c=MONO_COL, label='Monophonic')
+    #     plt.plot([], c=BF_COL, label='Beamformed')
+    #     leg = plt.legend(fontsize=20)
+    #     leg.get_lines()[0].set_linewidth(5)
+    #     leg.get_lines()[1].set_linewidth(5)
+
+    #     plt.xticks(range(0, len(boxplot_labels) * 2, 2), boxplot_labels)
+    #     plt.xlim(-2, len(boxplot_labels)*2)
+    #     plt.ylim(0.4, 1)
+    #     plt.tight_layout()
+
+    #     plt.savefig(file_path)
+    #     # plt.show()
+    # else:
+    #     print("No boxplot data to plot!")
 
 
 def get_unique_species(arr):
